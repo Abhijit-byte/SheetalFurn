@@ -1962,8 +1962,8 @@ const productData = {
     "butterfly-hb": {
       "name": "Butterfly hb",
       "images": [
-        "products/Seating/Executive Chairs/Butterfly hb/IMG_4331.png",
         "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg",
+        "products/Seating/Executive Chairs/Butterfly hb/IMG_4331.png",
         "products/Seating/Executive Chairs/Butterfly hb/IMG_4333.jpeg",
         "products/Seating/Executive Chairs/Butterfly hb/IMG_4334.jpeg",
         "products/Seating/Executive Chairs/Butterfly hb/IMG_4335.jpeg",
