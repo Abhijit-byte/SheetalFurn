@@ -187,7 +187,8 @@ header.fixed-header:not(.scrolled):not(.inner-header) {
 }
 
 header.fixed-header:not(.scrolled):not(.inner-header) .logo-text,
-header.fixed-header:not(.scrolled):not(.inner-header) .nav-links a,
+header.fixed-header:not(.scrolled):not(.inner-header) .nav-links > a,
+header.fixed-header:not(.scrolled):not(.inner-header) .nav-links > .nav-item > a,
 header.fixed-header:not(.scrolled):not(.inner-header) .icon-btn,
 header.fixed-header:not(.scrolled):not(.inner-header) .mobile-menu-trigger {
   color: #ffffff;
@@ -1955,13 +1956,15 @@ header.fixed-header.inner-header {
 }
 
 .mega-column a {
-  color: #666;
+  color: #475569 !important;
   font-size: 14px;
-  transition: .2s;
+  text-transform: none;
+  font-weight: 500;
+  transition: all .2s ease;
 }
 
 .mega-column a:hover {
-  color: #162b3c;
+  color: #162b3c !important;
   transform: translateX(4px);
 }
 
