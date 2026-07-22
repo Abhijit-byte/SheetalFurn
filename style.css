@@ -2666,7 +2666,7 @@ body.slideshow-active .about-section .container {
   min-height: 460px;
   max-height: 750px;
   overflow: hidden;
-  background-color: #f7f7f7;
+  background: radial-gradient(circle at 50% 40%, #ffffff 0%, #f4f5f7 100%);
   margin-top: 60px;
 }
 
@@ -2697,7 +2697,8 @@ body.slideshow-active .about-section .container {
   height: auto;
   object-fit: contain;
   display: block;
-  filter: drop-shadow(0 15px 35px rgba(0, 0, 0, 0.12));
+  mix-blend-mode: multiply;
+  filter: contrast(1.02);
   transition: transform 0.4s ease;
 }
 
@@ -2710,14 +2711,14 @@ body.slideshow-active .about-section .container {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 45%;
-  background: linear-gradient(to top, rgba(22, 43, 60, 0.88) 0%, rgba(22, 43, 60, 0.35) 60%, transparent 100%);
+  height: 40%;
+  background: linear-gradient(to top, rgba(244, 245, 247, 0.95) 0%, rgba(244, 245, 247, 0.4) 60%, transparent 100%);
   pointer-events: none;
 }
 
 .hero-carousel-info {
   position: absolute;
-  bottom: 3rem;
+  bottom: 2.5rem;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
@@ -2726,18 +2727,18 @@ body.slideshow-active .about-section .container {
 
 .hero-carousel-info h1 {
   font-family: var(--font-heading);
-  font-size: clamp(3rem, 8vw, 6rem);
-  font-weight: 700;
-  color: #fff;
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 800;
+  color: #162b3c;
   line-height: 1;
   letter-spacing: -0.02em;
 }
 
 .hero-carousel-info .hero-count {
   font-family: var(--font-heading);
-  font-size: clamp(1rem, 2.5vw, 1.5rem);
-  font-weight: 400;
-  color: rgba(255, 255, 255, 0.8);
+  font-size: clamp(1rem, 2.5vw, 1.35rem);
+  font-weight: 500;
+  color: #64748b;
   margin-left: 0.5rem;
   vertical-align: super;
 }
@@ -2755,7 +2756,7 @@ body.slideshow-active .about-section .container {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  border: 2px solid rgba(255, 255, 255, 0.6);
+  border: 2px solid #162b3c;
   background: transparent;
   cursor: pointer;
   transition: background-color 0.3s, border-color 0.3s;
@@ -2763,12 +2764,12 @@ body.slideshow-active .about-section .container {
 }
 
 .hero-carousel-dot.active {
-  background-color: #fff;
-  border-color: #fff;
+  background-color: #162b3c;
+  border-color: #162b3c;
 }
 
 .hero-carousel-dot:hover {
-  border-color: #fff;
+  border-color: #162b3c;
 }
 
 @media (max-width: 768px) {
