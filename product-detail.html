@@ -301,7 +301,8 @@
               </svg>
               <span id="toggle-3d-text">3D View</span>
             </button>
-            <div id="canvas-3d" style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; cursor: grab; z-index: 2; display: none;"></div>
+            <div id="canvas-3d" style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; cursor: grab; z-index: 3; display: none;"></div>
+            <div id="configurator-color-overlay" style="position: absolute; inset: 0; pointer-events: none; mix-blend-mode: color; opacity: 0; transition: opacity 0.3s ease, background-color 0.3s ease; z-index: 2;"></div>
             <img id="configurator-preview-img" src="" alt="Configured product image" style="display: block; max-width: 90%; max-height: 90%; object-fit: contain; z-index: 1; transition: opacity 0.2s ease;">
           </div>
 
@@ -747,8 +748,16 @@
       });
       if (product.finishes.length > 0) {
         document.getElementById('active-finish-name').innerText = product.finishes[0].name;
-        // Setup initial default image in the configurator
-        document.getElementById('configurator-preview-img').src = product.finishes[0].image || product.images[0];
+        const initialImg = product.finishes[0].image || product.images[0];
+        const previewImgEl = document.getElementById('configurator-preview-img');
+        previewImgEl.src = initialImg;
+        previewImgEl.dataset.baseSrc = product.images[0];
+
+        const overlay = document.getElementById('configurator-color-overlay');
+        if (overlay && product.finishes[0].color) {
+          overlay.style.backgroundColor = product.finishes[0].color;
+          overlay.style.opacity = '0.55';
+        }
       }
 
       // Toggle between 2D Photo View and 3D WebGL Configurator
@@ -892,19 +901,31 @@
       // Update finish name indicator
       document.getElementById('active-finish-name').innerText = finishName;
 
-      // Update 3D Model primary material color
-      if (mainMaterial) {
+      // Update 3D Model primary material color dynamically
+      if (mainMaterial && colorHex) {
         mainMaterial.color.set(colorHex);
       }
 
-      // Update preview image with fade effect
+      // Update preview image & color overlay for 2D mode
       const previewImg = document.getElementById('configurator-preview-img');
+      const overlay = document.getElementById('configurator-color-overlay');
+
       previewImg.style.opacity = '0';
-      
+
       setTimeout(() => {
-        previewImg.src = imageSrc;
+        const baseImg = previewImg.dataset.baseSrc || previewImg.src;
+        if (imageSrc && imageSrc !== 'undefined' && imageSrc !== baseImg) {
+          previewImg.src = imageSrc;
+          if (overlay) overlay.style.opacity = '0';
+        } else {
+          // Dynamic color tint on 2D chair photo
+          if (overlay && colorHex) {
+            overlay.style.backgroundColor = colorHex;
+            overlay.style.opacity = '0.55';
+          }
+        }
         previewImg.style.opacity = '1';
-      }, 200);
+      }, 150);
     }
 
     // Related products scroller
