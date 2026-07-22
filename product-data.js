@@ -2119,33 +2119,33 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-black.png",
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg",
           "isOriginal": true
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-brown.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-green.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-grey.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Alpine Navy - 400",
           "color": "#1C344A",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-blue.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-red.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         }
       ]
     },
@@ -7419,7 +7419,9 @@ const productData = {
     "staff-table-3": {
       "name": "Staff Table 3",
       "images": [
-        "products/Education/Staff tables/IMG_4020.jpeg"
+        "products/Education/Staff tables/IMG_4020.jpeg",
+        "products/Education/Staff tables/IMG_4021.jpeg",
+        "products/Education/Staff tables/IMG_4022.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Staff Table 3 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7448,106 +7450,6 @@ const productData = {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
           "image": "products/Education/Staff tables/IMG_4020.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Staff tables/IMG_4020.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Staff tables/IMG_4020.jpeg"
-        }
-      ]
-    },
-    "staff-table-4": {
-      "name": "Staff Table 4",
-      "images": [
-        "products/Education/Staff tables/IMG_4021.jpeg"
-      ],
-      "dimensions": "Standard Dimensions",
-      "description": "A sleek, premium Staff Table 4 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
-      "specifications": {
-        "Frame/Structure": "High-tensile strength construction with premium architectural coating",
-        "Upholstery/Finish": "Premium contract-grade finishes built for durability",
-        "Ergonomics": "Contoured profiles, premium dynamic support adjustments",
-        "Warranty & Support": "Sheetal Furnitures Guarantee and cooperation options"
-      },
-      "materials": {
-        "Base": "Premium quality components / structural support bases",
-        "Cladding & Finishes": "Highly durable textures, BIFMA certified hardware"
-      },
-      "finishes": [
-        {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
-        }
-      ]
-    },
-    "staff-table-5": {
-      "name": "Staff Table 5",
-      "images": [
-        "products/Education/Staff tables/IMG_4022.jpeg"
-      ],
-      "dimensions": "Standard Dimensions",
-      "description": "A sleek, premium Staff Table 5 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
-      "specifications": {
-        "Frame/Structure": "High-tensile strength construction with premium architectural coating",
-        "Upholstery/Finish": "Premium contract-grade finishes built for durability",
-        "Ergonomics": "Contoured profiles, premium dynamic support adjustments",
-        "Warranty & Support": "Sheetal Furnitures Guarantee and cooperation options"
-      },
-      "materials": {
-        "Base": "Premium quality components / structural support bases",
-        "Cladding & Finishes": "Highly durable textures, BIFMA certified hardware"
-      },
-      "finishes": [
-        {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
         }
       ]
     }

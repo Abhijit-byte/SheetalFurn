@@ -787,10 +787,10 @@
         `;
       });
 
-      // Default initial view for Configurator: 1st finish color photo (comfy-black.png)
+      // Default initial view for Configurator: product's own cover image
       document.getElementById('active-finish-name').innerText = finishesList[0].name;
       const previewImgEl = document.getElementById('configurator-preview-img');
-      const initialConfiguratorImg = (finishesList && finishesList[0] && finishesList[0].image) ? finishesList[0].image : (product.images && product.images.length > 0 ? product.images[0] : previewImgEl.src);
+      const initialConfiguratorImg = (product.images && product.images.length > 0) ? product.images[0] : ((finishesList && finishesList[0] && finishesList[0].image) ? finishesList[0].image : '');
       previewImgEl.src = initialConfiguratorImg;
       previewImgEl.dataset.baseSrc = initialConfiguratorImg;
       previewImgEl.style.filter = 'none';
