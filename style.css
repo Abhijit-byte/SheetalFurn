@@ -2895,17 +2895,18 @@ body.slideshow-active .about-section .container {
 }
 
 /* Image scaling for large cards inside mixed rows to cover their areas */
-.product-grid>.product-card:nth-child(12n + 5) .product-image-container,
-.product-grid>.product-card:nth-child(12n + 12) .product-image-container {
+.product-grid > .product-card:nth-child(12n + 5) .product-image-container,
+.product-grid > .product-card:nth-child(12n + 12) .product-image-container {
   aspect-ratio: auto;
   flex-grow: 1;
   min-height: 480px;
+  padding: 0 !important;
 }
 
-.product-grid>.product-card:nth-child(12n + 5) .product-image-scroller,
-.product-grid>.product-card:nth-child(12n + 5) .product-image,
-.product-grid>.product-card:nth-child(12n + 12) .product-image-scroller,
-.product-grid>.product-card:nth-child(12n + 12) .product-image {
+.product-grid > .product-card:nth-child(12n + 5) .product-image-scroller,
+.product-grid > .product-card:nth-child(12n + 5) .product-image,
+.product-grid > .product-card:nth-child(12n + 12) .product-image-scroller,
+.product-grid > .product-card:nth-child(12n + 12) .product-image {
   height: 100%;
   width: 100%;
   object-fit: cover;
@@ -3037,8 +3038,7 @@ body.slideshow-active .about-section .container {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0;
-  /* Set to 0 so photos fill the entire container without showing borders */
+  padding: 2.25rem 2rem 2.5rem;
   overflow: hidden;
   border-radius: 4px;
 }
