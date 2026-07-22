@@ -1,4 +1,4 @@
-const productData = {
+﻿const productData = {
   "almirah-lockers": {
     "almirah-locker-1": {
       "name": "Almirah & Locker 1",
@@ -2496,34 +2496,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-black.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-brown.png"
+          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-green.png"
+          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-grey.png"
+          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-navy.png"
+          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-maroon.png"
+          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
         }
       ]
     },
@@ -2549,34 +2544,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-black.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-brown.png"
+          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-green.png"
+          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-grey.png"
+          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-navy.png"
+          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-maroon.png"
+          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         }
       ]
     },
@@ -2602,34 +2592,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Tan (Original)",
-          "color": "#D2A268",
-          "image": "products/Seating/Executive Chairs/Mars/mars-tan.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Mars/mars-brown.png"
+          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mars/mars-green.png"
+          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mars/mars-grey.png"
+          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mars/mars-navy.png"
+          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mars/mars-maroon.png"
+          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         }
       ]
     },
@@ -2662,34 +2647,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-black.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-brown.png"
+          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-green.png"
+          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-grey.png"
+          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-navy.png"
+          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-maroon.png"
+          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         }
       ]
     },
@@ -2715,34 +2695,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-black.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-brown.png"
+          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-green.png"
+          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-grey.png"
+          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-navy.png"
+          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-maroon.png"
+          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         }
       ]
     },
@@ -2771,34 +2746,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Executive Chairs/Mystic/mystic-black.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Mystic/mystic-brown.png"
+          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mystic/mystic-green.png"
+          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mystic/mystic-grey.png"
+          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mystic/mystic-navy.png"
+          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mystic/mystic-maroon.png"
+          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         }
       ]
     },
@@ -2825,34 +2795,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Executive Chairs/Nova/nova-black.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Nova/nova-brown.png"
+          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Nova/nova-green.png"
+          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Nova/nova-grey.png"
+          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Nova/nova-navy.png"
+          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Nova/nova-maroon.png"
+          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         }
       ]
     },
@@ -2892,32 +2857,27 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-black.png"
+          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+        },
+        {
+          "name": "Forest - 602",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+        },
+        {
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-brown.png"
+          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
-          "name": "Forest (Green)",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-green.png"
-        },
-        {
-          "name": "Gravel (Grey)",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-grey.png"
-        },
-        {
-          "name": "Midnight (Navy Blue)",
-          "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-navy.png"
-        },
-        {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-maroon.png"
+          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         }
       ]
     },
@@ -2944,34 +2904,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black",
-          "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Orbit/orbit-black.png"
-        },
-        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Orbit/orbit-brown.png"
+          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Orbit/orbit-green.png"
+          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Orbit/orbit-grey.png"
+          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Orbit/orbit-navy.png"
+          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Orbit/orbit-maroon.png"
+          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         }
       ]
     },
@@ -2998,34 +2953,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-black.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-brown.png"
+          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-green.png"
+          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-grey.png"
+          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-navy.png"
+          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-maroon.png"
+          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         }
       ]
     },
@@ -3051,34 +3001,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-black.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-brown.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-green.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-grey.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-navy.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-maroon.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         }
       ]
     },
@@ -3108,32 +3053,27 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-black.png"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+        },
+        {
+          "name": "Forest - 602",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+        },
+        {
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-brown.png"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
-          "name": "Forest (Green)",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-green.png"
-        },
-        {
-          "name": "Gravel (Grey)",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-grey.png"
-        },
-        {
-          "name": "Midnight (Navy Blue)",
-          "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-navy.png"
-        },
-        {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-maroon.png"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         }
       ]
     },
@@ -3160,34 +3100,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black",
-          "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-black.png"
-        },
-        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-brown.png"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-green.png"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-grey.png"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-navy.png"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-maroon.png"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         }
       ]
     },
@@ -3215,32 +3150,27 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-black.png"
+          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+        },
+        {
+          "name": "Forest - 602",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+        },
+        {
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-brown.png"
+          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         },
         {
-          "name": "Forest (Green)",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-green.png"
-        },
-        {
-          "name": "Gravel (Grey)",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-grey.png"
-        },
-        {
-          "name": "Midnight (Navy Blue)",
-          "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-navy.png"
-        },
-        {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-maroon.png"
+          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         }
       ]
     },
@@ -3279,32 +3209,27 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-black.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+        },
+        {
+          "name": "Forest - 602",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+        },
+        {
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-brown.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
-          "name": "Forest (Green)",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-green.png"
-        },
-        {
-          "name": "Gravel (Grey)",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-grey.png"
-        },
-        {
-          "name": "Midnight (Navy Blue)",
-          "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-navy.png"
-        },
-        {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-maroon.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         }
       ]
     },
@@ -3335,34 +3260,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-brown.png"
-        },
-        {
-          "name": "Forest (Green)",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-green.png"
-        },
-        {
-          "name": "Gravel (Grey)",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-grey.png"
-        },
-        {
-          "name": "Midnight (Navy Blue)",
-          "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-navy.png"
-        },
-        {
-          "name": "Classic Black",
+          "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-black.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Forest - 602",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+        },
+        {
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+        },
+        {
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+        },
+        {
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-maroon.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         }
       ]
     },
@@ -3392,32 +3312,27 @@ const productData = {
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Tucson/tucson-brown.png"
+          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
-          "name": "Forest (Green)",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Tucson/tucson-green.png"
+          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
-          "name": "Gravel (Grey)",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Tucson/tucson-grey.png"
+          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
-          "name": "Midnight (Navy Blue)",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Tucson/tucson-navy.png"
+          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
-          "name": "Classic Black",
-          "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Tucson/tucson-black.png"
-        },
-        {
-          "name": "Crimson (Maroon)",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Tucson/tucson-maroon.png"
+          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         }
       ]
     },
@@ -3447,34 +3362,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Desert (Tan)",
-          "color": "#D2B48C",
-          "image": "products/Seating/Executive Chairs/Wave/wave-tan.png"
-        },
-        {
-          "name": "Forest (Green)",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Wave/wave-green.png"
-        },
-        {
-          "name": "Gravel (Grey)",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Wave/wave-grey.png"
-        },
-        {
-          "name": "Midnight (Navy Blue)",
-          "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Wave/wave-navy.png"
-        },
-        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Wave/wave-brown.png"
+          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         },
         {
-          "name": "Crimson (Maroon)",
+          "name": "Forest - 602",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+        },
+        {
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+        },
+        {
+          "name": "Midnight - 120",
+          "color": "#2D3E50",
+          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+        },
+        {
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Wave/wave-maroon.png"
+          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         }
       ]
     }

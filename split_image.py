@@ -1,34 +1,55 @@
-from PIL import Image
+from PIL import Image, ImageChops
 import os
+import numpy as np
 
-source_path = r"C:\Users\tunak\.gemini\antigravity\brain\7184298e-f847-4866-8df9-f22812dcd9c2\.user_uploaded\media__1784741870893.png"
-dest_dir = r"e:\desk\Sheetal\SheetalFurn\products\Seating\Executive Chairs\Indigo"
+source_path = r"C:\Users\tunak\.gemini\antigravity\brain\7184298e-f847-4866-8df9-f22812dcd9c2\.user_uploaded\media__1784747598444.jpg"
+dest_dir = r"e:\desk\Sheetal\SheetalFurn\products\Seating\Executive Chairs\Wave"
 
-if not os.path.exists(dest_dir):
-    os.makedirs(dest_dir)
+os.makedirs(dest_dir, exist_ok=True)
 
-im = Image.open(source_path)
-width, height = im.size
+img = Image.open(source_path)
+width, height = img.size
+
+if img.mode == 'RGBA':
+    img = img.convert('RGB')
+    
+data = np.array(img.convert('L'))
+mid_start = int(height * 0.4)
+mid_end = int(height * 0.6)
+row_brightness = data[mid_start:mid_end, :].mean(axis=1)
+row_split = mid_start + np.argmax(row_brightness)
 
 col_width = width // 3
-row_height = height // 2
+colors = ["tan", "green", "grey", "navy", "brown", "maroon"]
 
-colors = [
-    ["black", "brown", "green"],
-    ["grey", "navy", "crimson"]
-]
-
-for row in range(2):
-    for col in range(3):
-        left = col * col_width
-        upper = row * row_height
-        right = left + col_width
-        lower = upper + row_height
+for i, color in enumerate(colors):
+    row = i // 3
+    col = i % 3
+    
+    left = col * col_width
+    right = left + col_width
+    
+    if row == 0:
+        upper = 0
+        lower = row_split
+    else:
+        upper = row_split
+        lower = height
         
-        box = (left, upper, right, lower)
-        cropped_im = im.crop(box)
+    cropped_img = img.crop((left, upper, right, lower))
+    
+    bg_color = cropped_img.getpixel((5, 5))
+    
+    bg = Image.new("RGB", cropped_img.size, bg_color)
+    diff = ImageChops.difference(cropped_img.convert("RGB"), bg)
+    diff = diff.convert("L").point(lambda x: 255 if x > 15 else 0)
+    bbox = diff.getbbox()
+    
+    if bbox:
+        # Pad slightly
+        p = 20
+        bbox = (max(0, bbox[0]-p), max(0, bbox[1]-p), min(cropped_img.width, bbox[2]+p), min(cropped_img.height, bbox[3]+p))
+        cropped_img = cropped_img.crop(bbox)
         
-        color_name = colors[row][col]
-        dest_path = os.path.join(dest_dir, f"indigo-{color_name}.png")
-        cropped_im.save(dest_path)
-        print(f"Saved {dest_path}")
+    cropped_img.save(os.path.join(dest_dir, f"wave-{color}.png"), "PNG")
+    print(f"Saved wave-{color}.png with bbox {bbox}")
