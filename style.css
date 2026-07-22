@@ -2822,13 +2822,30 @@ body.slideshow-active .about-section .container {
   display: none !important;
 }
 
-/* Balanced 12-column grid layout:
-   Standard rows contain 2 equal 6-span cards filling full width cleanly.
-   Every 5th/6th and 11th/12th item create dynamic featured showcase rows. */
+/* Alternating masonry grid:
+   Row 1: Left aligned (Card 1 & Card 2 in columns 1..4 and 5..8)
+   Row 2: Right aligned (Card 3 & Card 4 in columns 5..8 and 9..12)
+   Row 3 & 4: Mixed Featured row (Card 5 & Card 6)
+   Row 5: Left aligned (Card 7 & Card 8)
+   Row 6: Right aligned (Card 9 & Card 10)
+   Row 7 & 8: Mixed Featured row (Card 11 & Card 12) */
 
-/* Standard 2-card rows default to span 6 */
-.product-grid > .product-card {
-  grid-column: span 6;
+/* Row 1 (Standard Left): Card 1 and Card 2 */
+.product-grid > .product-card:nth-child(12n + 1) {
+  grid-column: 1 / span 4;
+}
+
+.product-grid > .product-card:nth-child(12n + 2) {
+  grid-column: 5 / span 4;
+}
+
+/* Row 2 (Standard Right): Card 3 and Card 4 */
+.product-grid > .product-card:nth-child(12n + 3) {
+  grid-column: 5 / span 4;
+}
+
+.product-grid > .product-card:nth-child(12n + 4) {
+  grid-column: 9 / span 4;
 }
 
 /* Row 3 & 4 (Featured Left Big, Right Small): Card 5 and Card 6 */
@@ -2840,6 +2857,24 @@ body.slideshow-active .about-section .container {
 .product-grid > .product-card:nth-child(12n + 6) {
   grid-column: 9 / span 4;
   grid-row: span 2;
+}
+
+/* Row 5 (Standard Left): Card 7 and Card 8 */
+.product-grid > .product-card:nth-child(12n + 7) {
+  grid-column: 1 / span 4;
+}
+
+.product-grid > .product-card:nth-child(12n + 8) {
+  grid-column: 5 / span 4;
+}
+
+/* Row 6 (Standard Right): Card 9 and Card 10 */
+.product-grid > .product-card:nth-child(12n + 9) {
+  grid-column: 5 / span 4;
+}
+
+.product-grid > .product-card:nth-child(12n + 10) {
+  grid-column: 9 / span 4;
 }
 
 /* Row 7 & 8 (Featured Left Small, Right Big): Card 11 and Card 12 */
