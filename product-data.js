@@ -3483,8 +3483,8 @@ const productData = {
     "enrich-executive": {
       "name": "Enrich executive",
       "images": [
-        "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png",
         "products/Woodwork/Executive tables/Enrich executive/IMG_3700.png",
+        "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png",
         "products/Woodwork/Executive tables/Enrich executive/IMG_3701.png"
       ],
       "dimensions": "Standard Dimensions",
@@ -6381,8 +6381,8 @@ const productData = {
     "signature-presidential-table": {
       "name": "Signature presidential table",
       "images": [
-        "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg",
         "products/Woodwork/Presidential tables/Signature presidential table/IMG_0058.jpeg",
+        "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg",
         "products/Woodwork/Presidential tables/Signature presidential table/IMG_0059.jpeg",
         "products/Woodwork/Presidential tables/Signature presidential table/IMG_1678.jpeg",
         "products/Woodwork/Presidential tables/Signature presidential table/IMG_2333.jpeg"
@@ -6430,8 +6430,8 @@ const productData = {
     "urbane-presidential-table": {
       "name": "Urbane presidential table",
       "images": [
-        "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg",
         "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1945.jpeg",
+        "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg",
         "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1947.jpeg",
         "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1948.jpeg",
         "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1949.jpeg"
@@ -6888,8 +6888,8 @@ const productData = {
     "harmony": {
       "name": "Harmony",
       "images": [
-        "products/Woodwork/Reception tables/Harmony/IMG_3656.png",
         "products/Woodwork/Reception tables/Harmony/IMG_3657.png",
+        "products/Woodwork/Reception tables/Harmony/IMG_3656.png",
         "products/Woodwork/Reception tables/Harmony/IMG_3658.png",
         "products/Woodwork/Reception tables/Harmony/IMG_3659.png"
       ],
@@ -6936,9 +6936,9 @@ const productData = {
     "horizon": {
       "name": "Horizon",
       "images": [
+        "products/Woodwork/Reception tables/Horizon/IMG_1960.jpeg",
         "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg",
-        "products/Woodwork/Reception tables/Horizon/IMG_1959.jpeg",
-        "products/Woodwork/Reception tables/Horizon/IMG_1960.jpeg"
+        "products/Woodwork/Reception tables/Horizon/IMG_1959.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Horizon designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
