@@ -19,29 +19,34 @@ const productData = {
       },
       "finishes": [
         {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-grey.png"
+        },
+        {
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-green.png"
+        },
+        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-brown.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-tan.png"
         }
       ]
     },
@@ -64,29 +69,34 @@ const productData = {
       },
       "finishes": [
         {
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-white.png"
+        },
+        {
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-green.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-grey.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
+          "color": "#2D3E50",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-navy.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
+          "color": "#8A2B35",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-maroon.png"
+        },
+        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-brown.png"
         }
       ]
     },
@@ -109,29 +119,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-tan.png"
         }
       ]
     },
@@ -154,29 +169,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-tan.png"
         }
       ]
     },
@@ -199,29 +219,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-tan.png"
         }
       ]
     },
@@ -246,27 +271,32 @@ const productData = {
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-tan.png"
         }
       ]
     },

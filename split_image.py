@@ -2,8 +2,8 @@ from PIL import Image, ImageChops
 import os
 import numpy as np
 
-source_path = r"C:\Users\tunak\.gemini\antigravity\brain\7184298e-f847-4866-8df9-f22812dcd9c2\.user_uploaded\media__1784747598444.jpg"
-dest_dir = r"e:\desk\Sheetal\SheetalFurn\products\Seating\Executive Chairs\Wave"
+source_path = r"C:\Users\tunak\.gemini\antigravity\brain\7184298e-f847-4866-8df9-f22812dcd9c2\almirah_6_collage_brown_first_1784750390640.jpg"
+dest_dir = r"e:\desk\Sheetal\SheetalFurn\products\Archiving\Almirah and lockers\Almirah Locker 6"
 
 os.makedirs(dest_dir, exist_ok=True)
 
@@ -20,7 +20,7 @@ row_brightness = data[mid_start:mid_end, :].mean(axis=1)
 row_split = mid_start + np.argmax(row_brightness)
 
 col_width = width // 3
-colors = ["tan", "green", "grey", "navy", "brown", "maroon"]
+colors = ["brown", "green", "grey", "navy", "maroon", "tan"]
 
 for i, color in enumerate(colors):
     row = i // 3
@@ -51,5 +51,5 @@ for i, color in enumerate(colors):
         bbox = (max(0, bbox[0]-p), max(0, bbox[1]-p), min(cropped_img.width, bbox[2]+p), min(cropped_img.height, bbox[3]+p))
         cropped_img = cropped_img.crop(bbox)
         
-    cropped_img.save(os.path.join(dest_dir, f"wave-{color}.png"), "PNG")
-    print(f"Saved wave-{color}.png with bbox {bbox}")
+    cropped_img.save(os.path.join(dest_dir, f"almirah-6-{color}.png"), "PNG")
+    print(f"Saved almirah-6-{color}.png with bbox {bbox}")
