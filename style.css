@@ -686,14 +686,9 @@ header.fixed-header.inner-header {
 .statement-section {
   position: relative;
   padding: 4rem 0 2rem;
-  background-color: #fcfbfb;
+  background-color: #fafafa;
   display: flex;
   justify-content: center;
-  /* Minimal architectural grid background */
-  background-image:
-    linear-gradient(to right, rgba(22, 43, 60, 0.03) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(22, 43, 60, 0.03) 1px, transparent 1px);
-  background-size: 80px 80px;
 }
 
 .statement-section .container {
@@ -709,7 +704,7 @@ header.fixed-header.inner-header {
   position: relative;
   text-align: center;
   padding: 4rem 0;
-  background-color: #fcfbfb;
+  background-color: #fafafa;
   display: flex;
   justify-content: center;
 }
@@ -1983,16 +1978,12 @@ header.fixed-header.inner-header {
 
 /* --- Offerings Section --- */
 .offerings-section {
-  background-color: #fcfbfb;
+  background-color: #fafafa;
   padding: 3.5rem 0;
   overflow: hidden;
   border-top: none;
   border-bottom: none;
   margin-top: 0 !important;
-  background-image:
-    linear-gradient(to right, rgba(22, 43, 60, 0.03) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(22, 43, 60, 0.03) 1px, transparent 1px);
-  background-size: 80px 80px;
 }
 
 .offerings-header {
