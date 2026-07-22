@@ -686,7 +686,7 @@ header.fixed-header.inner-header {
 .statement-section {
   position: relative;
   padding: 4rem 0 2rem;
-  background-color: #fdf8eb;
+  background-color: #fcfbfb;
   display: flex;
   justify-content: center;
   /* Minimal architectural grid background */
@@ -709,7 +709,7 @@ header.fixed-header.inner-header {
   position: relative;
   text-align: center;
   padding: 4rem 0;
-  background-color: #fdf8eb;
+  background-color: #fcfbfb;
   display: flex;
   justify-content: center;
 }
