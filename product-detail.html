@@ -890,12 +890,90 @@
       });
     }
 
-    // High-Precision GPU Filter Engine for 2D Real Product Photos
+    // Selective Leather Pixel Recoloring Engine (Protects Background, Chrome Handles & Wheels)
+    function recolorLeatherOnly(imgEl, hexColor) {
+      if (!imgEl || !hexColor) return;
+
+      const baseSrc = imgEl.dataset.baseSrc || imgEl.src;
+      const img = new Image();
+      img.crossOrigin = 'Anonymous';
+      img.src = baseSrc;
+
+      img.onload = () => {
+        try {
+          const canvas = document.createElement('canvas');
+          const w = img.naturalWidth || img.width || 800;
+          const h = img.naturalHeight || img.height || 800;
+          canvas.width = w;
+          canvas.height = h;
+
+          const ctx = canvas.getContext('2d');
+          ctx.drawImage(img, 0, 0, w, h);
+
+          const imgData = ctx.getImageData(0, 0, w, h);
+          const data = imgData.data;
+
+          let hex = hexColor.replace('#', '');
+          if (hex.length === 3) hex = hex.split('').map(x => x + x).join('');
+          const tr = parseInt(hex.substring(0, 2), 16);
+          const tg = parseInt(hex.substring(2, 4), 16);
+          const tb = parseInt(hex.substring(4, 6), 16);
+
+          for (let i = 0; i < data.length; i += 4) {
+            const r = data[i];
+            const g = data[i + 1];
+            const b = data[i + 2];
+            const a = data[i + 3];
+
+            if (a < 10) continue;
+
+            // 1. Background protection: Force clean pure white background
+            if (r > 205 && g > 205 && b > 205) {
+              data[i] = 255;
+              data[i + 1] = 255;
+              data[i + 2] = 255;
+              continue;
+            }
+
+            // 2. Chrome / Silver Metal handles & wheel base protection
+            const maxDiff = Math.max(Math.abs(r - g), Math.abs(g - b), Math.abs(r - b));
+            const lum = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+
+            const isChromeMetal = (maxDiff < 16 && (lum > 0.38 || (r > 120 && g > 120 && b > 120)));
+            const isBlackCaster = (maxDiff < 10 && lum < 0.18);
+
+            if (isChromeMetal || isBlackCaster) {
+              // Leave chrome metal handles, arms, base and wheels 100% original!
+              continue;
+            }
+
+            // 3. Recolor leather cushion, backrest & arm pads ONLY:
+            const normLum = Math.min(1.0, Math.max(0.05, lum));
+            const factor = normLum < 0.5 ? (normLum * 1.5) : (0.75 + (normLum - 0.5) * 0.7);
+
+            data[i]     = Math.min(255, Math.round(tr * factor));
+            data[i + 1] = Math.min(255, Math.round(tg * factor));
+            data[i + 2] = Math.min(255, Math.round(tb * factor));
+          }
+
+          ctx.putImageData(imgData, 0, 0);
+          imgEl.src = canvas.toDataURL('image/png');
+          imgEl.style.filter = 'none';
+        } catch (e) {
+          imgEl.style.filter = getColorCssFilter(hexColor);
+        }
+      };
+
+      img.onerror = () => {
+        imgEl.style.filter = getColorCssFilter(hexColor);
+      };
+    }
+
+    // Fallback GPU Filter Engine for 2D Real Product Photos
     function getColorCssFilter(hexColor) {
       if (!hexColor) return 'none';
 
       const hexUpper = hexColor.toUpperCase();
-      // Preset high-accuracy filters for standard Sheetal Furnitures finishes
       if (hexUpper === '#1C344A') return 'sepia(100%) hue-rotate(170deg) saturate(220%) brightness(55%) contrast(110%)';
       if (hexUpper === '#507D67') return 'sepia(100%) hue-rotate(95deg) saturate(180%) brightness(85%) contrast(100%)';
       if (hexUpper === '#A3A3A3') return 'grayscale(100%) brightness(115%) contrast(95%)';
@@ -961,12 +1039,8 @@
       previewImg.style.opacity = '0';
 
       setTimeout(() => {
-        const baseImg = previewImg.dataset.baseSrc || previewImg.src;
-        previewImg.src = baseImg;
-
-        // Apply instant GPU color filter for real photo view
         if (colorHex) {
-          previewImg.style.filter = getColorCssFilter(colorHex);
+          recolorLeatherOnly(previewImg, colorHex);
         } else {
           previewImg.style.filter = 'none';
         }
