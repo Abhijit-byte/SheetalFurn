@@ -2803,10 +2803,16 @@ body.slideshow-active .about-section .container {
   margin-bottom: 1rem;
 }
 
+.product-page-content .container {
+  max-width: 1600px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
 .product-grid {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  gap: 4rem 3rem;
+  gap: 4rem 2.5rem;
   padding: 40px 0 80px;
   width: 100%;
 }
@@ -2823,29 +2829,29 @@ body.slideshow-active .about-section .container {
 }
 
 /* Alternating masonry grid:
-   Row 1: 2 cards towards LEFT (Card 1 & Card 2 in columns 1..4 and 5..8)
-   Row 2: 2 cards towards RIGHT (Card 3 & Card 4 in columns 5..8 and 9..12)
+   Row 1: 2 cards flush to LEFT margin (Card 1 & Card 2 in columns 1..5 and 6..10)
+   Row 2: 2 cards flush to RIGHT margin (Card 3 & Card 4 in columns 3..7 and 8..12)
    Row 3 & 4: Mixed Featured row (Card 5 & Card 6)
-   Row 5: 2 cards towards LEFT (Card 7 & Card 8 in columns 1..4 and 5..8)
-   Row 6: 2 cards towards RIGHT (Card 9 & Card 10 in columns 5..8 and 9..12)
+   Row 5: 2 cards flush to LEFT margin (Card 7 & Card 8 in columns 1..5 and 6..10)
+   Row 6: 2 cards flush to RIGHT margin (Card 9 & Card 10 in columns 3..7 and 8..12)
    Row 7 & 8: Mixed Featured row (Card 11 & Card 12) */
 
-/* Row 1 (Standard Left): Card 1 and Card 2 towards LEFT */
+/* Row 1 (Standard Left): Card 1 and Card 2 flush to LEFT margin */
 .product-grid > .product-card:nth-child(12n + 1) {
-  grid-column: 1 / span 4 !important;
+  grid-column: 1 / span 5 !important;
 }
 
 .product-grid > .product-card:nth-child(12n + 2) {
-  grid-column: 5 / span 4 !important;
+  grid-column: 6 / span 5 !important;
 }
 
-/* Row 2 (Standard Right): Card 3 and Card 4 towards RIGHT */
+/* Row 2 (Standard Right): Card 3 and Card 4 flush to RIGHT margin */
 .product-grid > .product-card:nth-child(12n + 3) {
-  grid-column: 5 / span 4 !important;
+  grid-column: 3 / span 5 !important;
 }
 
 .product-grid > .product-card:nth-child(12n + 4) {
-  grid-column: 9 / span 4 !important;
+  grid-column: 8 / span 5 !important;
 }
 
 /* Row 3 & 4 (Featured Left Big, Right Small): Card 5 and Card 6 */
@@ -2859,22 +2865,22 @@ body.slideshow-active .about-section .container {
   grid-row: span 2 !important;
 }
 
-/* Row 5 (Standard Left): Card 7 and Card 8 towards LEFT */
+/* Row 5 (Standard Left): Card 7 and Card 8 flush to LEFT margin */
 .product-grid > .product-card:nth-child(12n + 7) {
-  grid-column: 1 / span 4 !important;
+  grid-column: 1 / span 5 !important;
 }
 
 .product-grid > .product-card:nth-child(12n + 8) {
-  grid-column: 5 / span 4 !important;
+  grid-column: 6 / span 5 !important;
 }
 
-/* Row 6 (Standard Right): Card 9 and Card 10 towards RIGHT */
+/* Row 6 (Standard Right): Card 9 and Card 10 flush to RIGHT margin */
 .product-grid > .product-card:nth-child(12n + 9) {
-  grid-column: 5 / span 4 !important;
+  grid-column: 3 / span 5 !important;
 }
 
 .product-grid > .product-card:nth-child(12n + 10) {
-  grid-column: 9 / span 4 !important;
+  grid-column: 8 / span 5 !important;
 }
 
 /* Row 7 & 8 (Featured Left Small, Right Big): Card 11 and Card 12 */
