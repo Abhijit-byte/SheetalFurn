@@ -498,6 +498,15 @@
       } else {
         build3DCabinet(productMeshGroup);
       }
+
+      window.addEventListener('resize', onWindowResize);
+
+      function animate() {
+        requestAnimationFrame(animate);
+        if (controls) controls.update();
+        if (renderer && scene && camera) renderer.render(scene, camera);
+      }
+      animate();
     }
 
     function build3DSofa(group) {
@@ -549,15 +558,6 @@
       floor.position.y = -0.4;
       floor.receiveShadow = true;
       scene.add(floor);
-
-      window.addEventListener('resize', onWindowResize);
-
-      function animate() {
-        requestAnimationFrame(animate);
-        controls.update();
-        renderer.render(scene, camera);
-      }
-      animate();
     }
 
     function build3DChair(group) {
@@ -892,6 +892,44 @@
       });
     }
 
+    // Dynamic SVG Color Tinting Engine for 2D Product Photos
+    function applySvgColorFilter(imgEl, hexColor) {
+      if (!imgEl || !hexColor) return;
+
+      let c = hexColor.replace('#', '');
+      if (c.length === 3) c = c.split('').map(x => x + x).join('');
+      const r = parseInt(c.substring(0, 2), 16) / 255;
+      const g = parseInt(c.substring(2, 4), 16) / 255;
+      const b = parseInt(c.substring(4, 6), 16) / 255;
+
+      let filterSvg = document.getElementById('dynamic-color-filter-svg');
+      if (!filterSvg) {
+        filterSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+        filterSvg.id = 'dynamic-color-filter-svg';
+        filterSvg.style.position = 'absolute';
+        filterSvg.style.width = '0';
+        filterSvg.style.height = '0';
+        filterSvg.style.pointerEvents = 'none';
+        filterSvg.innerHTML = `
+          <filter id="dynamic-recolor-filter" color-interpolation-filters="sRGB">
+            <feColorMatrix id="fe-matrix" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+          </filter>
+        `;
+        document.body.appendChild(filterSvg);
+      }
+
+      const feMatrix = document.getElementById('fe-matrix');
+      if (feMatrix) {
+        feMatrix.setAttribute('values', `
+          ${r * 0.7 + 0.3} ${r * 0.15} ${r * 0.15} 0 0
+          ${g * 0.15} ${g * 0.7 + 0.3} ${g * 0.15} 0 0
+          ${b * 0.15} ${b * 0.15} ${b * 0.7 + 0.3} 0 0
+          0 0 0 1 0
+        `);
+        imgEl.style.filter = 'url(#dynamic-recolor-filter)';
+      }
+    }
+
     // Configurator swatch selection
     function selectFinish(btn, finishName, imageSrc, colorHex) {
       // Update swatch active classes
@@ -906,22 +944,19 @@
         mainMaterial.color.set(colorHex);
       }
 
-      // Update preview image & color overlay for 2D mode
+      // Update preview image & color filter for 2D mode
       const previewImg = document.getElementById('configurator-preview-img');
-      const overlay = document.getElementById('configurator-color-overlay');
-
       previewImg.style.opacity = '0';
 
       setTimeout(() => {
         const baseImg = previewImg.dataset.baseSrc || previewImg.src;
         if (imageSrc && imageSrc !== 'undefined' && imageSrc !== baseImg) {
           previewImg.src = imageSrc;
-          if (overlay) overlay.style.opacity = '0';
+          previewImg.style.filter = 'none';
         } else {
-          // Dynamic color tint on 2D chair photo
-          if (overlay && colorHex) {
-            overlay.style.backgroundColor = colorHex;
-            overlay.style.opacity = '0.55';
+          // Dynamic GPU color tinting on 2D photo
+          if (colorHex) {
+            applySvgColorFilter(previewImg, colorHex);
           }
         }
         previewImg.style.opacity = '1';
