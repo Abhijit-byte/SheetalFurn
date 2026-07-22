@@ -516,6 +516,12 @@ const productData = {
       },
       "finishes": [
         {
+          "name": "Transparent",
+          "color": "rgba(224, 242, 254, 0.85)",
+          "image": "products/Woodwork/Cafe tables/Cafe 1/0EE04ED1-0565-4D34-89CC-57544EA535EC.png",
+          "isOriginal": true
+        },
+        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 1/0EE04ED1-0565-4D34-89CC-57544EA535EC.png"
