@@ -2069,6 +2069,7 @@ const productData = {
     "comfy-hb": {
       "name": "Comfy hb",
       "images": [
+        "products/Seating/Executive Chairs/Comfy hb/comfy-black.png",
         "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg",
         "products/Seating/Executive Chairs/Comfy hb/IMG_3249.jpeg",
         "products/Seating/Executive Chairs/Comfy hb/IMG_3250.jpeg",
@@ -2093,7 +2094,7 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg",
+          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-black.png",
           "isOriginal": true
         },
         {
