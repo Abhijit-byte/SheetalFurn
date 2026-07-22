@@ -748,15 +748,13 @@
       });
       if (product.finishes.length > 0) {
         document.getElementById('active-finish-name').innerText = product.finishes[0].name;
-        const initialImg = product.finishes[0].image || product.images[0];
         const previewImgEl = document.getElementById('configurator-preview-img');
-        previewImgEl.src = initialImg;
-        previewImgEl.dataset.baseSrc = product.images[0];
+        const mainBaseImg = product.images && product.images.length > 0 ? product.images[0] : (product.finishes[0].image || previewImgEl.src);
+        previewImgEl.src = mainBaseImg;
+        previewImgEl.dataset.baseSrc = mainBaseImg;
 
-        const overlay = document.getElementById('configurator-color-overlay');
-        if (overlay && product.finishes[0].color) {
-          overlay.style.backgroundColor = product.finishes[0].color;
-          overlay.style.opacity = '0.55';
+        if (product.finishes[0].color) {
+          previewImgEl.style.filter = getColorCssFilter(product.finishes[0].color);
         }
       }
 
@@ -964,17 +962,15 @@
 
       setTimeout(() => {
         const baseImg = previewImg.dataset.baseSrc || previewImg.src;
-        if (imageSrc && imageSrc !== 'undefined' && imageSrc !== baseImg) {
-          previewImg.src = imageSrc;
-          previewImg.style.filter = 'none';
-          if (overlay) overlay.style.opacity = '0';
+        previewImg.src = baseImg;
+
+        // Apply instant GPU color filter for real photo view
+        if (colorHex) {
+          previewImg.style.filter = getColorCssFilter(colorHex);
         } else {
-          // Instant GPU color filter for real photo view
-          if (colorHex) {
-            previewImg.style.filter = getColorCssFilter(colorHex);
-            if (overlay) overlay.style.opacity = '0';
-          }
+          previewImg.style.filter = 'none';
         }
+        if (overlay) overlay.style.opacity = '0';
         previewImg.style.opacity = '1';
       }, 150);
     }
