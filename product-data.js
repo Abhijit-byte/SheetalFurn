@@ -2039,7 +2039,13 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Gravel Grey (Original)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Cobra/cobra-grey.png",
+          "isOriginal": true
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Cobra/cobra-brown.png"
         },
@@ -2047,11 +2053,6 @@ const productData = {
           "name": "Forest - 602",
           "color": "#507D67",
           "image": "products/Seating/Executive Chairs/Cobra/cobra-green.png"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Cobra/cobra-grey.png"
         },
         {
           "name": "Alpine Navy - 400",
