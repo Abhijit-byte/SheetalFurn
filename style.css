@@ -2822,64 +2822,33 @@ body.slideshow-active .about-section .container {
   display: none !important;
 }
 
-/* Amardeep-inspired masonry grid:
-   Alternates the placement of the large card between Left and Right in a 12-item cycle.
-   Standard rows contain exactly 2 cards, aligned Left in row 1 and Right in row 2. */
+/* Balanced 12-column grid layout:
+   Standard rows contain 2 equal 6-span cards filling full width cleanly.
+   Every 5th/6th and 11th/12th item create dynamic featured showcase rows. */
 
-/* Row 1 (Standard Left): Card 1 and Card 2 */
-.product-grid>.product-card:nth-child(12n + 1) {
-  grid-column: 1 / span 4;
+/* Standard 2-card rows default to span 6 */
+.product-grid > .product-card {
+  grid-column: span 6;
 }
 
-.product-grid>.product-card:nth-child(12n + 2) {
-  grid-column: 5 / span 4;
-}
-
-/* Row 2 (Standard Right): Card 3 and Card 4 */
-.product-grid>.product-card:nth-child(12n + 3) {
-  grid-column: 5 / span 4;
-}
-
-.product-grid>.product-card:nth-child(12n + 4) {
-  grid-column: 9 / span 4;
-}
-
-/* Row 3 & 4 (Mixed Left Big, Right Small): Card 5 and Card 6 */
-.product-grid>.product-card:nth-child(12n + 5) {
+/* Row 3 & 4 (Featured Left Big, Right Small): Card 5 and Card 6 */
+.product-grid > .product-card:nth-child(12n + 5) {
   grid-column: 1 / span 8;
   grid-row: span 2;
 }
 
-.product-grid>.product-card:nth-child(12n + 6) {
+.product-grid > .product-card:nth-child(12n + 6) {
   grid-column: 9 / span 4;
   grid-row: span 2;
 }
 
-/* Row 5 (Standard Left): Card 7 and Card 8 */
-.product-grid>.product-card:nth-child(12n + 7) {
-  grid-column: 1 / span 4;
-}
-
-.product-grid>.product-card:nth-child(12n + 8) {
-  grid-column: 5 / span 4;
-}
-
-/* Row 6 (Standard Right): Card 9 and Card 10 */
-.product-grid>.product-card:nth-child(12n + 9) {
-  grid-column: 5 / span 4;
-}
-
-.product-grid>.product-card:nth-child(12n + 10) {
-  grid-column: 9 / span 4;
-}
-
-/* Row 7 & 8 (Mixed Left Small, Right Big): Card 11 and Card 12 */
-.product-grid>.product-card:nth-child(12n + 11) {
+/* Row 7 & 8 (Featured Left Small, Right Big): Card 11 and Card 12 */
+.product-grid > .product-card:nth-child(12n + 11) {
   grid-column: 1 / span 4;
   grid-row: span 2;
 }
 
-.product-grid>.product-card:nth-child(12n + 12) {
+.product-grid > .product-card:nth-child(12n + 12) {
   grid-column: 5 / span 8;
   grid-row: span 2;
 }
