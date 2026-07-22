@@ -794,7 +794,7 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Cafe tables/Cafe 7/IMG_4035.jpeg"
+          "image": "products/Woodwork/Cafe tables/Cafe 7/cafe-7-forest.png"
         },
         {
           "name": "Gravel - 210",
