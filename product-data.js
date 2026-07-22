@@ -2014,16 +2014,11 @@ const productData = {
     "cobra": {
       "name": "Cobra",
       "images": [
-        "products/Seating/Executive Chairs/Cobra/IMG_2967.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg",
-        "products/Seating/Executive Chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2968.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2969.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2970.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2971.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2972.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_9740.jpeg",
-        "products/Seating/Executive Chairs/Cobra/Untitled design - 2.png"
+        "products/Seating/Executive Chairs/Cobra/cobra-brown.png",
+        "products/Seating/Executive Chairs/Cobra/cobra-green.png",
+        "products/Seating/Executive Chairs/Cobra/cobra-grey.png",
+        "products/Seating/Executive Chairs/Cobra/cobra-blue.png",
+        "products/Seating/Executive Chairs/Cobra/cobra-red.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Cobra designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2039,29 +2034,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
+          "image": "products/Seating/Executive Chairs/Cobra/cobra-brown.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
+          "image": "products/Seating/Executive Chairs/Cobra/cobra-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
+          "image": "products/Seating/Executive Chairs/Cobra/cobra-grey.png"
         },
         {
-          "name": "Classic Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
+          "name": "Alpine Navy - 400",
+          "color": "#1C344A",
+          "image": "products/Seating/Executive Chairs/Cobra/cobra-blue.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
+          "image": "products/Seating/Executive Chairs/Cobra/cobra-red.png"
         }
       ]
     },
