@@ -309,10 +309,15 @@
           <!-- Color Swatch Panel -->
           <div class="configurator-options">
             <p class="finish-label">Finishes / Options</p>
-            <p class="active-finish-name" id="active-finish-name"></p>
+            <p class="active-finish-name" id="active-finish-name">Classic Black (Original)</p>
             
             <div class="swatches-row" id="swatches-row">
-              <!-- Swatches generated dynamically per product -->
+              <button class="swatch-btn active" style="background-color: #111111;" aria-label="Classic Black (Original)" title="Classic Black (Original)" onclick="selectFinish(this, 'Classic Black (Original)', 'products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg', '#111111', true)"></button>
+              <button class="swatch-btn" style="background-color: #6B4226;" aria-label="Classic Brown" title="Classic Brown" onclick="selectFinish(this, 'Classic Brown', 'products/Seating/Executive Chairs/Comfy hb/comfy-brown.png', '#6B4226', false)"></button>
+              <button class="swatch-btn" style="background-color: #507D67;" aria-label="Forest - 602" title="Forest - 602" onclick="selectFinish(this, 'Forest - 602', 'products/Seating/Executive Chairs/Comfy hb/comfy-green.png', '#507D67', false)"></button>
+              <button class="swatch-btn" style="background-color: #A3A3A3;" aria-label="Gravel - 210" title="Gravel - 210" onclick="selectFinish(this, 'Gravel - 210', 'products/Seating/Executive Chairs/Comfy hb/comfy-grey.png', '#A3A3A3', false)"></button>
+              <button class="swatch-btn" style="background-color: #1C344A;" aria-label="Alpine Navy - 400" title="Alpine Navy - 400" onclick="selectFinish(this, 'Alpine Navy - 400', 'products/Seating/Executive Chairs/Comfy hb/comfy-blue.png', '#1C344A', false)"></button>
+              <button class="swatch-btn" style="background-color: #8A2B35;" aria-label="Crimson - 808" title="Crimson - 808" onclick="selectFinish(this, 'Crimson - 808', 'products/Seating/Executive Chairs/Comfy hb/comfy-red.png', '#8A2B35', false)"></button>
             </div>
 
             <div class="detail-actions-row" style="margin-bottom: 0;">
@@ -670,23 +675,28 @@
       let cat = params.get('cat');
       let prod = params.get('prod');
 
-      // Default fallback if no params provided
-      if (!cat || !prod) {
-        cat = 'sofas';
-        prod = 'sofa-1';
+      let product = null;
+      if (typeof productData !== 'undefined') {
+        if (cat && prod && productData[cat] && productData[cat][prod]) {
+          product = productData[cat][prod];
+        } else if (prod) {
+          for (let c in productData) {
+            if (productData[c] && productData[c][prod]) {
+              product = productData[c][prod];
+              cat = c;
+              break;
+            }
+          }
+        }
       }
 
-      const categoryData = productData[cat];
-      if (!categoryData) {
-        console.error('Category not found:', cat);
-        return;
+      if (!product && typeof productData !== 'undefined' && productData['executive-chairs'] && productData['executive-chairs']['comfy-hb']) {
+        product = productData['executive-chairs']['comfy-hb'];
+        cat = 'executive-chairs';
+        prod = 'comfy-hb';
       }
 
-      const product = categoryData[prod];
-      if (!product) {
-        console.error('Product not found:', prod);
-        return;
-      }
+      if (!product) return;
       window.currentProduct = product;
 
       document.title = `${product.name} | Sheetal Furnitures`;
