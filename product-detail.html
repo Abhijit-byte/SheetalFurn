@@ -309,14 +309,10 @@
           <!-- Color Swatch Panel -->
           <div class="configurator-options">
             <p class="finish-label">Finishes / Options</p>
-            <p class="active-finish-name" id="active-finish-name">Gravel Grey (Original)</p>
+            <p class="active-finish-name" id="active-finish-name"></p>
             
             <div class="swatches-row" id="swatches-row">
-              <button class="swatch-btn active" style="background-color: #A3A3A3;" aria-label="Gravel Grey (Original)" title="Gravel Grey (Original)" onclick="selectFinish(this, 'Gravel Grey (Original)', 'products/Seating/Executive Chairs/Cobra/cobra-grey.png', '#A3A3A3', true)"></button>
-              <button class="swatch-btn" style="background-color: #6B4226;" aria-label="Classic Brown" title="Classic Brown" onclick="selectFinish(this, 'Classic Brown', 'products/Seating/Executive Chairs/Cobra/cobra-brown.png', '#6B4226', false)"></button>
-              <button class="swatch-btn" style="background-color: #507D67;" aria-label="Forest - 602" title="Forest - 602" onclick="selectFinish(this, 'Forest - 602', 'products/Seating/Executive Chairs/Cobra/cobra-green.png', '#507D67', false)"></button>
-              <button class="swatch-btn" style="background-color: #1C344A;" aria-label="Alpine Navy - 400" title="Alpine Navy - 400" onclick="selectFinish(this, 'Alpine Navy - 400', 'products/Seating/Executive Chairs/Cobra/cobra-blue.png', '#1C344A', false)"></button>
-              <button class="swatch-btn" style="background-color: #8A2B35;" aria-label="Crimson - 808" title="Crimson - 808" onclick="selectFinish(this, 'Crimson - 808', 'products/Seating/Executive Chairs/Cobra/cobra-red.png', '#8A2B35', false)"></button>
+              <!-- Swatches generated dynamically per product -->
             </div>
 
             <div class="detail-actions-row" style="margin-bottom: 0;">
@@ -691,6 +687,7 @@
         console.error('Product not found:', prod);
         return;
       }
+      window.currentProduct = product;
 
       document.title = `${product.name} | Sheetal Furnitures`;
       carouselScroller = document.getElementById('carousel-scroller');
