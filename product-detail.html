@@ -683,6 +683,13 @@
             }
           }
         }
+        if (!product) {
+          cat = (cat && productData[cat]) ? cat : Object.keys(productData)[0];
+          if (productData[cat]) {
+            prod = Object.keys(productData[cat])[0];
+            product = productData[cat][prod];
+          }
+        }
       }
 
       if (!product) return;
@@ -732,7 +739,7 @@
 
       // Setup Configurator default view
       // Check if current chair is natively a Black Mesh/Fabric chair (e.g. Butterfly hb)
-      const currentSlug = (productSlug || (product && product.name ? product.name.toLowerCase() : '')).toLowerCase();
+      const currentSlug = (prod || (product && product.name ? product.name.toLowerCase() : '')).toLowerCase();
       const isBlackMeshChair = (
         currentSlug.includes('butterfly') || 
         currentSlug.includes('cobra') || 
@@ -818,32 +825,34 @@
 
       // Populate Related Products
       const relatedRow = document.getElementById('related-products-row');
-      relatedRow.innerHTML = '';
-      let relatedCount = 0;
-      for (const [slug, item] of Object.entries(categoryData)) {
-        if (slug !== prod && relatedCount < 4) {
-          relatedCount++;
-          relatedRow.innerHTML += `
-            <div class="product-card" onclick="window.location.href='product-detail.html?cat=${cat}&prod=${slug}'" style="cursor: pointer;">
-              <div class="product-image-container">
-                <img src="${item.images[0]}" alt="${item.name}" class="product-image">
+      if (relatedRow) {
+        relatedRow.innerHTML = '';
+        let relatedCount = 0;
+        const categoryData = (typeof productData !== 'undefined' && cat && productData[cat]) ? productData[cat] : {};
+        
+        for (const [slug, item] of Object.entries(categoryData)) {
+          if (slug !== prod) {
+            relatedCount++;
+            relatedRow.innerHTML += `
+              <div class="product-card" onclick="window.location.href='product-detail.html?cat=${cat}&prod=${slug}'" style="cursor: pointer;">
+                <div class="product-image-container">
+                  <img src="${item.images[0]}" alt="${item.name}" class="product-image">
+                </div>
+                <div class="product-info">
+                  <h3 class="product-name">${item.name}</h3>
+                  <p class="product-dimensions">${item.dimensions}</p>
+                </div>
               </div>
-              <div class="product-info">
-                <h3 class="product-name">${item.name}</h3>
-                <p class="product-dimensions">${item.dimensions}</p>
-              </div>
-            </div>
-          `;
+            `;
+          }
         }
-      }
-      
-      // If no related products in this category, load a fallback category
-      if (relatedCount === 0) {
-        const otherCats = Object.keys(productData).filter(c => c !== cat);
-        if (otherCats.length > 0) {
-          const fallbackCat = otherCats[0];
-          for (const [slug, item] of Object.entries(productData[fallbackCat])) {
-            if (relatedCount < 4) {
+        
+        // If no related products in this category, load a fallback category
+        if (relatedCount === 0 && typeof productData !== 'undefined') {
+          const otherCats = Object.keys(productData).filter(c => c !== cat);
+          if (otherCats.length > 0) {
+            const fallbackCat = otherCats[0];
+            for (const [slug, item] of Object.entries(productData[fallbackCat])) {
               relatedCount++;
               relatedRow.innerHTML += `
                 <div class="product-card" onclick="window.location.href='product-detail.html?cat=${fallbackCat}&prod=${slug}'" style="cursor: pointer;">
