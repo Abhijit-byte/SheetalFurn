@@ -799,17 +799,17 @@ const productData = {
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Cafe tables/Cafe 7/IMG_4035.jpeg"
+          "image": "products/Woodwork/Cafe tables/Cafe 7/gravel.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Cafe tables/Cafe 7/IMG_4035.jpeg"
+          "image": "products/Woodwork/Cafe tables/Cafe 7/Midnight - 120.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Cafe tables/Cafe 7/IMG_4035.jpeg"
+          "image": "products/Woodwork/Cafe tables/Cafe 7/Crimson - 808.png"
         }
       ]
     },
