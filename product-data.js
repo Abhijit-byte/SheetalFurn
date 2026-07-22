@@ -569,7 +569,7 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Cafe tables/Cafe 2/IMG_3621.webp"
+          "image": "products/Woodwork/Cafe tables/Cafe 2/IMG_3620.webp"
         },
         {
           "name": "Gravel - 210",
@@ -579,7 +579,7 @@ const productData = {
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Cafe tables/Cafe 2/IMG_3621.webp"
+          "image": "products/Woodwork/Cafe tables/Cafe 2/IMG_3620.webp"
         },
         {
           "name": "Crimson - 808",
@@ -936,22 +936,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 1/59F288B5-B4D5-4469-9869-F183F106A346.png"
+          "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 1/603E618F-3710-4173-9925-BBA46A561ADD.png"
+          "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 1/7B04D444-4D3C-4B40-973F-E22F7EFB195D.png"
+          "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 1/87B1D949-DFD3-40B8-AFA5-2E7976E89430.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
         }
       ]
     },
@@ -987,22 +987,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 2/IMG_4026.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 2/IMG_4027.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 2/IMG_4028.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 2/IMG_4121.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
         }
       ]
     },
@@ -1035,17 +1035,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 3/IMG_3832.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 3/IMG_3830.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 3/IMG_3833.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 3/IMG_3830.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 3/IMG_3834.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 3/IMG_3830.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -1086,22 +1086,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 4/8198A9FC-8A1B-4497-A3AA-B89BC74B547A.png"
+          "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 4/999E0E42-85F3-46FF-AA95-C00E7BFCCFE4.png"
+          "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 4/A980A0A6-3A6B-4EBB-9C19-40D479206D22.png"
+          "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 4/IMG_4024.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
         }
       ]
     },
@@ -1137,22 +1137,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 3.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 4.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 5.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
         }
       ]
     },
@@ -1186,22 +1186,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 6/IMG_3951.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 6/IMG_3952.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 6/IMG_3953.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 6/IMG_3954.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
         }
       ]
     }
@@ -1369,7 +1369,7 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 4/IMG_1874.jpeg"
+          "image": "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg"
         },
         {
           "name": "Gravel - 210",
@@ -1379,7 +1379,7 @@ const productData = {
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 4/IMG_1874.jpeg"
+          "image": "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -1418,22 +1418,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3035.png"
+          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3036.png"
+          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3038.png"
+          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3040.png"
+          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
         }
       ]
     },
@@ -1554,7 +1554,7 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 8/IMG_3359.jpeg"
+          "image": "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg"
         },
         {
           "name": "Gravel - 210",
@@ -1564,7 +1564,7 @@ const productData = {
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 8/IMG_3359.jpeg"
+          "image": "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -1690,7 +1690,7 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 11/IMG_9229.jpeg"
+          "image": "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg"
         },
         {
           "name": "Gravel - 210",
@@ -1700,7 +1700,7 @@ const productData = {
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 11/IMG_9229.jpeg"
+          "image": "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -1741,22 +1741,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4077.jpeg"
+          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4078.jpeg"
+          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4079.jpeg"
+          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4080.jpeg"
+          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
         }
       ]
     },
@@ -1790,22 +1790,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Conference tables/Forge/IMG_3725.png"
+          "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Conference tables/Forge/IMG_3726.png"
+          "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Conference tables/Forge/IMG_3727.png"
+          "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Conference tables/Forge/IMG_3728.png"
+          "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
         }
       ]
     },
@@ -1838,17 +1838,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Conference tables/Nexus/IMG_1955.jpeg"
+          "image": "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Conference tables/Nexus/IMG_3003.png"
+          "image": "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Conference tables/Nexus/IMG_3004.png"
+          "image": "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -1889,22 +1889,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3824.jpeg"
+          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3825.jpeg"
+          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3826.jpeg"
+          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3827.jpeg"
+          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
         }
       ]
     }
@@ -1940,22 +1940,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Baleno/62283.jpeg"
+          "image": "products/Seating/Executive Chairs/Baleno/62282.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Baleno/62284.jpeg"
+          "image": "products/Seating/Executive Chairs/Baleno/62282.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Baleno/62285.jpeg"
+          "image": "products/Seating/Executive Chairs/Baleno/62282.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Baleno/62286.jpeg"
+          "image": "products/Seating/Executive Chairs/Baleno/62282.jpeg"
         }
       ]
     },
@@ -1987,7 +1987,7 @@ const productData = {
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4331.png"
+          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
         },
         {
           "name": "Forest - 602",
@@ -1997,17 +1997,17 @@ const productData = {
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4333.jpeg"
+          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4334.jpeg"
+          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4335.jpeg"
+          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
         }
       ]
     },
@@ -2041,7 +2041,7 @@ const productData = {
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png"
+          "image": "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg"
         },
         {
           "name": "Forest - 602",
@@ -2051,17 +2051,17 @@ const productData = {
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
+          "image": "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_2968.png"
+          "image": "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_2969.png"
+          "image": "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg"
         }
       ]
     },
@@ -2097,22 +2097,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3249.jpeg"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3250.jpeg"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3251.jpeg"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3252.jpeg"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         }
       ]
     },
@@ -2148,22 +2148,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5601.png"
+          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5602.png"
+          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5603.png"
+          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5604.png"
+          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
         }
       ]
     },
@@ -2197,22 +2197,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7138.jpeg"
+          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7139.jpeg"
+          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7140.jpeg"
+          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7141.jpeg"
+          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
         }
       ]
     },
@@ -2246,22 +2246,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325 2.jpeg"
+          "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325.jpeg"
+          "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Hermes/FC6F7D06-79E5-4831-9EB3-EDA83593A480 2.jpeg"
+          "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Hermes/FC6F7D06-79E5-4831-9EB3-EDA83593A480.jpeg"
+          "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
         }
       ]
     },
@@ -2295,22 +2295,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Hugo/62215.jpeg"
+          "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Hugo/62216.jpeg"
+          "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Hugo/62217.jpeg"
+          "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Hugo/62218.jpeg"
+          "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
         }
       ]
     },
@@ -2343,17 +2343,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Indigo/Untitled design 2.jpg"
+          "image": "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Indigo/Untitled design 3.jpg"
+          "image": "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Indigo/Untitled design.jpg"
+          "image": "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -2402,22 +2402,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Jazz hb/B3DD53A0-3CFB-48D3-9F9C-BF771AE46521_L0_001-7_11_2023, 7_48_03 PM.jpeg"
+          "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Jazz hb/IMG_0682.jpeg"
+          "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Jazz hb/IMG_1018.jpeg"
+          "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Jazz hb/IMG_1611.jpeg"
+          "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
         }
       ]
     },
@@ -2450,17 +2450,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Jupiter/62270.jpeg"
+          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Jupiter/62271.jpeg"
+          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Jupiter/62272.jpeg"
+          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -2498,17 +2498,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (2).jpeg"
+          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (3).jpeg"
+          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (4).jpeg"
+          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -2546,17 +2546,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 3.jpeg"
+          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437.jpeg"
+          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mars/IMG_7542.jpeg"
+          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -2601,22 +2601,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_2635.png"
+          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_3138.jpeg"
+          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_9725.jpeg"
+          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_9726.jpeg"
+          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         }
       ]
     },
@@ -2649,17 +2649,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (2).jpeg"
+          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (3).jpeg"
+          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (4).jpeg"
+          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -2700,22 +2700,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mystic/IMG_2966.png"
+          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mystic/IMG_7683.jpeg"
+          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mystic/IMG_7684.jpeg"
+          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mystic/IMG_7685.jpeg"
+          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         }
       ]
     },
@@ -2749,22 +2749,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Nova/62276.jpeg"
+          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Nova/62277.jpeg"
+          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Nova/62278.jpeg"
+          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Nova/62279.jpeg"
+          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         }
       ]
     },
@@ -2804,7 +2804,7 @@ const productData = {
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Optimus hb/Casual all models insta posts.png"
+          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
           "name": "Forest - 602",
@@ -2814,17 +2814,17 @@ const productData = {
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0789.jpeg"
+          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0793.jpeg"
+          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_2037.jpeg"
+          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         }
       ]
     },
@@ -2858,22 +2858,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Orbit/62248.jpeg"
+          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Orbit/62249.jpeg"
+          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Orbit/62250.jpeg"
+          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Orbit/62251.jpeg"
+          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         }
       ]
     },
@@ -2907,22 +2907,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1016.jpeg"
+          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1017.jpeg"
+          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1018.jpeg"
+          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1019.jpeg"
+          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         }
       ]
     },
@@ -2955,17 +2955,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/43BE7917-8F5B-4FA4-BC45-3B2AC7B3893B.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/5227322C-EF7D-4BEB-BF41-9873487EA850.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/DA1E28FF-4AB4-40A4-AF6D-102C89AC2685.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
           "name": "Crimson - 808",
@@ -3005,22 +3005,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3262.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3263.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3264.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3265.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         }
       ]
     },
@@ -3054,22 +3054,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3281.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3283.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3284.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3285.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         }
       ]
     },
@@ -3102,17 +3102,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0288.jpeg"
+          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0289.jpeg"
+          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0290.jpeg"
+          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -3161,22 +3161,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spinal hb/IMG_0683.jpeg"
+          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spinal hb/IMG_1296.jpeg"
+          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Spinal hb/IMG_1297.jpeg"
+          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spinal hb/IMG_1298.jpeg"
+          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         }
       ]
     },
@@ -3214,22 +3214,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1073.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1074.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_2951.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_2959.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         }
       ]
     },
@@ -3264,22 +3264,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Tucson/IMG_9874.jpeg"
+          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Tucson/IMG_9875.jpeg"
+          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Tucson/IMG_9876.jpeg"
+          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Tucson/IMG_9877.jpeg"
+          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         }
       ]
     },
@@ -3316,22 +3316,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Wave/IMG_2942.png"
+          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Wave/IMG_2964.png"
+          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Wave/IMG_2965.png"
+          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Wave/IMG_7679.jpeg"
+          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         }
       ]
     }
@@ -3365,12 +3365,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3700.png"
+          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3701.png"
+          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png"
         },
         {
           "name": "Midnight - 120",
@@ -3380,7 +3380,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3700.png"
+          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png"
         }
       ]
     },
@@ -3413,17 +3413,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Synergy/IMG_4040.webp"
+          "image": "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Synergy/IMG_4041.webp"
+          "image": "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Executive tables/Synergy/IMG_4042.webp"
+          "image": "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png"
         },
         {
           "name": "Crimson - 808",
@@ -3460,12 +3460,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Table 4/IMG_4044.webp"
+          "image": "products/Woodwork/Executive tables/Table 4/IMG_4043.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Table 4/IMG_4045.webp"
+          "image": "products/Woodwork/Executive tables/Table 4/IMG_4043.webp"
         },
         {
           "name": "Midnight - 120",
@@ -3475,7 +3475,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Executive tables/Table 4/IMG_4044.webp"
+          "image": "products/Woodwork/Executive tables/Table 4/IMG_4043.webp"
         }
       ]
     },
@@ -3509,22 +3509,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Table 5/IMG_3999.jpeg"
+          "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Table 5/IMG_4001.jpeg"
+          "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Executive tables/Table 5/IMG_4003.webp"
+          "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Executive tables/Table 5/IMG_4053.jpeg"
+          "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
         }
       ]
     },
@@ -3557,17 +3557,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Versaline/IMG_2993.png"
+          "image": "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Versaline/IMG_2994.png"
+          "image": "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Executive tables/Versaline/IMG_2995.png"
+          "image": "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -3617,22 +3617,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Education/Hostel furniture/Hostel beds/580F878B-314B-436B-9FFE-F955767FB4DD.png"
+          "image": "products/Education/Hostel furniture/Hostel beds/22EC9130-D98B-4278-80C7-4FA4B7C57AD0.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Education/Hostel furniture/Hostel beds/IMG_4094.jpeg"
+          "image": "products/Education/Hostel furniture/Hostel beds/22EC9130-D98B-4278-80C7-4FA4B7C57AD0.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Education/Hostel furniture/Hostel beds/IMG_4095.jpeg"
+          "image": "products/Education/Hostel furniture/Hostel beds/22EC9130-D98B-4278-80C7-4FA4B7C57AD0.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Education/Hostel furniture/Hostel beds/IMG_4096.jpeg"
+          "image": "products/Education/Hostel furniture/Hostel beds/22EC9130-D98B-4278-80C7-4FA4B7C57AD0.png"
         }
       ]
     },
@@ -3665,17 +3665,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Education/Hostel furniture/Hostel storage/IMG_4031.jpeg"
+          "image": "products/Education/Hostel furniture/Hostel storage/IMG_4030.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Education/Hostel furniture/Hostel storage/IMG_4032.jpeg"
+          "image": "products/Education/Hostel furniture/Hostel storage/IMG_4030.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Education/Hostel furniture/Hostel storage/IMG_4033.jpeg"
+          "image": "products/Education/Hostel furniture/Hostel storage/IMG_4030.webp"
         },
         {
           "name": "Crimson - 808",
@@ -3713,17 +3713,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Education/Hostel furniture/Hostel study tables/IMG_2992.png"
+          "image": "products/Education/Hostel furniture/Hostel study tables/IMG_2957.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Education/Hostel furniture/Hostel study tables/IMG_3645.jpeg"
+          "image": "products/Education/Hostel furniture/Hostel study tables/IMG_2957.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Education/Hostel furniture/Hostel study tables/IMG_7850.jpeg"
+          "image": "products/Education/Hostel furniture/Hostel study tables/IMG_2957.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -4982,17 +4982,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Workstations/Iron frame workstations/Aviator/745e6acd-dfd8-4197-a9df-d6640c8a7a12 2.jpeg"
+          "image": "products/Workstations/Iron frame workstations/Aviator/054699fd-c69c-41cf-8d2a-95256d7dfcf0 2.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Workstations/Iron frame workstations/Aviator/IMG_3854 2.jpeg"
+          "image": "products/Workstations/Iron frame workstations/Aviator/054699fd-c69c-41cf-8d2a-95256d7dfcf0 2.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Workstations/Iron frame workstations/Aviator/IMG_3855 2.jpeg"
+          "image": "products/Workstations/Iron frame workstations/Aviator/054699fd-c69c-41cf-8d2a-95256d7dfcf0 2.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -5032,22 +5032,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0100.jpeg"
+          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Workstations/Iron frame workstations/Trident/IMG_3021.png"
+          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Workstations/Iron frame workstations/Trident/IMG_3022.png"
+          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Workstations/Iron frame workstations/Trident/IMG_3850.jpeg"
+          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
         }
       ]
     }
@@ -5263,22 +5263,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0405.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0406.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0407.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0408.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
         }
       ]
     },
@@ -5355,12 +5355,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2416.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2417.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg"
         },
         {
           "name": "Midnight - 120",
@@ -5370,7 +5370,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2416.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg"
         }
       ]
     },
@@ -5451,22 +5451,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3626.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3627.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3628.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3629.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         }
       ]
     },
@@ -5499,17 +5499,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3635.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3636.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3637.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -5591,12 +5591,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3901.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3902.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg"
         },
         {
           "name": "Midnight - 120",
@@ -5606,7 +5606,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3901.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg"
         }
       ]
     },
@@ -5637,7 +5637,7 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3905.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3904.webp"
         },
         {
           "name": "Gravel - 210",
@@ -5647,7 +5647,7 @@ const productData = {
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3905.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3904.webp"
         },
         {
           "name": "Crimson - 808",
@@ -5686,22 +5686,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3913.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3914.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3915.jpeg"
+          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3916.webp"
+          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         }
       ]
     }
@@ -5735,12 +5735,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Pedestal/IMG_3009.png"
+          "image": "products/Archiving/Office Storage/Pedestal/IMG_3008.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Pedestal/IMG_3010.png"
+          "image": "products/Archiving/Office Storage/Pedestal/IMG_3008.png"
         },
         {
           "name": "Midnight - 120",
@@ -5750,7 +5750,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Pedestal/IMG_3009.png"
+          "image": "products/Archiving/Office Storage/Pedestal/IMG_3008.png"
         }
       ]
     },
@@ -5782,12 +5782,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 1/IMG_4092.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 1/IMG_4091.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 1/IMG_4093.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 1/IMG_4091.jpeg"
         },
         {
           "name": "Midnight - 120",
@@ -5797,7 +5797,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 1/IMG_4092.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 1/IMG_4091.jpeg"
         }
       ]
     },
@@ -5830,17 +5830,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 2/IMG_4088.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 2/IMG_4087.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 2/IMG_4089.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 2/IMG_4087.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 2/IMG_4090.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 2/IMG_4087.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -5879,22 +5879,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 3/IMG_3960.webp"
+          "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 3/IMG_3996.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 3/IMG_3997.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 3/IMG_3998.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
         }
       ]
     },
@@ -5927,17 +5927,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 4/IMG_3893.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 4/IMG_3892.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 4/IMG_3894.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 4/IMG_3892.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 4/IMG_3895.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 4/IMG_3892.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -5974,12 +5974,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 5/IMG_3901.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 5/IMG_3900.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 5/b21c9323-0b1f-44ad-88df-7a9aeeb54f49.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 5/IMG_3900.jpeg"
         },
         {
           "name": "Midnight - 120",
@@ -5989,7 +5989,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 5/IMG_3901.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 5/IMG_3900.jpeg"
         }
       ]
     },
@@ -6021,12 +6021,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 6/IMG_3899.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 6/77114c4d-f85b-4a94-9a7f-0abee8fd1c6d.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 6/e7e3f82a-ceb1-4d8d-9549-7345a9cfe4aa.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 6/77114c4d-f85b-4a94-9a7f-0abee8fd1c6d.jpeg"
         },
         {
           "name": "Midnight - 120",
@@ -6036,7 +6036,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 6/IMG_3899.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 6/77114c4d-f85b-4a94-9a7f-0abee8fd1c6d.jpeg"
         }
       ]
     },
@@ -6069,17 +6069,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 7/IMG_3867.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 7/IMG_3869.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 7/IMG_3870.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -6116,12 +6116,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 8/IMG_3749.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 8/IMG_3015.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 8/IMG_3754.png"
+          "image": "products/Archiving/Office Storage/Storage 8/IMG_3015.png"
         },
         {
           "name": "Midnight - 120",
@@ -6131,7 +6131,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 8/IMG_3749.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 8/IMG_3015.png"
         }
       ]
     }
@@ -6167,22 +6167,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3690.png"
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3691.png"
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3692.png"
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3693.png"
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
         }
       ]
     },
@@ -6216,22 +6216,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0063.jpeg"
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_1682.jpeg"
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_3654.png"
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_3655.png"
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
         }
       ]
     },
@@ -6265,22 +6265,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0058.jpeg"
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0059.jpeg"
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_1678.jpeg"
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_2333.jpeg"
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
         }
       ]
     },
@@ -6314,22 +6314,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1945.jpeg"
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1947.jpeg"
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1948.jpeg"
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1949.jpeg"
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
         }
       ]
     }
@@ -6771,17 +6771,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Reception tables/Harmony/IMG_3657.png"
+          "image": "products/Woodwork/Reception tables/Harmony/IMG_3656.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Reception tables/Harmony/IMG_3658.png"
+          "image": "products/Woodwork/Reception tables/Harmony/IMG_3656.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Reception tables/Harmony/IMG_3659.png"
+          "image": "products/Woodwork/Reception tables/Harmony/IMG_3656.png"
         },
         {
           "name": "Crimson - 808",
@@ -6818,12 +6818,12 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Reception tables/Horizon/IMG_1959.jpeg"
+          "image": "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Reception tables/Horizon/IMG_1960.jpeg"
+          "image": "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg"
         },
         {
           "name": "Midnight - 120",
@@ -6833,7 +6833,7 @@ const productData = {
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Reception tables/Horizon/IMG_1959.jpeg"
+          "image": "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg"
         }
       ]
     },
@@ -6866,17 +6866,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Reception tables/Luxor/IMG_0078.jpeg"
+          "image": "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Reception tables/Luxor/IMG_1677.jpeg"
+          "image": "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Reception tables/Luxor/IMG_2391.jpeg"
+          "image": "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -6915,22 +6915,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Reception tables/Prestige/IMG_3686.png"
+          "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Reception tables/Prestige/IMG_3687.png"
+          "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Reception tables/Prestige/IMG_3688.png"
+          "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Reception tables/Prestige/IMG_3698.png"
+          "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
         }
       ]
     }
@@ -6967,22 +6967,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 1/IMG_3639.jpeg"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 1/IMG_3640.jpeg"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 1/IMG_3641.jpeg"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Sofas/Sofa 1/IMG_3642.jpeg"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         }
       ]
     },
@@ -7015,17 +7015,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 2/IMG_3609.jpeg"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 2/IMG_3610.jpeg"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 2/IMG_3611.jpeg"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -7065,22 +7065,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 3/2E249B1D-273E-42C4-94E2-3DB7551A7C4E.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 3/300B870C-DD53-4D54-8C4A-7D75EDD4A9AB.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 3/4BBF3649-85BE-4E9D-A32A-FB34D6CF6C52.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Sofas/Sofa 3/57FB7D99-1482-41BA-9F3F-6A772D89B236.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         }
       ]
     },
@@ -7113,17 +7113,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 4/IMG_3602.webp"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 4/IMG_3603.webp"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 4/IMG_3608.jpeg"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
           "name": "Crimson - 808",
@@ -7162,22 +7162,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 5/B440E5C0-0B71-41C5-BB6B-3FF3C5601D3F.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 5/B52ECE76-3BB7-48EF-8799-0FA8E97A926A.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 5/D193E15F-1BEC-4FF9-AA58-537BB6054D9C.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Sofas/Sofa 5/D1D427E9-C6F0-404F-9FFB-770B0FA937CC.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         }
       ]
     }
@@ -7440,22 +7440,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/802 abs/62336.jpeg"
+          "image": "products/Seating/Task Chairs/802 abs/62335_Original.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/802 abs/62337.jpeg"
+          "image": "products/Seating/Task Chairs/802 abs/62335_Original.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/802 abs/62338.jpeg"
+          "image": "products/Seating/Task Chairs/802 abs/62335_Original.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/802 abs/62339.jpeg"
+          "image": "products/Seating/Task Chairs/802 abs/62335_Original.jpeg"
         }
       ]
     },
@@ -7488,17 +7488,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Barry/IMG_4357.jpeg"
+          "image": "products/Seating/Task Chairs/Barry/612PuwzPxgL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Barry/IMG_4358.jpeg"
+          "image": "products/Seating/Task Chairs/Barry/612PuwzPxgL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Barry/IMG_7539.jpeg"
+          "image": "products/Seating/Task Chairs/Barry/612PuwzPxgL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -7538,22 +7538,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Boom/IMG_9821.jpeg"
+          "image": "products/Seating/Task Chairs/Boom/IMG_2973.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Boom/IMG_9822.jpeg"
+          "image": "products/Seating/Task Chairs/Boom/IMG_2973.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Boom/IMG_9823.jpeg"
+          "image": "products/Seating/Task Chairs/Boom/IMG_2973.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Boom/IMG_9824.jpeg"
+          "image": "products/Seating/Task Chairs/Boom/IMG_2973.png"
         }
       ]
     },
@@ -7587,22 +7587,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Butterfly mb/IMG_4382.jpeg"
+          "image": "products/Seating/Task Chairs/Butterfly mb/IMG_2965.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Butterfly mb/IMG_4383.jpeg"
+          "image": "products/Seating/Task Chairs/Butterfly mb/IMG_2965.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Butterfly mb/IMG_4384.jpeg"
+          "image": "products/Seating/Task Chairs/Butterfly mb/IMG_2965.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Butterfly mb/IMG_4385.jpeg"
+          "image": "products/Seating/Task Chairs/Butterfly mb/IMG_2965.jpeg"
         }
       ]
     },
@@ -7636,22 +7636,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Centreply/62302.jpeg"
+          "image": "products/Seating/Task Chairs/Centreply/62301_Original.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Centreply/62303_Original.jpeg"
+          "image": "products/Seating/Task Chairs/Centreply/62301_Original.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Centreply/62304.jpeg"
+          "image": "products/Seating/Task Chairs/Centreply/62301_Original.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Centreply/62305.jpeg"
+          "image": "products/Seating/Task Chairs/Centreply/62301_Original.jpeg"
         }
       ]
     },
@@ -7686,22 +7686,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Comfy mb/IMG_3268.jpeg"
+          "image": "products/Seating/Task Chairs/Comfy mb/IMG_3267.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Comfy mb/IMG_3269.jpeg"
+          "image": "products/Seating/Task Chairs/Comfy mb/IMG_3267.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Comfy mb/IMG_3270.jpeg"
+          "image": "products/Seating/Task Chairs/Comfy mb/IMG_3267.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Comfy mb/IMG_3271.jpeg"
+          "image": "products/Seating/Task Chairs/Comfy mb/IMG_3267.jpeg"
         }
       ]
     },
@@ -7736,22 +7736,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Desire/IMG_4374.jpeg"
+          "image": "products/Seating/Task Chairs/Desire/IMG_4373.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Desire/IMG_4375.jpeg"
+          "image": "products/Seating/Task Chairs/Desire/IMG_4373.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Desire/IMG_4376.jpeg"
+          "image": "products/Seating/Task Chairs/Desire/IMG_4373.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Desire/IMG_4379.png"
+          "image": "products/Seating/Task Chairs/Desire/IMG_4373.jpeg"
         }
       ]
     },
@@ -7784,17 +7784,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Glanza mb/GLANZA - MB - BLACK - LIVE IMAGE -  (2).jpeg"
+          "image": "products/Seating/Task Chairs/Glanza mb/GLANZA - MB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Glanza mb/GLANZA - MB - BLACK - LIVE IMAGE -  (3).jpeg"
+          "image": "products/Seating/Task Chairs/Glanza mb/GLANZA - MB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Glanza mb/GLANZA - MB - BLACK - LIVE IMAGE -  (4).jpeg"
+          "image": "products/Seating/Task Chairs/Glanza mb/GLANZA - MB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -7840,22 +7840,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Jazz mb/IMG_2976.png"
+          "image": "products/Seating/Task Chairs/Jazz mb/IMG_0874.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Jazz mb/IMG_2977.png"
+          "image": "products/Seating/Task Chairs/Jazz mb/IMG_0874.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Jazz mb/IMG_2978.jpeg"
+          "image": "products/Seating/Task Chairs/Jazz mb/IMG_0874.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Jazz mb/IMG_2979.png"
+          "image": "products/Seating/Task Chairs/Jazz mb/IMG_0874.jpeg"
         }
       ]
     },
@@ -7888,17 +7888,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Majesty mb/MAJESTY - MB - LIVE IMAGE -  (2).jpeg"
+          "image": "products/Seating/Task Chairs/Majesty mb/MAJESTY - MB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Majesty mb/MAJESTY - MB - LIVE IMAGE -  (3).jpeg"
+          "image": "products/Seating/Task Chairs/Majesty mb/MAJESTY - MB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Majesty mb/MAJESTY - MB - LIVE IMAGE -  (4).jpeg"
+          "image": "products/Seating/Task Chairs/Majesty mb/MAJESTY - MB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -7936,17 +7936,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Malaysian mb/62296.jpeg"
+          "image": "products/Seating/Task Chairs/Malaysian mb/62295.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Malaysian mb/62297.jpeg"
+          "image": "products/Seating/Task Chairs/Malaysian mb/62295.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Malaysian mb/62298.jpeg"
+          "image": "products/Seating/Task Chairs/Malaysian mb/62295.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -7990,22 +7990,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Matrix mb/IMG_9729.jpeg"
+          "image": "products/Seating/Task Chairs/Matrix mb/IMG_2164.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Matrix mb/IMG_9730.jpeg"
+          "image": "products/Seating/Task Chairs/Matrix mb/IMG_2164.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Matrix mb/IMG_9731.jpeg"
+          "image": "products/Seating/Task Chairs/Matrix mb/IMG_2164.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Matrix mb/IMG_9732.jpeg"
+          "image": "products/Seating/Task Chairs/Matrix mb/IMG_2164.jpeg"
         }
       ]
     },
@@ -8038,17 +8038,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Mustang mb/MUSTANG - MB - BLACK - LIVE IMAGE -  (2).jpeg"
+          "image": "products/Seating/Task Chairs/Mustang mb/MUSTANG - MB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Mustang mb/MUSTANG - MB - BLACK - LIVE IMAGE -  (3).jpeg"
+          "image": "products/Seating/Task Chairs/Mustang mb/MUSTANG - MB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Mustang mb/MUSTANG - MB - BLACK - LIVE IMAGE -  (4).jpeg"
+          "image": "products/Seating/Task Chairs/Mustang mb/MUSTANG - MB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -8087,22 +8087,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Optimus mb/Untitled design.zip - 2.jpeg"
+          "image": "products/Seating/Task Chairs/Optimus mb/Untitled design.zip - 1.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Optimus mb/Untitled design.zip - 3.jpeg"
+          "image": "products/Seating/Task Chairs/Optimus mb/Untitled design.zip - 1.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Optimus mb/Untitled design.zip - 4.jpeg"
+          "image": "products/Seating/Task Chairs/Optimus mb/Untitled design.zip - 1.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Optimus mb/Untitled design.zip - 5.jpeg"
+          "image": "products/Seating/Task Chairs/Optimus mb/Untitled design.zip - 1.jpeg"
         }
       ]
     },
@@ -8143,22 +8143,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Pears black/IMG_2191.jpeg"
+          "image": "products/Seating/Task Chairs/Pears black/IMG_2188.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Pears black/IMG_2420.png"
+          "image": "products/Seating/Task Chairs/Pears black/IMG_2188.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Pears black/IMG_2421.png"
+          "image": "products/Seating/Task Chairs/Pears black/IMG_2188.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Pears black/IMG_2422.jpeg"
+          "image": "products/Seating/Task Chairs/Pears black/IMG_2188.jpeg"
         }
       ]
     },
@@ -8195,22 +8195,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Pears white/IMG_0854.jpeg"
+          "image": "products/Seating/Task Chairs/Pears white/IMG_0853.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Pears white/IMG_0855.jpeg"
+          "image": "products/Seating/Task Chairs/Pears white/IMG_0853.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Pears white/IMG_0856.jpeg"
+          "image": "products/Seating/Task Chairs/Pears white/IMG_0853.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Pears white/IMG_0857.jpeg"
+          "image": "products/Seating/Task Chairs/Pears white/IMG_0853.jpeg"
         }
       ]
     },
@@ -8243,17 +8243,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Polar/polar mb  (33).jpeg"
+          "image": "products/Seating/Task Chairs/Polar/polar mb  (32).jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Polar/polar mb  (34).jpeg"
+          "image": "products/Seating/Task Chairs/Polar/polar mb  (32).jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Polar/polar mb  (35).jpeg"
+          "image": "products/Seating/Task Chairs/Polar/polar mb  (32).jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -8292,22 +8292,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Rio mb/IMG_1011.jpeg"
+          "image": "products/Seating/Task Chairs/Rio mb/IMG_1010.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Rio mb/IMG_1012.jpeg"
+          "image": "products/Seating/Task Chairs/Rio mb/IMG_1010.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Rio mb/IMG_1013.jpeg"
+          "image": "products/Seating/Task Chairs/Rio mb/IMG_1010.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Rio mb/IMG_1014.jpeg"
+          "image": "products/Seating/Task Chairs/Rio mb/IMG_1010.jpeg"
         }
       ]
     },
@@ -8340,17 +8340,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Robo/IMG_4350.jpeg"
+          "image": "products/Seating/Task Chairs/Robo/IMG_4349.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Robo/IMG_4351.jpeg"
+          "image": "products/Seating/Task Chairs/Robo/IMG_4349.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Robo/IMG_4355.png"
+          "image": "products/Seating/Task Chairs/Robo/IMG_4349.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -8389,22 +8389,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Rodnet mb/IMG_4369.png"
+          "image": "products/Seating/Task Chairs/Rodnet mb/IMG_4368.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Rodnet mb/IMG_4370.png"
+          "image": "products/Seating/Task Chairs/Rodnet mb/IMG_4368.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Rodnet mb/IMG_4371.png"
+          "image": "products/Seating/Task Chairs/Rodnet mb/IMG_4368.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Rodnet mb/IMG_4372.png"
+          "image": "products/Seating/Task Chairs/Rodnet mb/IMG_4368.png"
         }
       ]
     },
@@ -8438,22 +8438,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/S model/62343.jpeg"
+          "image": "products/Seating/Task Chairs/S model/62342_Original.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/S model/62344.jpeg"
+          "image": "products/Seating/Task Chairs/S model/62342_Original.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/S model/62345.jpeg"
+          "image": "products/Seating/Task Chairs/S model/62342_Original.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/S model/62346.jpeg"
+          "image": "products/Seating/Task Chairs/S model/62342_Original.jpeg"
         }
       ]
     },
@@ -8489,22 +8489,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Scorpio mb black/IMG_2182.jpeg"
+          "image": "products/Seating/Task Chairs/Scorpio mb black/715eS3dLFgL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Scorpio mb black/IMG_2183.jpeg"
+          "image": "products/Seating/Task Chairs/Scorpio mb black/715eS3dLFgL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Scorpio mb black/IMG_2982.png"
+          "image": "products/Seating/Task Chairs/Scorpio mb black/715eS3dLFgL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Scorpio mb black/IMG_2983.png"
+          "image": "products/Seating/Task Chairs/Scorpio mb black/715eS3dLFgL._AC_UF1000,1000_QL80_.jpeg"
         }
       ]
     },
@@ -8539,22 +8539,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Scorpio mb grey/Untitled design 2.png"
+          "image": "products/Seating/Task Chairs/Scorpio mb grey/IMG_2981.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Scorpio mb grey/Untitled design 3.png"
+          "image": "products/Seating/Task Chairs/Scorpio mb grey/IMG_2981.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Scorpio mb grey/Untitled design 4.png"
+          "image": "products/Seating/Task Chairs/Scorpio mb grey/IMG_2981.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Scorpio mb grey/Untitled design.jpeg"
+          "image": "products/Seating/Task Chairs/Scorpio mb grey/IMG_2981.png"
         }
       ]
     },
@@ -8587,17 +8587,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Seoul/62309_Original.jpeg"
+          "image": "products/Seating/Task Chairs/Seoul/62308.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Seoul/62310.jpeg"
+          "image": "products/Seating/Task Chairs/Seoul/62308.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Seoul/62311.jpeg"
+          "image": "products/Seating/Task Chairs/Seoul/62308.jpeg"
         },
         {
           "name": "Crimson - 808",
@@ -8636,22 +8636,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Spinal mb/IMG_5139.webp"
+          "image": "products/Seating/Task Chairs/Spinal mb/IMG_5138.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Spinal mb/IMG_5140.webp"
+          "image": "products/Seating/Task Chairs/Spinal mb/IMG_5138.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Spinal mb/IMG_5141.webp"
+          "image": "products/Seating/Task Chairs/Spinal mb/IMG_5138.webp"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Spinal mb/IMG_5142.webp"
+          "image": "products/Seating/Task Chairs/Spinal mb/IMG_5138.webp"
         }
       ]
     },
@@ -8686,22 +8686,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Task Chairs/Zigzag/IMG_4387.webp"
+          "image": "products/Seating/Task Chairs/Zigzag/IMG_4386.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Task Chairs/Zigzag/IMG_4388.webp"
+          "image": "products/Seating/Task Chairs/Zigzag/IMG_4386.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Task Chairs/Zigzag/IMG_4389.webp"
+          "image": "products/Seating/Task Chairs/Zigzag/IMG_4386.webp"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Task Chairs/Zigzag/IMG_4390.jpeg"
+          "image": "products/Seating/Task Chairs/Zigzag/IMG_4386.webp"
         }
       ]
     }
@@ -8736,17 +8736,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3742.png"
+          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3741.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3743.png"
+          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3741.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3849.jpeg"
+          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3741.png"
         },
         {
           "name": "Crimson - 808",
@@ -8784,17 +8784,17 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3745.png"
+          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3744.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3746.png"
+          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3744.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3747.png"
+          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3744.png"
         },
         {
           "name": "Crimson - 808",
@@ -8833,22 +8833,22 @@ const productData = {
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Workstations/Wooden workstations/Workstation 3/38141DD9-B8D2-46D7-8DD4-4F8A24CBFD55.png"
+          "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Workstations/Wooden workstations/Workstation 3/7C1EEA30-F71D-4953-A24E-6EA743C8E2FC.png"
+          "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Workstations/Wooden workstations/Workstation 3/C4DD0B9D-D12B-4ABD-87CF-B5D4DAB5893F.png"
+          "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Workstations/Wooden workstations/Workstation 3/IMG_4075.jpeg"
+          "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
         }
       ]
     }
