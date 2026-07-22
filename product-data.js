@@ -2014,11 +2014,16 @@ const productData = {
     "cobra": {
       "name": "Cobra",
       "images": [
-        "products/Seating/Executive Chairs/Cobra/cobra-brown.png",
-        "products/Seating/Executive Chairs/Cobra/cobra-green.png",
-        "products/Seating/Executive Chairs/Cobra/cobra-grey.png",
-        "products/Seating/Executive Chairs/Cobra/cobra-blue.png",
-        "products/Seating/Executive Chairs/Cobra/cobra-red.png"
+        "products/Seating/Executive Chairs/Cobra/IMG_2967.png",
+        "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg",
+        "products/Seating/Executive Chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png",
+        "products/Seating/Executive Chairs/Cobra/IMG_2968.png",
+        "products/Seating/Executive Chairs/Cobra/IMG_2969.png",
+        "products/Seating/Executive Chairs/Cobra/IMG_2970.png",
+        "products/Seating/Executive Chairs/Cobra/IMG_2971.png",
+        "products/Seating/Executive Chairs/Cobra/IMG_2972.png",
+        "products/Seating/Executive Chairs/Cobra/IMG_9740.jpeg",
+        "products/Seating/Executive Chairs/Cobra/Untitled design - 2.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Cobra designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",

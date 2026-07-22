@@ -786,12 +786,12 @@
         `;
       });
 
-      // Default initial view: 100% pure original chair photo!
+      // Default initial view for Configurator: 1st finish color photo (e.g. cobra-brown.png)
       document.getElementById('active-finish-name').innerText = finishesList[0].name;
       const previewImgEl = document.getElementById('configurator-preview-img');
-      const mainBaseImg = product.images && product.images.length > 0 ? product.images[0] : previewImgEl.src;
-      previewImgEl.src = mainBaseImg;
-      previewImgEl.dataset.baseSrc = mainBaseImg;
+      const initialConfiguratorImg = finishesList[0].image || (product.images && product.images.length > 0 ? product.images[0] : previewImgEl.src);
+      previewImgEl.src = initialConfiguratorImg;
+      previewImgEl.dataset.baseSrc = initialConfiguratorImg;
       previewImgEl.style.filter = 'none';
 
       // Toggle between 2D Photo View and 3D WebGL Configurator
