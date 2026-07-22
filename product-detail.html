@@ -892,108 +892,54 @@
       });
     }
 
-    // Dynamic Pixel-level Colorization Engine for Real Product Photographs
-    function recolorRealProductImage(imgEl, hexColor) {
-      if (!imgEl || !hexColor) return;
+    // High-Precision GPU Filter Engine for 2D Real Product Photos
+    function getColorCssFilter(hexColor) {
+      if (!hexColor) return 'none';
 
-      const baseSrc = imgEl.dataset.baseSrc || imgEl.src;
+      const hexUpper = hexColor.toUpperCase();
+      // Preset high-accuracy filters for standard Sheetal Furnitures finishes
+      if (hexUpper === '#1C344A') return 'sepia(100%) hue-rotate(170deg) saturate(220%) brightness(55%) contrast(110%)';
+      if (hexUpper === '#507D67') return 'sepia(100%) hue-rotate(95deg) saturate(180%) brightness(85%) contrast(100%)';
+      if (hexUpper === '#A3A3A3') return 'grayscale(100%) brightness(115%) contrast(95%)';
+      if (hexUpper === '#2D3E50') return 'sepia(100%) hue-rotate(165deg) saturate(180%) brightness(45%) contrast(115%)';
+      if (hexUpper === '#8A2B35') return 'sepia(100%) hue-rotate(300deg) saturate(320%) brightness(75%) contrast(110%)';
 
-      const img = new Image();
-      img.crossOrigin = 'Anonymous';
-      img.src = baseSrc;
+      let hex = hexColor.replace('#', '');
+      if (hex.length === 3) hex = hex.split('').map(x => x + x).join('');
+      const r = parseInt(hex.substring(0, 2), 16) / 255;
+      const g = parseInt(hex.substring(2, 4), 16) / 255;
+      const b = parseInt(hex.substring(4, 6), 16) / 255;
 
-      img.onload = () => {
-        try {
-          const canvas = document.createElement('canvas');
-          const w = img.naturalWidth || img.width || 800;
-          const h = img.naturalHeight || img.height || 800;
-          canvas.width = w;
-          canvas.height = h;
+      const max = Math.max(r, g, b);
+      const min = Math.min(r, g, b);
+      let h, s, l = (max + min) / 2;
 
-          const ctx = canvas.getContext('2d');
-          ctx.drawImage(img, 0, 0, w, h);
-
-          const imgData = ctx.getImageData(0, 0, w, h);
-          const data = imgData.data;
-
-          let hex = hexColor.replace('#', '');
-          if (hex.length === 3) hex = hex.split('').map(x => x + x).join('');
-          const tr = parseInt(hex.substring(0, 2), 16);
-          const tg = parseInt(hex.substring(2, 4), 16);
-          const tb = parseInt(hex.substring(4, 6), 16);
-
-          for (let i = 0; i < data.length; i += 4) {
-            const r = data[i];
-            const g = data[i + 1];
-            const b = data[i + 2];
-            const a = data[i + 3];
-
-            if (a < 10) continue;
-
-            // Skip pure white / near-white background pixels
-            if (r > 240 && g > 240 && b > 240) continue;
-
-            const brightness = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
-            const colorDiff = Math.max(Math.abs(r - g), Math.abs(g - b), Math.abs(r - b));
-
-            // Target main chair body (skip silver chrome where colorDiff < 8 and brightness > 0.6)
-            if (colorDiff > 8 || brightness < 0.65) {
-              const factor = Math.min(1.4, brightness * 1.35 + 0.15);
-              data[i]     = Math.min(255, Math.round(tr * factor));
-              data[i + 1] = Math.min(255, Math.round(tg * factor));
-              data[i + 2] = Math.min(255, Math.round(tb * factor));
-            }
-          }
-
-          ctx.putImageData(imgData, 0, 0);
-          imgEl.src = canvas.toDataURL('image/png');
-          imgEl.style.filter = 'none';
-        } catch (e) {
-          applySvgColorFilter(imgEl, hexColor);
+      if (max === min) {
+        h = s = 0;
+      } else {
+        const d = max - min;
+        s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+        switch (max) {
+          case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+          case g: h = (b - r) / d + 2; break;
+          case b: h = (r - g) / d + 4; break;
         }
-      };
-
-      img.onerror = () => {
-        applySvgColorFilter(imgEl, hexColor);
-      };
-    }
-
-    // Dynamic SVG Color Tinting Fallback Engine
-    function applySvgColorFilter(imgEl, hexColor) {
-      if (!imgEl || !hexColor) return;
-
-      let c = hexColor.replace('#', '');
-      if (c.length === 3) c = c.split('').map(x => x + x).join('');
-      const r = parseInt(c.substring(0, 2), 16) / 255;
-      const g = parseInt(c.substring(2, 4), 16) / 255;
-      const b = parseInt(c.substring(4, 6), 16) / 255;
-
-      let filterSvg = document.getElementById('dynamic-color-filter-svg');
-      if (!filterSvg) {
-        filterSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-        filterSvg.id = 'dynamic-color-filter-svg';
-        filterSvg.style.position = 'absolute';
-        filterSvg.style.width = '0';
-        filterSvg.style.height = '0';
-        filterSvg.style.pointerEvents = 'none';
-        filterSvg.innerHTML = `
-          <filter id="dynamic-recolor-filter" color-interpolation-filters="sRGB">
-            <feColorMatrix id="fe-matrix" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-          </filter>
-        `;
-        document.body.appendChild(filterSvg);
+        h /= 6;
       }
 
-      const feMatrix = document.getElementById('fe-matrix');
-      if (feMatrix) {
-        feMatrix.setAttribute('values', `
-          ${r * 0.7 + 0.3} ${r * 0.15} ${r * 0.15} 0 0
-          ${g * 0.15} ${g * 0.7 + 0.3} ${g * 0.15} 0 0
-          ${b * 0.15} ${b * 0.15} ${b * 0.7 + 0.3} 0 0
-          0 0 0 1 0
-        `);
-        imgEl.style.filter = 'url(#dynamic-recolor-filter)';
+      const hueDeg = Math.round(h * 360);
+      const satPct = Math.round(s * 100);
+      const lightPct = Math.round(l * 100);
+
+      if (satPct < 10) {
+        return `grayscale(100%) brightness(${Math.max(30, lightPct * 1.4)}%) contrast(105%)`;
       }
+
+      const sepiaOffset = (hueDeg - 38 + 360) % 360;
+      const brightness = Math.min(130, Math.max(40, lightPct * 1.5));
+      const saturate = Math.min(400, Math.max(120, satPct * 2.8));
+
+      return `sepia(100%) hue-rotate(${sepiaOffset}deg) saturate(${saturate}%) brightness(${brightness}%)`;
     }
 
     // Configurator swatch selection
@@ -1020,9 +966,9 @@
           previewImg.src = imageSrc;
           previewImg.style.filter = 'none';
         } else {
-          // Dynamic photorealistic recoloring of real chair image
+          // Instant GPU color filter for real photo view
           if (colorHex) {
-            recolorRealProductImage(previewImg, colorHex);
+            previewImg.style.filter = getColorCssFilter(colorHex);
           }
         }
         previewImg.style.opacity = '1';
