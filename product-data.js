@@ -20,8 +20,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
         },
         {
@@ -65,8 +65,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
         },
         {
@@ -110,8 +110,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
         },
         {
@@ -155,8 +155,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
         },
         {
@@ -200,8 +200,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
         },
         {
@@ -245,8 +245,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
         },
         {
@@ -290,8 +290,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_3891.jpeg"
         },
         {
@@ -335,8 +335,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_4081.jpeg"
         },
         {
@@ -380,8 +380,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_4082.jpeg"
         },
         {
@@ -425,8 +425,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/IMG_4083.jpeg"
         },
         {
@@ -470,8 +470,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Almirah and lockers/51OGYdci2QL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
@@ -517,8 +517,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 1/0EE04ED1-0565-4D34-89CC-57544EA535EC.png"
         },
         {
@@ -563,8 +563,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 2/IMG_3620.webp"
         },
         {
@@ -608,8 +608,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 3/IMG_4034.jpeg"
         },
         {
@@ -653,8 +653,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 4/IMG_3619.webp"
         },
         {
@@ -698,8 +698,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 5/IMG_3622.webp"
         },
         {
@@ -743,8 +743,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 6/IMG_3623.webp"
         },
         {
@@ -788,8 +788,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 7/IMG_4035.jpeg"
         },
         {
@@ -833,8 +833,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 8/IMG_4038.jpeg"
         },
         {
@@ -880,8 +880,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Classroom furniture/6189oJEcs1L._AC_AIweblab1006854,T4_FMavif_SF1050,1050_PQ64_.jpg"
         },
         {
@@ -930,8 +930,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
         },
         {
@@ -981,8 +981,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
         },
         {
@@ -1029,8 +1029,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Classroom furniture/Bench 3/IMG_3830.jpeg"
         },
         {
@@ -1080,8 +1080,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
         },
         {
@@ -1131,8 +1131,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
         },
         {
@@ -1180,8 +1180,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
         },
         {
@@ -1227,8 +1227,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
         },
         {
@@ -1272,8 +1272,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 2/IMG_0235.jpeg"
         },
         {
@@ -1317,8 +1317,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 3/IMG_0627.jpeg"
         },
         {
@@ -1363,8 +1363,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg"
         },
         {
@@ -1412,8 +1412,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
         },
         {
@@ -1457,8 +1457,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 6/IMG_3309.png"
         },
         {
@@ -1502,8 +1502,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 7/IMG_3345.jpeg"
         },
         {
@@ -1548,8 +1548,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg"
         },
         {
@@ -1593,8 +1593,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 9/IMG_3651.jpeg"
         },
         {
@@ -1638,8 +1638,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 10/IMG_5090.jpeg"
         },
         {
@@ -1684,8 +1684,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg"
         },
         {
@@ -1735,8 +1735,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
         },
         {
@@ -1784,8 +1784,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
         },
         {
@@ -1832,8 +1832,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg"
         },
         {
@@ -1883,8 +1883,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
         },
         {
@@ -1934,8 +1934,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Baleno/62282.jpeg"
         },
         {
@@ -1986,8 +1986,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4331.png"
         },
         {
@@ -2040,8 +2040,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png"
         },
         {
@@ -2091,8 +2091,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
@@ -2142,8 +2142,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
         },
         {
@@ -2191,8 +2191,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
         },
         {
@@ -2240,8 +2240,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
         },
         {
@@ -2289,8 +2289,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
         },
         {
@@ -2337,8 +2337,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg"
         },
         {
@@ -2396,8 +2396,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
@@ -2444,8 +2444,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
         },
         {
@@ -2492,8 +2492,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
@@ -2540,8 +2540,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
@@ -2595,8 +2595,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
@@ -2643,8 +2643,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
@@ -2694,8 +2694,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
@@ -2743,8 +2743,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
         },
         {
@@ -2803,8 +2803,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Optimus hb/Casual all models insta posts.png"
         },
         {
@@ -2852,8 +2852,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
         },
         {
@@ -2901,8 +2901,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
         },
         {
@@ -2949,8 +2949,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
@@ -2999,8 +2999,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
@@ -3048,8 +3048,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
@@ -3096,8 +3096,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         },
         {
@@ -3155,8 +3155,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
@@ -3208,8 +3208,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         },
         {
@@ -3258,8 +3258,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
@@ -3310,8 +3310,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         },
         {
@@ -3359,8 +3359,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png"
         },
         {
@@ -3407,8 +3407,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png"
         },
         {
@@ -3454,8 +3454,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Executive tables/Table 4/IMG_4043.webp"
         },
         {
@@ -3503,8 +3503,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
         },
         {
@@ -3551,8 +3551,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg"
         },
         {
@@ -3611,8 +3611,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Hostel furniture/Hostel beds/22EC9130-D98B-4278-80C7-4FA4B7C57AD0.png"
         },
         {
@@ -3659,8 +3659,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Hostel furniture/Hostel storage/IMG_4030.webp"
         },
         {
@@ -3707,8 +3707,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Hostel furniture/Hostel study tables/IMG_2957.jpeg"
         },
         {
@@ -3754,8 +3754,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/62357.jpeg"
         },
         {
@@ -3799,8 +3799,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_1600.jpeg"
         },
         {
@@ -3844,8 +3844,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_3707.jpeg"
         },
         {
@@ -3889,8 +3889,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_3948.jpeg"
         },
         {
@@ -3934,8 +3934,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_4010.jpeg"
         },
         {
@@ -3979,8 +3979,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_4011.jpeg"
         },
         {
@@ -4024,8 +4024,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_4016.png"
         },
         {
@@ -4069,8 +4069,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_4017.jpeg"
         },
         {
@@ -4114,8 +4114,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_4018.jpeg"
         },
         {
@@ -4159,8 +4159,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_4019.jpeg"
         },
         {
@@ -4204,8 +4204,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_7894.jpeg"
         },
         {
@@ -4249,8 +4249,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_9217.jpeg"
         },
         {
@@ -4294,8 +4294,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional seating/IMG_9218.jpeg"
         },
         {
@@ -4341,8 +4341,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_3008.png"
         },
         {
@@ -4386,8 +4386,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_3009.png"
         },
         {
@@ -4431,8 +4431,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_3010.png"
         },
         {
@@ -4476,8 +4476,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_3864.jpeg"
         },
         {
@@ -4521,8 +4521,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_3881.jpeg"
         },
         {
@@ -4566,8 +4566,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_3882.jpeg"
         },
         {
@@ -4611,8 +4611,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_3896.jpeg"
         },
         {
@@ -4656,8 +4656,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_4007.webp"
         },
         {
@@ -4701,8 +4701,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_4008.webp"
         },
         {
@@ -4746,8 +4746,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_4009.webp"
         },
         {
@@ -4791,8 +4791,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_4012.jpeg"
         },
         {
@@ -4836,8 +4836,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_4013.jpeg"
         },
         {
@@ -4881,8 +4881,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_4014.jpeg"
         },
         {
@@ -4926,8 +4926,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Institutional storage/IMG_4015.jpeg"
         },
         {
@@ -4976,8 +4976,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Workstations/Iron frame workstations/Aviator/054699fd-c69c-41cf-8d2a-95256d7dfcf0 2.jpeg"
         },
         {
@@ -5026,8 +5026,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
         },
         {
@@ -5073,8 +5073,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
         },
         {
@@ -5118,8 +5118,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
         },
         {
@@ -5163,8 +5163,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 3/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
         },
         {
@@ -5208,8 +5208,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 4/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
         },
         {
@@ -5257,8 +5257,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
         },
         {
@@ -5302,8 +5302,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 6/IMG_0709.webp"
         },
         {
@@ -5349,8 +5349,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg"
         },
         {
@@ -5394,8 +5394,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 8/IMG_3312.jpeg"
         },
         {
@@ -5445,8 +5445,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         },
         {
@@ -5493,8 +5493,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
         },
         {
@@ -5538,8 +5538,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
         },
         {
@@ -5585,8 +5585,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg"
         },
         {
@@ -5631,8 +5631,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3904.webp"
         },
         {
@@ -5680,8 +5680,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         },
         {
@@ -5729,8 +5729,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Office Storage/Pedestal/IMG_3008.png"
         },
         {
@@ -5776,8 +5776,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Office Storage/Storage 1/IMG_4091.jpeg"
         },
         {
@@ -5824,8 +5824,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Office Storage/Storage 2/IMG_4087.jpeg"
         },
         {
@@ -5873,8 +5873,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
         },
         {
@@ -5921,8 +5921,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Office Storage/Storage 4/IMG_3892.jpeg"
         },
         {
@@ -5968,8 +5968,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Office Storage/Storage 5/IMG_3900.jpeg"
         },
         {
@@ -6015,8 +6015,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Office Storage/Storage 6/77114c4d-f85b-4a94-9a7f-0abee8fd1c6d.jpeg"
         },
         {
@@ -6063,8 +6063,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg"
         },
         {
@@ -6110,8 +6110,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Office Storage/Storage 8/IMG_3015.png"
         },
         {
@@ -6161,8 +6161,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
         },
         {
@@ -6210,8 +6210,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
         },
         {
@@ -6259,8 +6259,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
         },
         {
@@ -6308,8 +6308,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
         },
         {
@@ -6355,8 +6355,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Racks/46fc5215-9b94-45ef-92f4-8d251aacd804.jpeg"
         },
         {
@@ -6400,8 +6400,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Racks/A5230CF9-F57D-401E-846E-EA86583895BD.png"
         },
         {
@@ -6445,8 +6445,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Racks/A64FFBC5-7A4C-4FF7-9348-EC21E39D91B8.png"
         },
         {
@@ -6490,8 +6490,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Racks/IMG_3896.jpeg"
         },
         {
@@ -6535,8 +6535,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Racks/IMG_4008.webp"
         },
         {
@@ -6580,8 +6580,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Racks/IMG_4009.webp"
         },
         {
@@ -6625,8 +6625,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Racks/IMG_4084.webp"
         },
         {
@@ -6670,8 +6670,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Racks/IMG_4085.jpeg"
         },
         {
@@ -6715,8 +6715,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Archiving/Racks/IMG_4086.jpeg"
         },
         {
@@ -6765,8 +6765,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Reception tables/Harmony/IMG_3656.png"
         },
         {
@@ -6812,8 +6812,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg"
         },
         {
@@ -6860,8 +6860,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg"
         },
         {
@@ -6909,8 +6909,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
         },
         {
@@ -6961,8 +6961,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
@@ -7009,8 +7009,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
@@ -7059,8 +7059,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
@@ -7107,8 +7107,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
@@ -7156,8 +7156,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
@@ -7203,8 +7203,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Staff tables/IMG_3916.jpeg"
         },
         {
@@ -7248,8 +7248,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Staff tables/IMG_3917.jpeg"
         },
         {
@@ -7293,8 +7293,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Staff tables/IMG_4020.jpeg"
         },
         {
@@ -7338,8 +7338,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Staff tables/IMG_4021.jpeg"
         },
         {
@@ -7383,8 +7383,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Education/Staff tables/IMG_4022.jpeg"
         },
         {
@@ -7434,8 +7434,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/802 abs/62335_Original.jpeg"
         },
         {
@@ -7482,8 +7482,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Barry/612PuwzPxgL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
@@ -7532,8 +7532,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Boom/IMG_2973.png"
         },
         {
@@ -7581,8 +7581,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Butterfly mb/IMG_2965.jpeg"
         },
         {
@@ -7630,8 +7630,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Centreply/62301_Original.jpeg"
         },
         {
@@ -7680,8 +7680,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Comfy mb/IMG_3267.jpeg"
         },
         {
@@ -7730,8 +7730,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Desire/IMG_4373.jpeg"
         },
         {
@@ -7778,8 +7778,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Glanza mb/GLANZA - MB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
@@ -7834,8 +7834,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Jazz mb/IMG_0874.jpeg"
         },
         {
@@ -7882,8 +7882,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Majesty mb/MAJESTY - MB - LIVE IMAGE -  (1).jpeg"
         },
         {
@@ -7930,8 +7930,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Malaysian mb/62295.jpeg"
         },
         {
@@ -7984,8 +7984,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Matrix mb/IMG_2164.jpeg"
         },
         {
@@ -8032,8 +8032,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Mustang mb/MUSTANG - MB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
@@ -8081,8 +8081,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Optimus mb/Untitled design.zip - 1.jpeg"
         },
         {
@@ -8137,8 +8137,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Pears black/IMG_2188.jpeg"
         },
         {
@@ -8189,8 +8189,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Pears white/IMG_0853.jpeg"
         },
         {
@@ -8237,8 +8237,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Polar/polar mb  (32).jpeg"
         },
         {
@@ -8286,8 +8286,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Rio mb/IMG_1010.jpeg"
         },
         {
@@ -8334,8 +8334,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Robo/IMG_4349.jpeg"
         },
         {
@@ -8383,8 +8383,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Rodnet mb/IMG_4368.png"
         },
         {
@@ -8432,8 +8432,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/S model/62342_Original.jpeg"
         },
         {
@@ -8483,8 +8483,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Scorpio mb black/715eS3dLFgL._AC_UF1000,1000_QL80_.jpeg"
         },
         {
@@ -8533,8 +8533,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Scorpio mb grey/IMG_2981.png"
         },
         {
@@ -8581,8 +8581,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Seoul/62308.jpeg"
         },
         {
@@ -8630,8 +8630,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Spinal mb/IMG_5138.webp"
         },
         {
@@ -8680,8 +8680,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Seating/Task Chairs/Zigzag/IMG_4386.webp"
         },
         {
@@ -8730,8 +8730,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Workstations/Wooden workstations/Oslo/IMG_3741.png"
         },
         {
@@ -8778,8 +8778,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3744.png"
         },
         {
@@ -8827,8 +8827,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Alpine - 400",
-          "color": "#1C344A",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
           "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
         },
         {
