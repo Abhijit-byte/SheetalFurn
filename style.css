@@ -127,12 +127,12 @@ section {
 }
 
 section+section {
-  margin-top: 6rem;
+  margin-top: 2.5rem;
 }
 
 @media (min-width: 992px) {
   section+section {
-    margin-top: 8rem;
+    margin-top: 3.5rem;
   }
 }
 
@@ -685,7 +685,7 @@ header.fixed-header.inner-header {
 /* --- Statement Section --- */
 .statement-section {
   position: relative;
-  padding: 12rem 0;
+  padding: 4rem 0 2rem;
   background-color: var(--color-white);
   display: flex;
   justify-content: center;
@@ -708,7 +708,7 @@ header.fixed-header.inner-header {
 .about-section {
   position: relative;
   text-align: center;
-  padding: 12rem 0;
+  padding: 4rem 0;
   background: linear-gradient(to bottom, #ffffff 50%, #fdf8eb 50%);
   display: flex;
   justify-content: center;
@@ -825,7 +825,7 @@ header.fixed-header.inner-header {
 
 @media (max-width: 768px) {
   .about-section {
-    padding: 8rem 0;
+    padding: 3rem 0;
   }
   .about-heading {
     font-size: 4rem;
@@ -845,7 +845,7 @@ header.fixed-header.inner-header {
   margin-left: auto;
   margin-right: 8%;
   text-align: left;
-  margin-bottom: 7rem;
+  margin-bottom: 2rem;
 }
 
 .statement-kicker {
@@ -1037,7 +1037,7 @@ header.fixed-header.inner-header {
 /* --- Heritage Section --- */
 .heritage-section {
   background-color: #f7f7f7;
-  padding: 8rem 0;
+  padding: 4rem 0;
 }
 
 .heritage-layout {
@@ -1134,7 +1134,7 @@ header.fixed-header.inner-header {
 /* --- Divisions Section --- */
 .divisions-section {
   background-color: #f7f7f7;
-  padding: 6rem 0;
+  padding: 3.5rem 0;
   position: relative;
 }
 
@@ -1235,8 +1235,8 @@ header.fixed-header.inner-header {
 /* --- Moodboard Section --- */
 .moodboard-section {
   display: flex;
-  min-height: 100vh;
-  padding: 8rem 0;
+  min-height: auto;
+  padding: 4rem 0;
 }
 
 .moodboard-left {
@@ -1981,7 +1981,7 @@ header.fixed-header.inner-header {
 /* --- Offerings Section --- */
 .offerings-section {
   background-color: #fcfbfb;
-  padding: 6rem 0;
+  padding: 3.5rem 0;
   overflow: hidden;
   border-top: 1px solid var(--color-border);
   border-bottom: 1px solid var(--color-border);
@@ -2139,7 +2139,7 @@ header.fixed-header.inner-header {
 
 @media (max-width: 992px) {
   .offerings-section {
-    padding: 5rem 0;
+    padding: 2.5rem 0;
   }
 
   .offerings-title {
@@ -3061,7 +3061,7 @@ body.slideshow-active .about-section .container {
 
 /* --- Product Grid Section --- */
 .product-grid-section {
-  padding: 8rem 0;
+  padding: 4rem 0;
   background-color: var(--color-white);
 }
 
