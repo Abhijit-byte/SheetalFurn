@@ -1985,8 +1985,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
           "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
         },
         {
@@ -2000,8 +2000,8 @@ const productData = {
           "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
+          "name": "Classic Brown",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
         },
         {
@@ -2039,8 +2039,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
           "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
         },
         {
@@ -2054,8 +2054,8 @@ const productData = {
           "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
+          "name": "Classic Brown",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
         },
         {
@@ -2141,8 +2141,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
           "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
         },
         {
@@ -2156,8 +2156,8 @@ const productData = {
           "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
+          "name": "Classic Brown",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
         },
         {
@@ -2802,8 +2802,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
           "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
@@ -2817,8 +2817,8 @@ const productData = {
           "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
+          "name": "Classic Brown",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
@@ -2998,8 +2998,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
           "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
@@ -3013,8 +3013,8 @@ const productData = {
           "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
+          "name": "Classic Brown",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
@@ -3095,8 +3095,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
           "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         },
         {
@@ -3110,8 +3110,8 @@ const productData = {
           "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
+          "name": "Classic Brown",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
         },
         {
@@ -3154,8 +3154,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
           "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
@@ -3169,8 +3169,8 @@ const productData = {
           "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
+          "name": "Classic Brown",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
@@ -3207,8 +3207,8 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
           "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         },
         {
@@ -3222,8 +3222,8 @@ const productData = {
           "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
+          "name": "Classic Brown",
+          "color": "#6B4226",
           "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
         },
         {

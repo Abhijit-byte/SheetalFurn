@@ -734,15 +734,16 @@
       document.getElementById('configurator-preview-img').src = product.images[0];
 
       // Check if current chair is natively a Black Mesh/Fabric chair (e.g. Butterfly hb)
-      const isBlackMeshChair = (product.slug && (
-        product.slug.includes('butterfly') || 
-        product.slug.includes('cobra') || 
-        product.slug.includes('black') || 
-        product.slug.includes('mesh') ||
-        product.slug.includes('spider') ||
-        product.slug.includes('spinal') ||
-        product.slug.includes('opti')
-      ));
+      const currentSlug = (productSlug || (product && product.name ? product.name.toLowerCase() : '')).toLowerCase();
+      const isBlackMeshChair = (
+        currentSlug.includes('butterfly') || 
+        currentSlug.includes('cobra') || 
+        currentSlug.includes('black') || 
+        currentSlug.includes('mesh') ||
+        currentSlug.includes('spider') ||
+        currentSlug.includes('spinal') ||
+        currentSlug.includes('opti')
+      );
 
       let finishesList;
       if (isBlackMeshChair) {
