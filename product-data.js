@@ -2000,27 +2000,28 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
+          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg",
+          "isOriginal": true
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
+          "image": "products/Seating/Executive Chairs/Butterfly hb/butterfly-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
+          "image": "products/Seating/Executive Chairs/Butterfly hb/butterfly-grey.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
+          "image": "products/Seating/Executive Chairs/Butterfly hb/butterfly-brown.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg"
+          "image": "products/Seating/Executive Chairs/Butterfly hb/butterfly-red.png"
         }
       ]
     },
