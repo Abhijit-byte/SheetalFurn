@@ -733,14 +733,35 @@
       // Setup Configurator default view
       document.getElementById('configurator-preview-img').src = product.images[0];
 
-      // Define finishes list: 1st swatch is Classic Brown (Original), Alpine Navy deleted as requested!
-      const finishesList = [
-        { name: "Classic Brown (Original)", color: "#6B4226", isOriginal: true },
-        { name: "Forest - 602", color: "#507D67" },
-        { name: "Gravel - 210", color: "#A3A3A3" },
-        { name: "Midnight - 120", color: "#2D3E50" },
-        { name: "Crimson - 808", color: "#8A2B35" }
-      ];
+      // Check if current chair is natively a Black Mesh/Fabric chair (e.g. Butterfly hb)
+      const isBlackMeshChair = (product.slug && (
+        product.slug.includes('butterfly') || 
+        product.slug.includes('cobra') || 
+        product.slug.includes('black') || 
+        product.slug.includes('mesh') ||
+        product.slug.includes('spider') ||
+        product.slug.includes('spinal') ||
+        product.slug.includes('opti')
+      ));
+
+      let finishesList;
+      if (isBlackMeshChair) {
+        finishesList = [
+          { name: "Classic Black (Original)", color: "#111111", isOriginal: true },
+          { name: "Forest - 602", color: "#507D67" },
+          { name: "Gravel - 210", color: "#A3A3A3" },
+          { name: "Classic Brown", color: "#6B4226" },
+          { name: "Crimson - 808", color: "#8A2B35" }
+        ];
+      } else {
+        finishesList = [
+          { name: "Classic Brown (Original)", color: "#6B4226", isOriginal: true },
+          { name: "Forest - 602", color: "#507D67" },
+          { name: "Gravel - 210", color: "#A3A3A3" },
+          { name: "Midnight - 120", color: "#2D3E50" },
+          { name: "Crimson - 808", color: "#8A2B35" }
+        ];
+      }
 
       // Populate Configurator color swatches
       const swatchesRow = document.getElementById('swatches-row');
@@ -757,7 +778,7 @@
         `;
       });
 
-      // Default initial view: Classic Brown (Original) -> 100% pure original brown chair photo!
+      // Default initial view: 100% pure original chair photo!
       document.getElementById('active-finish-name').innerText = finishesList[0].name;
       const previewImgEl = document.getElementById('configurator-preview-img');
       const mainBaseImg = product.images && product.images.length > 0 ? product.images[0] : previewImgEl.src;
