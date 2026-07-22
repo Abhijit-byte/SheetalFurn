@@ -2152,8 +2152,8 @@ const productData = {
     "glanza-hb-black": {
       "name": "Glanza hb black",
       "images": [
-        "products/Seating/Executive Chairs/Glanza hb black/glanza-black.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5601.png",
+        "products/Seating/Executive Chairs/Glanza hb black/glanza-black.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5602.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5603.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5604.png",
@@ -2306,9 +2306,9 @@ const productData = {
     "hugo": {
       "name": "Hugo",
       "images": [
+        "products/Seating/Executive Chairs/Hugo/62216.jpeg",
         "products/Seating/Executive Chairs/Hugo/hugo-black.png",
         "products/Seating/Executive Chairs/Hugo/62215.jpeg",
-        "products/Seating/Executive Chairs/Hugo/62216.jpeg",
         "products/Seating/Executive Chairs/Hugo/62217.jpeg",
         "products/Seating/Executive Chairs/Hugo/62218.jpeg"
       ],
@@ -2413,8 +2413,8 @@ const productData = {
     "jazz-hb": {
       "name": "Jazz hb",
       "images": [
-        "products/Seating/Executive Chairs/Jazz hb/jazz-black.png",
         "products/Seating/Executive Chairs/Jazz hb/B3DD53A0-3CFB-48D3-9F9C-BF771AE46521_L0_001-7_11_2023, 7_48_03 PM.jpeg",
+        "products/Seating/Executive Chairs/Jazz hb/jazz-black.png",
         "products/Seating/Executive Chairs/Jazz hb/IMG_0682.jpeg",
         "products/Seating/Executive Chairs/Jazz hb/IMG_1018.jpeg",
         "products/Seating/Executive Chairs/Jazz hb/IMG_1611.jpeg",
