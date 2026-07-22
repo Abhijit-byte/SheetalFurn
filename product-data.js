@@ -1,4 +1,3 @@
-// Dynamic Product Database for Sheetal Furnitures
 const productData = {
   "almirah-lockers": {
     "almirah-locker-1": {
@@ -2015,8 +2014,8 @@ const productData = {
     "cobra": {
       "name": "Cobra",
       "images": [
-        "products/Seating/Executive Chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png",
         "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg",
+        "products/Seating/Executive Chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png",
         "products/Seating/Executive Chairs/Cobra/IMG_2967.png",
         "products/Seating/Executive Chairs/Cobra/IMG_2968.png",
         "products/Seating/Executive Chairs/Cobra/IMG_2969.png",
@@ -2772,8 +2771,8 @@ const productData = {
     "optimus-hb": {
       "name": "Optimus hb",
       "images": [
-        "products/Seating/Executive Chairs/Optimus hb/Casual all models insta posts.png",
         "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg",
+        "products/Seating/Executive Chairs/Optimus hb/Casual all models insta posts.png",
         "products/Seating/Executive Chairs/Optimus hb/IMG_0789.jpeg",
         "products/Seating/Executive Chairs/Optimus hb/IMG_0793.jpeg",
         "products/Seating/Executive Chairs/Optimus hb/IMG_2037.jpeg",
@@ -8855,7 +8854,3 @@ const productData = {
     }
   }
 };
-
-if (typeof module !== 'undefined') {
-  module.exports = productData;
-}
