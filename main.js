@@ -846,13 +846,13 @@ document.addEventListener('DOMContentLoaded', () => {
   const cards = document.querySelectorAll('.hero-scroller-card');
 
   const slideData = [
-    { image: 'images/sofas.png', title: 'Sofas' },
-    { image: 'images/seating.png', title: 'Task Chairs' },
-    { image: 'images/lounge_chairs.png', title: 'Lounge Chairs' },
-    { image: 'images/workstations.png', title: 'Workstations' },
-    { image: 'images/storage.png', title: 'Archiving' },
-    { image: 'images/conference_tables.png', title: 'Conference Tables' },
-    { image: 'images/tables.png', title: 'Executive Tables' }
+    { image: 'images/hero_sofas.jpg', title: 'Sofas' },
+    { image: 'images/hero_task_chairs.jpg', title: 'Task Chairs' },
+    { image: 'images/hero_lounge_chairs.jpg', title: 'Lounge Chairs' },
+    { image: 'images/hero_workstations.jpg', title: 'Workstations' },
+    { image: 'images/hero_storage.jpg', title: 'Archiving' },
+    { image: 'images/hero_conference_tables.jpg', title: 'Conference Tables' },
+    { image: 'images/hero_executive_tables.jpg', title: 'Executive Tables' }
   ];
 
   if (heroBg && heroTitle && cards.length > 0) {
