@@ -498,6 +498,15 @@
       } else {
         build3DCabinet(productMeshGroup);
       }
+
+      window.addEventListener('resize', onWindowResize);
+
+      function animate() {
+        requestAnimationFrame(animate);
+        if (controls) controls.update();
+        if (renderer && scene && camera) renderer.render(scene, camera);
+      }
+      animate();
     }
 
     function build3DSofa(group) {
@@ -549,15 +558,6 @@
       floor.position.y = -0.4;
       floor.receiveShadow = true;
       scene.add(floor);
-
-      window.addEventListener('resize', onWindowResize);
-
-      function animate() {
-        requestAnimationFrame(animate);
-        controls.update();
-        renderer.render(scene, camera);
-      }
-      animate();
     }
 
     function build3DChair(group) {
@@ -892,6 +892,56 @@
       });
     }
 
+    // High-Precision GPU Filter Engine for 2D Real Product Photos
+    function getColorCssFilter(hexColor) {
+      if (!hexColor) return 'none';
+
+      const hexUpper = hexColor.toUpperCase();
+      // Preset high-accuracy filters for standard Sheetal Furnitures finishes
+      if (hexUpper === '#1C344A') return 'sepia(100%) hue-rotate(170deg) saturate(220%) brightness(55%) contrast(110%)';
+      if (hexUpper === '#507D67') return 'sepia(100%) hue-rotate(95deg) saturate(180%) brightness(85%) contrast(100%)';
+      if (hexUpper === '#A3A3A3') return 'grayscale(100%) brightness(115%) contrast(95%)';
+      if (hexUpper === '#2D3E50') return 'sepia(100%) hue-rotate(165deg) saturate(180%) brightness(45%) contrast(115%)';
+      if (hexUpper === '#8A2B35') return 'sepia(100%) hue-rotate(300deg) saturate(320%) brightness(75%) contrast(110%)';
+
+      let hex = hexColor.replace('#', '');
+      if (hex.length === 3) hex = hex.split('').map(x => x + x).join('');
+      const r = parseInt(hex.substring(0, 2), 16) / 255;
+      const g = parseInt(hex.substring(2, 4), 16) / 255;
+      const b = parseInt(hex.substring(4, 6), 16) / 255;
+
+      const max = Math.max(r, g, b);
+      const min = Math.min(r, g, b);
+      let h, s, l = (max + min) / 2;
+
+      if (max === min) {
+        h = s = 0;
+      } else {
+        const d = max - min;
+        s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+        switch (max) {
+          case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+          case g: h = (b - r) / d + 2; break;
+          case b: h = (r - g) / d + 4; break;
+        }
+        h /= 6;
+      }
+
+      const hueDeg = Math.round(h * 360);
+      const satPct = Math.round(s * 100);
+      const lightPct = Math.round(l * 100);
+
+      if (satPct < 10) {
+        return `grayscale(100%) brightness(${Math.max(30, lightPct * 1.4)}%) contrast(105%)`;
+      }
+
+      const sepiaOffset = (hueDeg - 38 + 360) % 360;
+      const brightness = Math.min(130, Math.max(40, lightPct * 1.5));
+      const saturate = Math.min(400, Math.max(120, satPct * 2.8));
+
+      return `sepia(100%) hue-rotate(${sepiaOffset}deg) saturate(${saturate}%) brightness(${brightness}%)`;
+    }
+
     // Configurator swatch selection
     function selectFinish(btn, finishName, imageSrc, colorHex) {
       // Update swatch active classes
@@ -901,12 +951,12 @@
       // Update finish name indicator
       document.getElementById('active-finish-name').innerText = finishName;
 
-      // Update 3D Model primary material color dynamically
+      // Update 3D Model primary material color dynamically if 3D active
       if (mainMaterial && colorHex) {
         mainMaterial.color.set(colorHex);
       }
 
-      // Update preview image & color overlay for 2D mode
+      // Update 2D real photo preview
       const previewImg = document.getElementById('configurator-preview-img');
       const overlay = document.getElementById('configurator-color-overlay');
 
@@ -916,12 +966,13 @@
         const baseImg = previewImg.dataset.baseSrc || previewImg.src;
         if (imageSrc && imageSrc !== 'undefined' && imageSrc !== baseImg) {
           previewImg.src = imageSrc;
+          previewImg.style.filter = 'none';
           if (overlay) overlay.style.opacity = '0';
         } else {
-          // Dynamic color tint on 2D chair photo
-          if (overlay && colorHex) {
-            overlay.style.backgroundColor = colorHex;
-            overlay.style.opacity = '0.55';
+          // Instant GPU color filter for real photo view
+          if (colorHex) {
+            previewImg.style.filter = getColorCssFilter(colorHex);
+            if (overlay) overlay.style.opacity = '0';
           }
         }
         previewImg.style.opacity = '1';
