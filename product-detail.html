@@ -971,7 +971,7 @@
             if (a < 10) continue;
 
             // 1. Background protection: Force clean pure white background
-            if (r > 215 && g > 215 && b > 215) {
+            if (r > 225 && g > 225 && b > 225) {
               data[i] = 255;
               data[i + 1] = 255;
               data[i + 2] = 255;
@@ -982,22 +982,19 @@
             const maxDiff = Math.max(Math.abs(r - g), Math.abs(g - b), Math.abs(r - b));
             const lum = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
 
-            const isChromeMetal = (maxDiff < 18 && (lum > 0.42 || (r > 135 && g > 135 && b > 135)));
-            const isBottomCaster = (py > h * 0.84 && maxDiff < 12 && lum < 0.22);
+            const isChromeMetal = (maxDiff < 14 && lum > 0.65) || (r > 175 && g > 175 && b > 175 && maxDiff < 15);
+            const isBottomCaster = (py > h * 0.85 && maxDiff < 10 && lum < 0.15);
 
             if (isChromeMetal || isBottomCaster) {
-              continue; // Leave chrome handles & bottom casters 100% original!
+              continue; // Leave chrome handles, metal tubes & legs 100% silver chrome!
             }
 
-            // 3. Recolor chair body (mesh/fabric/leather)
-            const normLum = Math.min(1.0, Math.max(0.04, lum));
-            const baseStrength = 0.40;
-            const lightStrength = normLum * 0.90;
-            const totalFactor = baseStrength + lightStrength;
+            // 3. Uniform Whole Chair Body Recoloring (Headrest, Backrest, Cushion, Arm pads):
+            const factor = Math.min(1.4, 0.45 + (lum * 0.80));
 
-            data[i]     = Math.min(255, Math.round(tr * totalFactor));
-            data[i + 1] = Math.min(255, Math.round(tg * totalFactor));
-            data[i + 2] = Math.min(255, Math.round(tb * totalFactor));
+            data[i]     = Math.min(255, Math.round(tr * factor));
+            data[i + 1] = Math.min(255, Math.round(tg * factor));
+            data[i + 2] = Math.min(255, Math.round(tb * factor));
           }
 
           ctx.putImageData(imgData, 0, 0);
