@@ -670,7 +670,13 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Teak Wood (Original)",
+          "color": "#9C662A",
+          "image": "products/Woodwork/Cafe tables/Cafe 4/IMG_3619.webp",
+          "isOriginal": true
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 4/IMG_3619.webp"
         },
