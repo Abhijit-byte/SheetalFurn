@@ -2014,9 +2014,9 @@ const productData = {
     "cobra": {
       "name": "Cobra",
       "images": [
+        "products/Seating/Executive Chairs/Cobra/IMG_2967.png",
         "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg",
         "products/Seating/Executive Chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2967.png",
         "products/Seating/Executive Chairs/Cobra/IMG_2968.png",
         "products/Seating/Executive Chairs/Cobra/IMG_2969.png",
         "products/Seating/Executive Chairs/Cobra/IMG_2970.png",
@@ -2041,27 +2041,27 @@ const productData = {
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg"
+          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg"
+          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg"
+          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg"
+          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg"
+          "image": "products/Seating/Executive Chairs/Cobra/IMG_2967.png"
         }
       ]
     },
