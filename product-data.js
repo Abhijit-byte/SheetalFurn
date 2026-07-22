@@ -678,27 +678,27 @@ const productData = {
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Woodwork/Cafe tables/Cafe 4/IMG_3619.webp"
+          "image": "products/Woodwork/Cafe tables/Cafe 4/Classic Brown.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Woodwork/Cafe tables/Cafe 4/IMG_3619.webp"
+          "image": "products/Woodwork/Cafe tables/Cafe 4/Forest - 602.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Woodwork/Cafe tables/Cafe 4/IMG_3619.webp"
+          "image": "products/Woodwork/Cafe tables/Cafe 4/Gravel - 210.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Woodwork/Cafe tables/Cafe 4/IMG_3619.webp"
+          "image": "products/Woodwork/Cafe tables/Cafe 4/Midnight - 120.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Woodwork/Cafe tables/Cafe 4/IMG_3619.webp"
+          "image": "products/Woodwork/Cafe tables/Cafe 4/Crimson - 808.png"
         }
       ]
     },
