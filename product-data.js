@@ -2152,7 +2152,7 @@ const productData = {
     "glanza-hb-black": {
       "name": "Glanza hb black",
       "images": [
-        "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg",
+        "products/Seating/Executive Chairs/Glanza hb black/glanza-black.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5601.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5602.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5603.png",
@@ -2176,34 +2176,34 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
+          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-black.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
+          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
+          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-grey.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
+          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-brown.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/IMG_5598.jpeg"
+          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-crimson.png"
         }
       ]
     },
     "glanza-hb-grey": {
       "name": "Glanza hb grey",
       "images": [
-        "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png",
+        "products/Seating/Executive Chairs/Glanza hb grey/glanza-grey.png",
         "products/Seating/Executive Chairs/Glanza hb grey/IMG_7138.jpeg",
         "products/Seating/Executive Chairs/Glanza hb grey/IMG_7139.jpeg",
         "products/Seating/Executive Chairs/Glanza hb grey/IMG_7140.jpeg",
@@ -2223,36 +2223,36 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
+          "name": "Gravel - 210 (Original)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-grey.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
+          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-brown.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
+          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-navy.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/IMG_7137.png"
+          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-crimson.png"
         }
       ]
     },
     "hermes": {
       "name": "Hermes",
       "images": [
-        "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png",
+        "products/Seating/Executive Chairs/Hermes/hermes-beige.png",
         "products/Seating/Executive Chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325 2.jpeg",
         "products/Seating/Executive Chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325.jpeg",
         "products/Seating/Executive Chairs/Hermes/FC6F7D06-79E5-4831-9EB3-EDA83593A480 2.jpeg",
@@ -2272,36 +2272,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Beige (Original)",
+          "color": "#D4C4B1",
+          "image": "products/Seating/Executive Chairs/Hermes/hermes-beige.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
+          "image": "products/Seating/Executive Chairs/Hermes/hermes-brown.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
+          "image": "products/Seating/Executive Chairs/Hermes/hermes-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
+          "image": "products/Seating/Executive Chairs/Hermes/hermes-grey.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
+          "image": "products/Seating/Executive Chairs/Hermes/hermes-navy.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png"
+          "image": "products/Seating/Executive Chairs/Hermes/hermes-crimson.png"
         }
       ]
     },
     "hugo": {
       "name": "Hugo",
       "images": [
-        "products/Seating/Executive Chairs/Hugo/62214.jpeg",
+        "products/Seating/Executive Chairs/Hugo/hugo-black.png",
         "products/Seating/Executive Chairs/Hugo/62215.jpeg",
         "products/Seating/Executive Chairs/Hugo/62216.jpeg",
         "products/Seating/Executive Chairs/Hugo/62217.jpeg",
@@ -2321,36 +2326,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Hugo/hugo-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
+          "image": "products/Seating/Executive Chairs/Hugo/hugo-brown.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
+          "image": "products/Seating/Executive Chairs/Hugo/hugo-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
+          "image": "products/Seating/Executive Chairs/Hugo/hugo-grey.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
+          "image": "products/Seating/Executive Chairs/Hugo/hugo-navy.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Hugo/62214.jpeg"
+          "image": "products/Seating/Executive Chairs/Hugo/hugo-crimson.png"
         }
       ]
     },
     "indigo": {
       "name": "Indigo",
       "images": [
-        "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg",
+        "products/Seating/Executive Chairs/Indigo/indigo-black.png",
         "products/Seating/Executive Chairs/Indigo/Untitled design 2.jpg",
         "products/Seating/Executive Chairs/Indigo/Untitled design 3.jpg",
         "products/Seating/Executive Chairs/Indigo/Untitled design.jpg"
@@ -2369,36 +2379,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Indigo/indigo-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg"
+          "image": "products/Seating/Executive Chairs/Indigo/indigo-brown.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg"
+          "image": "products/Seating/Executive Chairs/Indigo/indigo-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg"
+          "image": "products/Seating/Executive Chairs/Indigo/indigo-grey.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg"
+          "image": "products/Seating/Executive Chairs/Indigo/indigo-navy.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Indigo/IMG_2334.jpeg"
+          "image": "products/Seating/Executive Chairs/Indigo/indigo-crimson.png"
         }
       ]
     },
     "jazz-hb": {
       "name": "Jazz hb",
       "images": [
-        "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg",
+        "products/Seating/Executive Chairs/Jazz hb/jazz-black.png",
         "products/Seating/Executive Chairs/Jazz hb/B3DD53A0-3CFB-48D3-9F9C-BF771AE46521_L0_001-7_11_2023, 7_48_03 PM.jpeg",
         "products/Seating/Executive Chairs/Jazz hb/IMG_0682.jpeg",
         "products/Seating/Executive Chairs/Jazz hb/IMG_1018.jpeg",
@@ -2428,29 +2443,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
+          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-brown.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
+          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
+          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-grey.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
+          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-navy.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Jazz hb/61nFBUMD8aL._AC_UF1000,1000_QL80_.jpeg"
+          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-crimson.png"
         }
       ]
     },
