@@ -742,8 +742,6 @@
       }
 
       // Setup Configurator default view
-      document.getElementById('configurator-preview-img').src = product.images[0];
-
       // Check if current chair is natively a Black Mesh/Fabric chair (e.g. Butterfly hb)
       const currentSlug = (productSlug || (product && product.name ? product.name.toLowerCase() : '')).toLowerCase();
       const isBlackMeshChair = (
@@ -793,10 +791,10 @@
         `;
       });
 
-      // Default initial view for Configurator: 1st finish color photo (e.g. cobra-brown.png)
+      // Default initial view for Configurator: 1st finish color photo (comfy-black.png)
       document.getElementById('active-finish-name').innerText = finishesList[0].name;
       const previewImgEl = document.getElementById('configurator-preview-img');
-      const initialConfiguratorImg = finishesList[0].image || (product.images && product.images.length > 0 ? product.images[0] : previewImgEl.src);
+      const initialConfiguratorImg = (finishesList && finishesList[0] && finishesList[0].image) ? finishesList[0].image : (product.images && product.images.length > 0 ? product.images[0] : previewImgEl.src);
       previewImgEl.src = initialConfiguratorImg;
       previewImgEl.dataset.baseSrc = initialConfiguratorImg;
       previewImgEl.style.filter = 'none';
