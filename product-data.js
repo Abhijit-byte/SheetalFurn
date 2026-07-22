@@ -568,7 +568,13 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Light Maple (Original)",
+          "color": "#E5C396",
+          "image": "products/Woodwork/Cafe tables/Cafe 2/IMG_3620.webp",
+          "isOriginal": true
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
           "image": "products/Woodwork/Cafe tables/Cafe 2/IMG_3620.webp"
         },
