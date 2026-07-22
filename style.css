@@ -1983,8 +1983,9 @@ header.fixed-header.inner-header {
   background-color: #fcfbfb;
   padding: 3.5rem 0;
   overflow: hidden;
-  border-top: 1px solid var(--color-border);
+  border-top: none;
   border-bottom: 1px solid var(--color-border);
+  margin-top: 0 !important;
 }
 
 .offerings-header {
@@ -2539,6 +2540,7 @@ body.slideshow-active .scroll-slideshow-container {
   width: 100vw;
   overflow: hidden;
   position: relative;
+  background-color: #fcfbfb;
 }
 
 body.slideshow-active .scroll-slideshow-wrapper {
