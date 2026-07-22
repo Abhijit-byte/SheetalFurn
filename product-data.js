@@ -2091,29 +2091,35 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg",
+          "isOriginal": true
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
+          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-brown.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
+          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
+          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-grey.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
+          "name": "Alpine Navy - 400",
+          "color": "#1C344A",
+          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-blue.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
+          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-red.png"
         }
       ]
     },
