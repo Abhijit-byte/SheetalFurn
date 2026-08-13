@@ -3665,6 +3665,18 @@ body.slideshow-active .about-section .container {
   transition: opacity 0.3s ease-in-out;
 }
 
+/* Force specific renders to completely fill the frame */
+.configurator-preview img[src*="bench-3"] {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  max-width: 100% !important;
+  max-height: 100% !important;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
+
 .configurator-options {
   flex: 0 0 35%;
   max-width: 35%;

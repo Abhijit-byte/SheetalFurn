@@ -171,12 +171,12 @@
 
           <!-- Accordion list -->
           <div class="detail-accordions">
-            <div class="accordion-item">
-              <button class="accordion-header" aria-expanded="false">
+            <div class="accordion-item active">
+              <button class="accordion-header" aria-expanded="true">
                 <span class="accordion-title">Product Description</span>
                 <span class="accordion-icon"></span>
               </button>
-              <div class="accordion-content">
+              <div class="accordion-content" style="max-height: none;">
                 <div class="accordion-content-inner">
                   <p id="product-desc">Loading description...</p>
                 </div>
@@ -670,21 +670,27 @@
       let cat = params.get('cat');
       let prod = params.get('prod');
 
+      let catSlug = cat ? cat.toLowerCase().trim().replace(/\s+/g, '-') : '';
+      let prodSlug = prod ? prod.toLowerCase().trim().replace(/\s+/g, '-') : '';
+
       let product = null;
       if (typeof productData !== 'undefined') {
-        if (cat && prod && productData[cat] && productData[cat][prod]) {
-          product = productData[cat][prod];
-        } else if (prod) {
+        if (catSlug && prodSlug && productData[catSlug] && productData[catSlug][prodSlug]) {
+          product = productData[catSlug][prodSlug];
+          cat = catSlug;
+          prod = prodSlug;
+        } else if (prodSlug) {
           for (let c in productData) {
-            if (productData[c] && productData[c][prod]) {
-              product = productData[c][prod];
+            if (productData[c] && productData[c][prodSlug]) {
+              product = productData[c][prodSlug];
               cat = c;
+              prod = prodSlug;
               break;
             }
           }
         }
-        if (!product) {
-          cat = (cat && productData[cat]) ? cat : Object.keys(productData)[0];
+        if (!product && cat) {
+          cat = (catSlug && productData[catSlug]) ? catSlug : Object.keys(productData)[0];
           if (productData[cat]) {
             prod = Object.keys(productData[cat])[0];
             product = productData[cat][prod];
@@ -787,13 +793,32 @@
         `;
       });
 
-      // Default initial view for Configurator: product's own cover image
+      // Default initial view for Configurator: product's first finish image
       document.getElementById('active-finish-name').innerText = finishesList[0].name;
       const previewImgEl = document.getElementById('configurator-preview-img');
-      const initialConfiguratorImg = (product.images && product.images.length > 0) ? product.images[0] : ((finishesList && finishesList[0] && finishesList[0].image) ? finishesList[0].image : '');
+      const initialConfiguratorImg = (finishesList && finishesList[0] && finishesList[0].image) ? finishesList[0].image : ((product.images && product.images.length > 0) ? product.images[0] : '');
       previewImgEl.src = initialConfiguratorImg;
       previewImgEl.dataset.baseSrc = initialConfiguratorImg;
       previewImgEl.style.filter = 'none';
+
+      // Custom styling to fit room renders like Bench 3 perfectly to the frame
+      if (prod === 'bench-3') {
+        previewImgEl.style.position = 'absolute';
+        previewImgEl.style.top = '0';
+        previewImgEl.style.left = '0';
+        previewImgEl.style.maxWidth = '100%';
+        previewImgEl.style.maxHeight = '100%';
+        previewImgEl.style.width = '100%';
+        previewImgEl.style.height = '100%';
+        previewImgEl.style.objectFit = 'cover';
+      } else {
+        previewImgEl.style.position = 'relative';
+        previewImgEl.style.maxWidth = '90%';
+        previewImgEl.style.maxHeight = '90%';
+        previewImgEl.style.width = 'auto';
+        previewImgEl.style.height = 'auto';
+        previewImgEl.style.objectFit = 'contain';
+      }
 
       // Toggle between 2D Photo View and 3D WebGL Configurator
       const toggle3dBtn = document.getElementById('toggle-3d-btn');

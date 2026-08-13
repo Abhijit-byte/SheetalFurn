@@ -19,29 +19,34 @@ const productData = {
       },
       "finishes": [
         {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-grey.png"
+        },
+        {
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-green.png"
+        },
+        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-brown.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_0013.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 1/almirah-1-tan.png"
         }
       ]
     },
@@ -64,29 +69,34 @@ const productData = {
       },
       "finishes": [
         {
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-white.png"
+        },
+        {
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-green.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-grey.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
+          "color": "#2D3E50",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-navy.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
+          "color": "#8A2B35",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-maroon.png"
+        },
+        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3864.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 2/almirah-2-brown.png"
         }
       ]
     },
@@ -109,29 +119,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3881.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 3/almirah-3-tan.png"
         }
       ]
     },
@@ -154,29 +169,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3882.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-tan.png"
         }
       ]
     },
@@ -199,29 +219,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3884.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 5/almirah-5-tan.png"
         }
       ]
     },
@@ -246,27 +271,32 @@ const productData = {
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3890.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 6/almirah-6-tan.png"
         }
       ]
     },
@@ -289,29 +319,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_3891.jpeg"
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 7/almirah-7-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_3891.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 7/almirah-7-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_3891.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 7/almirah-7-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_3891.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 7/almirah-7-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_3891.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 7/almirah-7-maroon.png"
         }
       ]
     },
@@ -334,29 +364,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_4081.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 8/almirah-8-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_4081.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 8/almirah-8-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_4081.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_4081.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 8/almirah-8-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 8/almirah-8-brown.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 8/almirah-8-grey.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_4081.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 8/almirah-8-maroon.png"
         }
       ]
     },
@@ -379,29 +414,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_4082.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 9/almirah-9-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_4082.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 9/almirah-9-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_4082.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_4082.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 9/almirah-9-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 9/almirah-9-brown.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 9/almirah-9-grey.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_4082.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 9/almirah-9-maroon.png"
         }
       ]
     },
@@ -424,29 +464,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/IMG_4083.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 10/almirah-10-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/IMG_4083.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 10/almirah-10-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/IMG_4083.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/IMG_4083.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 10/almirah-10-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 10/almirah-10-brown.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 10/almirah-10-grey.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/IMG_4083.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 10/almirah-10-maroon.png"
         }
       ]
     },
@@ -469,29 +514,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Almirah and lockers/51OGYdci2QL._AC_UF1000,1000_QL80_.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 11/almirah-11-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Almirah and lockers/51OGYdci2QL._AC_UF1000,1000_QL80_.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 11/almirah-11-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Almirah and lockers/51OGYdci2QL._AC_UF1000,1000_QL80_.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Almirah and lockers/51OGYdci2QL._AC_UF1000,1000_QL80_.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 11/almirah-11-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 11/almirah-11-brown.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 11/almirah-11-grey.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Almirah and lockers/51OGYdci2QL._AC_UF1000,1000_QL80_.jpeg"
+          "image": "products/Archiving/Almirah and lockers/Almirah Locker 11/almirah-11-maroon.png"
         }
       ]
     }
@@ -705,7 +755,7 @@ const productData = {
     "cafe-5": {
       "name": "Cafe 5",
       "images": [
-        "products/Woodwork/Cafe tables/Cafe 5/IMG_3622.webp"
+        "products/Woodwork/Cafe tables/Cafe 5/cafe-5-white-grey.png?v=4"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Cafe 5 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -721,36 +771,36 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "White & Grey",
+          "color": "#F5F5F5",
+          "image": "products/Woodwork/Cafe tables/Cafe 5/cafe-5-white-grey.png?v=4"
+        },
+        {
+          "name": "Maple (Light Wood)",
+          "color": "#F5DEB3",
+          "image": "products/Woodwork/Cafe tables/Cafe 5/cafe-5-maple.png?v=4"
+        },
+        {
+          "name": "Walnut (Medium Brown)",
           "color": "#6B4226",
-          "image": "products/Woodwork/Cafe tables/Cafe 5/IMG_3622.webp"
+          "image": "products/Woodwork/Cafe tables/Cafe 5/cafe-5-walnut.png?v=4"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Cafe tables/Cafe 5/IMG_3622.webp"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Cafe tables/Cafe 5/cafe-5-greywood.png?v=4"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Cafe tables/Cafe 5/IMG_3622.webp"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Cafe tables/Cafe 5/IMG_3622.webp"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Cafe tables/Cafe 5/IMG_3622.webp"
+          "name": "Solid Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Cafe tables/Cafe 5/cafe-5-black.png?v=4"
         }
       ]
     },
     "cafe-6": {
       "name": "Cafe 6",
       "images": [
-        "products/Woodwork/Cafe tables/Cafe 6/IMG_3623.webp"
+        "products/Woodwork/Cafe tables/Cafe 6/cafe-6-white.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Cafe 6 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -766,29 +816,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Solid White",
+          "color": "#F5F5F5",
+          "image": "products/Woodwork/Cafe tables/Cafe 6/cafe-6-white.png"
+        },
+        {
+          "name": "Maple (Light Wood)",
+          "color": "#F5DEB3",
+          "image": "products/Woodwork/Cafe tables/Cafe 6/cafe-6-maple.png"
+        },
+        {
+          "name": "Walnut (Medium Brown)",
           "color": "#6B4226",
-          "image": "products/Woodwork/Cafe tables/Cafe 6/IMG_3623.webp"
+          "image": "products/Woodwork/Cafe tables/Cafe 6/cafe-6-walnut.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Cafe tables/Cafe 6/IMG_3623.webp"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Cafe tables/Cafe 6/cafe-6-greywood.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Cafe tables/Cafe 6/IMG_3623.webp"
+          "name": "Dark Grey",
+          "color": "#333333",
+          "image": "products/Woodwork/Cafe tables/Cafe 6/cafe-6-darkgrey.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Cafe tables/Cafe 6/IMG_3623.webp"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Cafe tables/Cafe 6/IMG_3623.webp"
+          "name": "Solid Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Cafe tables/Cafe 6/cafe-6-black.png"
         }
       ]
     },
@@ -840,7 +895,7 @@ const productData = {
     "cafe-8": {
       "name": "Cafe 8",
       "images": [
-        "products/Woodwork/Cafe tables/Cafe 8/IMG_4038.jpeg"
+        "products/Woodwork/Cafe tables/Cafe 8/cafe-8-silver.png?v=1"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Cafe 8 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -856,29 +911,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Cafe tables/Cafe 8/IMG_4038.jpeg"
+          "name": "Silver Frame",
+          "color": "#C0C0C0",
+          "image": "products/Woodwork/Cafe tables/Cafe 8/cafe-8-silver.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Cafe tables/Cafe 8/IMG_4038.jpeg"
+          "name": "Gold Frame",
+          "color": "#FFD700",
+          "image": "products/Woodwork/Cafe tables/Cafe 8/cafe-8-gold.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Cafe tables/Cafe 8/IMG_4038.jpeg"
+          "name": "Black Frame",
+          "color": "#111111",
+          "image": "products/Woodwork/Cafe tables/Cafe 8/cafe-8-black.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Cafe tables/Cafe 8/IMG_4038.jpeg"
+          "name": "Copper Frame",
+          "color": "#B87333",
+          "image": "products/Woodwork/Cafe tables/Cafe 8/cafe-8-copper.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Cafe tables/Cafe 8/IMG_4038.jpeg"
+          "name": "Bronze Frame",
+          "color": "#CD7F32",
+          "image": "products/Woodwork/Cafe tables/Cafe 8/cafe-8-bronze.png?v=1"
+        },
+        {
+          "name": "White Frame",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Cafe tables/Cafe 8/cafe-8-white.png?v=1"
         }
       ]
     }
@@ -903,29 +963,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Classroom furniture/6189oJEcs1L._AC_AIweblab1006854,T4_FMavif_SF1050,1050_PQ64_.jpg"
+          "name": "Classic Brown",
+          "color": "#8B5A2B",
+          "image": "products/Education/Classroom furniture/Classroom Bench/bench-classic-brown.png?v=4"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Classroom furniture/6189oJEcs1L._AC_AIweblab1006854,T4_FMavif_SF1050,1050_PQ64_.jpg"
+          "name": "Forest Green",
+          "color": "#3B5E4A",
+          "image": "products/Education/Classroom furniture/Classroom Bench/bench-forest-green.png?v=4"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/6189oJEcs1L._AC_AIweblab1006854,T4_FMavif_SF1050,1050_PQ64_.jpg"
+          "name": "Modern Grey",
+          "color": "#696969",
+          "image": "products/Education/Classroom furniture/Classroom Bench/bench-modern-grey.png?v=4"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/6189oJEcs1L._AC_AIweblab1006854,T4_FMavif_SF1050,1050_PQ64_.jpg"
+          "name": "Navy Blue",
+          "color": "#2A3A4D",
+          "image": "products/Education/Classroom furniture/Classroom Bench/bench-navy-blue.png?v=4"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/6189oJEcs1L._AC_AIweblab1006854,T4_FMavif_SF1050,1050_PQ64_.jpg"
+          "name": "Wine Red",
+          "color": "#722F37",
+          "image": "products/Education/Classroom furniture/Classroom Bench/bench-wine-red.png?v=4"
+        },
+        {
+          "name": "Walnut Brown",
+          "color": "#4A3B32",
+          "image": "products/Education/Classroom furniture/Classroom Bench/bench-walnut-brown.png?v=4"
         }
       ]
     },
@@ -953,29 +1018,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
+          "image": "products/Education/Classroom furniture/Bench 1/bench-1-new-brown.png?v=3"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
+          "name": "Forest Green",
+          "color": "#3B5E4A",
+          "image": "products/Education/Classroom furniture/Bench 1/bench-1-new-green.png?v=3"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
+          "name": "Slate Grey",
+          "color": "#707070",
+          "image": "products/Education/Classroom furniture/Bench 1/bench-1-new-grey.png?v=3"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
+          "name": "Navy Blue",
+          "color": "#2A3A4D",
+          "image": "products/Education/Classroom furniture/Bench 1/bench-1-new-blue.png?v=3"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 1/056BC8E5-0796-4211-80CB-5717F8B228E9.png"
+          "name": "Crimson Red",
+          "color": "#7A2021",
+          "image": "products/Education/Classroom furniture/Bench 1/bench-1-new-red.png?v=3"
         }
       ]
     },
@@ -1004,29 +1069,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
+          "name": "Navy Blue",
+          "color": "#1F3B73",
+          "image": "products/Education/Classroom furniture/Bench 2/bench-2-navy-blue.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
+          "name": "Classic Brown",
+          "color": "#5D3A29",
+          "image": "products/Education/Classroom furniture/Bench 2/bench-2-classic-brown.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
+          "name": "Forest Green",
+          "color": "#2D5A3C",
+          "image": "products/Education/Classroom furniture/Bench 2/bench-2-forest-green.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
+          "name": "Modern Grey",
+          "color": "#7B8388",
+          "image": "products/Education/Classroom furniture/Bench 2/bench-2-modern-grey.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 2/IMG_4025.jpeg"
+          "name": "Deep Blue",
+          "color": "#1C2D54",
+          "image": "products/Education/Classroom furniture/Bench 2/bench-2-deep-blue.png"
+        },
+        {
+          "name": "Wine Red",
+          "color": "#721A21",
+          "image": "products/Education/Classroom furniture/Bench 2/bench-2-wine-red.png"
         }
       ]
     },
@@ -1052,29 +1122,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Classroom furniture/Bench 3/IMG_3830.jpeg"
+          "name": "Natural Birch",
+          "color": "#D3B78D",
+          "image": "products/Education/Classroom furniture/Bench 3/bench-3-birch.png?v=3"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 3/IMG_3830.jpeg"
+          "name": "Classic Brown",
+          "color": "#8B4513",
+          "image": "products/Education/Classroom furniture/Bench 3/bench-3-brown.png?v=3"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 3/IMG_3830.jpeg"
+          "name": "Forest Green",
+          "color": "#4A5D23",
+          "image": "products/Education/Classroom furniture/Bench 3/bench-3-green.png?v=3"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 3/IMG_3830.jpeg"
+          "name": "Slate Grey",
+          "color": "#708090",
+          "image": "products/Education/Classroom furniture/Bench 3/bench-3-grey.png?v=3"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 3/IMG_3830.jpeg"
+          "name": "Navy Blue",
+          "color": "#1C39BB",
+          "image": "products/Education/Classroom furniture/Bench 3/bench-3-blue.png?v=3"
+        },
+        {
+          "name": "Crimson Red",
+          "color": "#800000",
+          "image": "products/Education/Classroom furniture/Bench 3/bench-3-red.png?v=3"
         }
       ]
     },
@@ -1103,29 +1178,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Ocean Blue",
+          "color": "#1A56C4",
+          "image": "products/Education/Classroom furniture/Bench 4/bench-4-blue.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
+          "image": "products/Education/Classroom furniture/Bench 4/bench-4-brown.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Classroom furniture/Bench 4/bench-4-green.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Classroom furniture/Bench 4/bench-4-grey.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Classroom furniture/Bench 4/bench-4-navy.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 4/3C417785-40C8-4A0F-A0F3-7C4B4D909DE7.png"
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Classroom furniture/Bench 4/bench-4-red.png?v=1"
         }
       ]
     },
@@ -1154,29 +1234,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Classroom furniture/Bench 5/bench-5-black.png?v=2"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 5/bench-5-brown.png?v=2"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Classroom furniture/Bench 5/bench-5-green.png?v=2"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Classroom furniture/Bench 5/bench-5-grey.png?v=2"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Classroom furniture/Bench 5/bench-5-blue.png?v=2"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 5/864AA2D2-8C58-492F-93D8-998A718B16DF 2.jpeg"
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Classroom furniture/Bench 5/bench-5-red.png?v=2"
         }
       ]
     },
@@ -1203,29 +1288,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Natural Birch",
+          "color": "#D4C09A",
+          "image": "products/Education/Classroom furniture/Bench 6/bench-6-birch.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
+          "image": "products/Education/Classroom furniture/Bench 6/bench-6-brown.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Classroom furniture/Bench 6/bench-6-green.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Classroom furniture/Bench 6/bench-6-grey.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Classroom furniture/Bench 6/bench-6-navy.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Classroom furniture/Bench 6/IMG_3950.jpeg"
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Classroom furniture/Bench 6/bench-6-red.png?v=1"
         }
       ]
     }
@@ -1234,12 +1324,7 @@ const productData = {
     "conference-1": {
       "name": "Conference 1",
       "images": [
-        "products/Seating/Conference Chairs/Conference 1/conference-1-black.png",
-        "products/Seating/Conference Chairs/Conference 1/conference-1-brown.png",
-        "products/Seating/Conference Chairs/Conference 1/conference-1-green.png",
-        "products/Seating/Conference Chairs/Conference 1/conference-1-grey.png",
-        "products/Seating/Conference Chairs/Conference 1/conference-1-navy.png",
-        "products/Seating/Conference Chairs/Conference 1/conference-1-maroon.png"
+        "products/Seating/Conference Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 1 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1256,46 +1341,40 @@ const productData = {
       "finishes": [
         {
           "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Conference Chairs/Conference 1/conference-1-black.png",
-          "isOriginal": true
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 1/conference-1-black.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 1/conference-1-brown.png"
-        },
-        {
-          "name": "Forest Green",
+          "name": "Forest (Green)",
           "color": "#507D67",
           "image": "products/Seating/Conference Chairs/Conference 1/conference-1-green.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Conference Chairs/Conference 1/conference-1-grey.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 1/conference-1-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 1/conference-1-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 1/conference-1-tan.png"
         }
       ]
     },
     "conference-2": {
       "name": "Conference 2",
       "images": [
-        "products/Seating/Conference Chairs/Conference 2/conference-2-black.png",
-        "products/Seating/Conference Chairs/Conference 2/conference-2-brown.png",
-        "products/Seating/Conference Chairs/Conference 2/conference-2-green.png",
-        "products/Seating/Conference Chairs/Conference 2/conference-2-grey.png",
-        "products/Seating/Conference Chairs/Conference 2/conference-2-navy.png",
-        "products/Seating/Conference Chairs/Conference 2/conference-2-maroon.png"
+        "products/Seating/Conference Chairs/Conference 2/IMG_0235.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 2 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1312,46 +1391,40 @@ const productData = {
       "finishes": [
         {
           "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Conference Chairs/Conference 2/conference-2-black.png",
-          "isOriginal": true
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 2/conference-2-black.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 2/conference-2-brown.png"
-        },
-        {
-          "name": "Forest Green",
+          "name": "Forest (Green)",
           "color": "#507D67",
           "image": "products/Seating/Conference Chairs/Conference 2/conference-2-green.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Conference Chairs/Conference 2/conference-2-grey.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 2/conference-2-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 2/conference-2-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 2/conference-2-tan.png"
         }
       ]
     },
     "conference-3": {
       "name": "Conference 3",
       "images": [
-        "products/Seating/Conference Chairs/Conference 3/conference-3-cream.png",
-        "products/Seating/Conference Chairs/Conference 3/conference-3-brown.png",
-        "products/Seating/Conference Chairs/Conference 3/conference-3-green.png",
-        "products/Seating/Conference Chairs/Conference 3/conference-3-grey.png",
-        "products/Seating/Conference Chairs/Conference 3/conference-3-navy.png",
-        "products/Seating/Conference Chairs/Conference 3/conference-3-maroon.png"
+        "products/Seating/Conference Chairs/Conference 3/IMG_0627.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 3 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1367,47 +1440,42 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Oatmeal Cream (Original)",
-          "color": "#D8C8B8",
-          "image": "products/Seating/Conference Chairs/Conference 3/conference-3-cream.png",
-          "isOriginal": true
+          "name": "Classic Grey (Original)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Conference Chairs/Conference 3/conference-3-grey.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 3/conference-3-brown.png"
-        },
-        {
-          "name": "Forest Green",
+          "name": "Forest (Green)",
           "color": "#507D67",
           "image": "products/Seating/Conference Chairs/Conference 3/conference-3-green.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Conference Chairs/Conference 3/conference-3-grey.png"
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 3/conference-3-black.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 3/conference-3-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 3/conference-3-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 3/conference-3-tan.png"
         }
       ]
     },
     "conference-4": {
       "name": "Conference 4",
       "images": [
-        "products/Seating/Conference Chairs/Conference 4/conference-4-beige.png",
-        "products/Seating/Conference Chairs/Conference 4/conference-4-brown.png",
-        "products/Seating/Conference Chairs/Conference 4/conference-4-green.png",
-        "products/Seating/Conference Chairs/Conference 4/conference-4-grey.png",
-        "products/Seating/Conference Chairs/Conference 4/conference-4-navy.png",
-        "products/Seating/Conference Chairs/Conference 4/conference-4-maroon.png"
+        "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg",
+        "products/Seating/Conference Chairs/Conference 4/IMG_1874.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 4 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1423,33 +1491,32 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Warm Beige (Original)",
-          "color": "#E0D5C1",
-          "image": "products/Seating/Conference Chairs/Conference 4/conference-4-beige.png",
-          "isOriginal": true
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 4/conference-4-tan.png"
         },
         {
-          "name": "Saddle Brown",
+          "name": "Classic Brown",
           "color": "#6B4226",
           "image": "products/Seating/Conference Chairs/Conference 4/conference-4-brown.png"
         },
         {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 4/conference-4-green.png"
-        },
-        {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Conference Chairs/Conference 4/conference-4-grey.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 4/conference-4-black.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 4/conference-4-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 4/conference-4-maroon.png"
         }
@@ -1458,12 +1525,11 @@ const productData = {
     "conference-5": {
       "name": "Conference 5",
       "images": [
-        "products/Seating/Conference Chairs/Conference 5/conference-5-black.png",
-        "products/Seating/Conference Chairs/Conference 5/conference-5-brown.png",
-        "products/Seating/Conference Chairs/Conference 5/conference-5-green.png",
-        "products/Seating/Conference Chairs/Conference 5/conference-5-grey.png",
-        "products/Seating/Conference Chairs/Conference 5/conference-5-navy.png",
-        "products/Seating/Conference Chairs/Conference 5/conference-5-maroon.png"
+        "products/Seating/Conference Chairs/Conference 5/IMG_3034.png",
+        "products/Seating/Conference Chairs/Conference 5/IMG_3035.png",
+        "products/Seating/Conference Chairs/Conference 5/IMG_3036.png",
+        "products/Seating/Conference Chairs/Conference 5/IMG_3038.png",
+        "products/Seating/Conference Chairs/Conference 5/IMG_3040.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 5 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1479,47 +1545,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Conference Chairs/Conference 5/conference-5-black.png",
-          "isOriginal": true
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 5/conference-5-black.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 5/conference-5-brown.png"
-        },
-        {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 5/conference-5-green.png"
-        },
-        {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Conference Chairs/Conference 5/conference-5-grey.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 5/conference-5-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Conference Chairs/Conference 5/conference-5-green.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 5/conference-5-maroon.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 5/conference-5-tan.png"
         }
       ]
     },
     "conference-6": {
       "name": "Conference 6",
       "images": [
-        "products/Seating/Conference Chairs/Conference 6/conference-6-cream.png",
-        "products/Seating/Conference Chairs/Conference 6/conference-6-brown.png",
-        "products/Seating/Conference Chairs/Conference 6/conference-6-green.png",
-        "products/Seating/Conference Chairs/Conference 6/conference-6-grey.png",
-        "products/Seating/Conference Chairs/Conference 6/conference-6-navy.png",
-        "products/Seating/Conference Chairs/Conference 6/conference-6-maroon.png"
+        "products/Seating/Conference Chairs/Conference 6/IMG_3309.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 6 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1535,47 +1595,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Oatmeal Cream (Original)",
-          "color": "#D8C8B8",
-          "image": "products/Seating/Conference Chairs/Conference 6/conference-6-cream.png",
-          "isOriginal": true
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Seating/Conference Chairs/Conference 6/conference-6-white.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 6/conference-6-brown.png"
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 6/conference-6-tan.png"
         },
         {
-          "name": "Forest Green",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Conference Chairs/Conference 6/conference-6-grey.png"
+        },
+        {
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 6/conference-6-black.png"
+        },
+        {
+          "name": "Forest (Green)",
           "color": "#507D67",
           "image": "products/Seating/Conference Chairs/Conference 6/conference-6-green.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Conference Chairs/Conference 6/conference-6-grey.png"
-        },
-        {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 6/conference-6-navy.png"
-        },
-        {
-          "name": "Crimson Maroon",
-          "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 6/conference-6-maroon.png"
         }
       ]
     },
     "conference-7": {
       "name": "Conference 7",
       "images": [
-        "products/Seating/Conference Chairs/Conference 7/conference-7-black.png",
-        "products/Seating/Conference Chairs/Conference 7/conference-7-brown.png",
-        "products/Seating/Conference Chairs/Conference 7/conference-7-green.png",
-        "products/Seating/Conference Chairs/Conference 7/conference-7-grey.png",
-        "products/Seating/Conference Chairs/Conference 7/conference-7-navy.png",
-        "products/Seating/Conference Chairs/Conference 7/conference-7-maroon.png"
+        "products/Seating/Conference Chairs/Conference 7/IMG_3345.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 7 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1591,47 +1645,42 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Conference Chairs/Conference 7/conference-7-black.png",
-          "isOriginal": true
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 7/conference-7-black.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 7/conference-7-brown.png"
-        },
-        {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 7/conference-7-green.png"
-        },
-        {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Conference Chairs/Conference 7/conference-7-grey.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 7/conference-7-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 7/conference-7-maroon.png"
+        },
+        {
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Conference Chairs/Conference 7/conference-7-green.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 7/conference-7-tan.png"
         }
       ]
     },
     "conference-8": {
       "name": "Conference 8",
       "images": [
-        "products/Seating/Conference Chairs/Conference 8/conference-8-black.png",
-        "products/Seating/Conference Chairs/Conference 8/conference-8-brown.png",
-        "products/Seating/Conference Chairs/Conference 8/conference-8-green.png",
-        "products/Seating/Conference Chairs/Conference 8/conference-8-grey.png",
-        "products/Seating/Conference Chairs/Conference 8/conference-8-navy.png",
-        "products/Seating/Conference Chairs/Conference 8/conference-8-maroon.png"
+        "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg",
+        "products/Seating/Conference Chairs/Conference 8/IMG_3359.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 8 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1647,47 +1696,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Conference Chairs/Conference 8/conference-8-black.png",
-          "isOriginal": true
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 8/conference-8-black.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 8/conference-8-brown.png"
-        },
-        {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 8/conference-8-green.png"
-        },
-        {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Conference Chairs/Conference 8/conference-8-grey.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 8/conference-8-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 8/conference-8-maroon.png"
+        },
+        {
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Conference Chairs/Conference 8/conference-8-green.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 8/conference-8-tan.png"
         }
       ]
     },
     "conference-9": {
       "name": "Conference 9",
       "images": [
-        "products/Seating/Conference Chairs/Conference 9/conference-9-black.png",
-        "products/Seating/Conference Chairs/Conference 9/conference-9-brown.png",
-        "products/Seating/Conference Chairs/Conference 9/conference-9-green.png",
-        "products/Seating/Conference Chairs/Conference 9/conference-9-grey.png",
-        "products/Seating/Conference Chairs/Conference 9/conference-9-navy.png",
-        "products/Seating/Conference Chairs/Conference 9/conference-9-maroon.png"
+        "products/Seating/Conference Chairs/Conference 9/IMG_3651.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 9 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1703,47 +1746,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Conference Chairs/Conference 9/conference-9-black.png",
-          "isOriginal": true
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 9/conference-9-black.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 9/conference-9-brown.png"
-        },
-        {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 9/conference-9-green.png"
-        },
-        {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Conference Chairs/Conference 9/conference-9-grey.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 9/conference-9-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 9/conference-9-maroon.png"
+        },
+        {
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Conference Chairs/Conference 9/conference-9-green.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 9/conference-9-tan.png"
         }
       ]
     },
     "conference-10": {
       "name": "Conference 10",
       "images": [
-        "products/Seating/Conference Chairs/Conference 10/conference-10-beige.png",
-        "products/Seating/Conference Chairs/Conference 10/conference-10-brown.png",
-        "products/Seating/Conference Chairs/Conference 10/conference-10-green.png",
-        "products/Seating/Conference Chairs/Conference 10/conference-10-grey.png",
-        "products/Seating/Conference Chairs/Conference 10/conference-10-navy.png",
-        "products/Seating/Conference Chairs/Conference 10/conference-10-maroon.png"
+        "products/Seating/Conference Chairs/Conference 10/IMG_5090.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 10 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1759,47 +1796,42 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Warm Beige (Original)",
-          "color": "#E0D5C1",
-          "image": "products/Seating/Conference Chairs/Conference 10/conference-10-beige.png",
-          "isOriginal": true
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 10/conference-10-tan.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 10/conference-10-brown.png"
-        },
-        {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 10/conference-10-green.png"
-        },
-        {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Conference Chairs/Conference 10/conference-10-grey.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 10/conference-10-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Conference Chairs/Conference 10/conference-10-green.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 10/conference-10-maroon.png"
+        },
+        {
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 10/conference-10-black.png"
         }
       ]
     },
     "conference-11": {
       "name": "Conference 11",
       "images": [
-        "products/Seating/Conference Chairs/Conference 11/conference-11-black.png",
-        "products/Seating/Conference Chairs/Conference 11/conference-11-brown.png",
-        "products/Seating/Conference Chairs/Conference 11/conference-11-green.png",
-        "products/Seating/Conference Chairs/Conference 11/conference-11-grey.png",
-        "products/Seating/Conference Chairs/Conference 11/conference-11-navy.png",
-        "products/Seating/Conference Chairs/Conference 11/conference-11-maroon.png"
+        "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg",
+        "products/Seating/Conference Chairs/Conference 11/IMG_9229.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 11 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1815,35 +1847,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Conference Chairs/Conference 11/conference-11-black.png",
-          "isOriginal": true
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Conference Chairs/Conference 11/conference-11-black.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 11/conference-11-brown.png"
-        },
-        {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 11/conference-11-green.png"
-        },
-        {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Conference Chairs/Conference 11/conference-11-grey.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
           "image": "products/Seating/Conference Chairs/Conference 11/conference-11-navy.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Conference Chairs/Conference 11/conference-11-maroon.png"
+        },
+        {
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Conference Chairs/Conference 11/conference-11-green.png"
+        },
+        {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Conference Chairs/Conference 11/conference-11-tan.png"
         }
       ]
     }
@@ -1852,7 +1883,7 @@ const productData = {
     "elite-conference": {
       "name": "Elite conference",
       "images": [
-        "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg",
+        "products/Woodwork/Conference tables/Elite conference/elite-conference-maple.png",
         "products/Woodwork/Conference tables/Elite conference/IMG_4077.jpeg",
         "products/Woodwork/Conference tables/Elite conference/IMG_4078.jpeg",
         "products/Woodwork/Conference tables/Elite conference/IMG_4079.jpeg",
@@ -1872,36 +1903,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "Maple (Light Wood)",
+          "color": "#F5DEB3",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-maple.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "Walnut (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-walnut.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-greywood.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "White Marble",
+          "color": "#F5F5F5",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-whitemarble.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "Concrete (Light Grey)",
+          "color": "#D3D3D3",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-concrete.png"
+        },
+        {
+          "name": "Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-black.png"
         }
       ]
     },
     "forge": {
       "name": "Forge",
       "images": [
-        "products/Woodwork/Conference tables/Forge/IMG_3724.png",
+        "products/Woodwork/Conference tables/Forge/forge-teak.png",
         "products/Woodwork/Conference tables/Forge/IMG_3725.png",
         "products/Woodwork/Conference tables/Forge/IMG_3726.png",
         "products/Woodwork/Conference tables/Forge/IMG_3727.png",
@@ -1921,36 +1957,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
+          "name": "Teak (Medium Brown)",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Conference tables/Forge/forge-teak.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
+          "name": "Maple (Light Wood)",
+          "color": "#F5DEB3",
+          "image": "products/Woodwork/Conference tables/Forge/forge-maple.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
+          "name": "Walnut (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Conference tables/Forge/forge-walnut.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Conference tables/Forge/forge-greywood.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Conference tables/Forge/IMG_3724.png"
+          "name": "Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Conference tables/Forge/forge-black.png"
+        },
+        {
+          "name": "White",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Conference tables/Forge/forge-white.png"
         }
       ]
     },
     "nexus": {
       "name": "Nexus",
       "images": [
-        "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg",
+        "products/Woodwork/Conference tables/Nexus/nexus-teak.png",
         "products/Woodwork/Conference tables/Nexus/IMG_1955.jpeg",
         "products/Woodwork/Conference tables/Nexus/IMG_3003.png",
         "products/Woodwork/Conference tables/Nexus/IMG_3004.png"
@@ -1969,29 +2010,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg"
+          "name": "Teak (Medium Brown)",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Conference tables/Nexus/nexus-teak.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg"
+          "name": "Walnut (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Conference tables/Nexus/nexus-walnut.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Conference tables/Nexus/nexus-greywood.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg"
+          "name": "Oak (Light Wood)",
+          "color": "#F5DEB3",
+          "image": "products/Woodwork/Conference tables/Nexus/nexus-oak.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Conference tables/Nexus/IMG_1954.jpeg"
+          "name": "White Marble/Wood",
+          "color": "#F5F5F5",
+          "image": "products/Woodwork/Conference tables/Nexus/nexus-white.png"
+        },
+        {
+          "name": "Black Wood",
+          "color": "#111111",
+          "image": "products/Woodwork/Conference tables/Nexus/nexus-black.png"
         }
       ]
     },
@@ -1999,7 +2045,7 @@ const productData = {
       "name": "Pinnacle",
       "images": [
         "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg",
-        "products/Woodwork/Conference tables/Pinnacle/IMG_3824.jpeg",
+        "products/Woodwork/Conference tables/Pinnacle/pinnacle-teak.png",
         "products/Woodwork/Conference tables/Pinnacle/IMG_3825.jpeg",
         "products/Woodwork/Conference tables/Pinnacle/IMG_3826.jpeg",
         "products/Woodwork/Conference tables/Pinnacle/IMG_3827.jpeg",
@@ -2020,29 +2066,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
+          "name": "Teak (Medium Brown)",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Conference tables/Pinnacle/pinnacle-teak.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
+          "name": "Walnut (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Conference tables/Pinnacle/pinnacle-walnut.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Conference tables/Pinnacle/pinnacle-greywood.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
+          "name": "Maple (Light Wood)",
+          "color": "#F5DEB3",
+          "image": "products/Woodwork/Conference tables/Pinnacle/pinnacle-maple.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Conference tables/Pinnacle/IMG_3823.jpeg"
+          "name": "White Wood",
+          "color": "#F5F5F5",
+          "image": "products/Woodwork/Conference tables/Pinnacle/pinnacle-white.png"
+        },
+        {
+          "name": "Black Wood",
+          "color": "#111111",
+          "image": "products/Woodwork/Conference tables/Pinnacle/pinnacle-black.png"
         }
       ]
     }
@@ -2233,41 +2284,41 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-black.png",
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg",
           "isOriginal": true
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-brown.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-green.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-grey.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Alpine Navy - 400",
           "color": "#1C344A",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-blue.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-red.png"
+          "image": "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg"
         }
       ]
     },
     "glanza-hb-black": {
       "name": "Glanza hb black",
       "images": [
-        "products/Seating/Executive Chairs/Glanza hb black/glanza-black.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5601.png",
+        "products/Seating/Executive Chairs/Glanza hb black/glanza-black.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5602.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5603.png",
         "products/Seating/Executive Chairs/Glanza hb black/IMG_5604.png",
@@ -2420,9 +2471,9 @@ const productData = {
     "hugo": {
       "name": "Hugo",
       "images": [
+        "products/Seating/Executive Chairs/Hugo/62216.jpeg",
         "products/Seating/Executive Chairs/Hugo/hugo-black.png",
         "products/Seating/Executive Chairs/Hugo/62215.jpeg",
-        "products/Seating/Executive Chairs/Hugo/62216.jpeg",
         "products/Seating/Executive Chairs/Hugo/62217.jpeg",
         "products/Seating/Executive Chairs/Hugo/62218.jpeg"
       ],
@@ -2527,8 +2578,8 @@ const productData = {
     "jazz-hb": {
       "name": "Jazz hb",
       "images": [
-        "products/Seating/Executive Chairs/Jazz hb/jazz-black.png",
         "products/Seating/Executive Chairs/Jazz hb/B3DD53A0-3CFB-48D3-9F9C-BF771AE46521_L0_001-7_11_2023, 7_48_03 PM.jpeg",
+        "products/Seating/Executive Chairs/Jazz hb/jazz-black.png",
         "products/Seating/Executive Chairs/Jazz hb/IMG_0682.jpeg",
         "products/Seating/Executive Chairs/Jazz hb/IMG_1018.jpeg",
         "products/Seating/Executive Chairs/Jazz hb/IMG_1611.jpeg",
@@ -2610,29 +2661,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#222222",
+          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Executive Chairs/Jupiter/jupiter-maroon.png"
         }
       ]
     },
@@ -2658,29 +2714,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#222222",
+          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Majesty hb/majesty-hb-maroon.png"
         }
       ]
     },
@@ -2706,29 +2767,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Tan (Original)",
+          "color": "#D2A268",
+          "image": "products/Seating/Executive Chairs/Mars/mars-tan.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Executive Chairs/Mars/mars-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Executive Chairs/Mars/mars-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Executive Chairs/Mars/mars-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Executive Chairs/Mars/mars-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Executive Chairs/Mars/mars-maroon.png"
         }
       ]
     },
@@ -2761,29 +2827,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#222222",
+          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive Chairs/Matrix hb/matrix-hb-maroon.png"
         }
       ]
     },
@@ -2809,29 +2880,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#222222",
+          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive Chairs/Mustang hb/mustang-maroon.png"
         }
       ]
     },
@@ -2860,29 +2936,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#222222",
+          "image": "products/Seating/Executive Chairs/Mystic/mystic-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Executive Chairs/Mystic/mystic-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Executive Chairs/Mystic/mystic-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Executive Chairs/Mystic/mystic-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Executive Chairs/Mystic/mystic-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Executive Chairs/Mystic/mystic-maroon.png"
         }
       ]
     },
@@ -2909,29 +2990,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#222222",
+          "image": "products/Seating/Executive Chairs/Nova/nova-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Executive Chairs/Nova/nova-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Executive Chairs/Nova/nova-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Executive Chairs/Nova/nova-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Executive Chairs/Nova/nova-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Executive Chairs/Nova/nova-maroon.png"
         }
       ]
     },
@@ -2971,27 +3057,32 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-black.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-brown.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-green.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-grey.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
+          "color": "#2D3E50",
+          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-navy.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+          "image": "products/Seating/Executive Chairs/Optimus hb/optimus-maroon.png"
         }
       ]
     },
@@ -3018,29 +3109,34 @@ const productData = {
       },
       "finishes": [
         {
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Orbit/orbit-black.png"
+        },
+        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Executive Chairs/Orbit/orbit-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Executive Chairs/Orbit/orbit-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Executive Chairs/Orbit/orbit-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Executive Chairs/Orbit/orbit-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Executive Chairs/Orbit/orbit-maroon.png"
         }
       ]
     },
@@ -3067,29 +3163,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive Chairs/Rio hb/rio-hb-maroon.png"
         }
       ]
     },
@@ -3115,29 +3216,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Black (Original)",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-black.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive Chairs/Rodnet hb/rodnet-hb-maroon.png"
         }
       ]
     },
@@ -3167,27 +3273,32 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-black.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-brown.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-green.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-grey.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
+          "color": "#2D3E50",
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-navy.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb black/scorpio-hb-black-maroon.png"
         }
       ]
     },
@@ -3214,29 +3325,34 @@ const productData = {
       },
       "finishes": [
         {
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-black.png"
+        },
+        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive Chairs/Scorpio hb grey/scorpio-hb-grey-maroon.png"
         }
       ]
     },
@@ -3264,27 +3380,32 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-black.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-brown.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-green.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-grey.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
+          "color": "#2D3E50",
+          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-navy.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+          "image": "products/Seating/Executive Chairs/Spider hb/spider-hb-maroon.png"
         }
       ]
     },
@@ -3323,27 +3444,32 @@ const productData = {
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-black.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-brown.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-green.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-grey.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
+          "color": "#2D3E50",
+          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-navy.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb/spinal-hb-maroon.png"
         }
       ]
     },
@@ -3374,29 +3500,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-brown.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-green.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-grey.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
+          "color": "#2D3E50",
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-navy.png"
+        },
+        {
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-black.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+          "image": "products/Seating/Executive Chairs/Spinal hb grey/spinal-hb-grey-maroon.png"
         }
       ]
     },
@@ -3426,27 +3557,32 @@ const productData = {
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Executive Chairs/Tucson/tucson-brown.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Executive Chairs/Tucson/tucson-green.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Executive Chairs/Tucson/tucson-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Executive Chairs/Tucson/tucson-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Executive Chairs/Tucson/tucson-black.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Executive Chairs/Tucson/tucson-maroon.png"
         }
       ]
     },
@@ -3476,29 +3612,34 @@ const productData = {
       },
       "finishes": [
         {
+          "name": "Desert (Tan)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Executive Chairs/Wave/wave-tan.png"
+        },
+        {
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Seating/Executive Chairs/Wave/wave-green.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Executive Chairs/Wave/wave-grey.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
+          "color": "#2D3E50",
+          "image": "products/Seating/Executive Chairs/Wave/wave-navy.png"
+        },
+        {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+          "image": "products/Seating/Executive Chairs/Wave/wave-brown.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
-        },
-        {
-          "name": "Crimson - 808",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+          "image": "products/Seating/Executive Chairs/Wave/wave-maroon.png"
         }
       ]
     }
@@ -3507,8 +3648,8 @@ const productData = {
     "enrich-executive": {
       "name": "Enrich executive",
       "images": [
+        "products/Woodwork/Executive tables/Enrich executive/enrich-executive-walnut.png",
         "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png",
-        "products/Woodwork/Executive tables/Enrich executive/IMG_3700.png",
         "products/Woodwork/Executive tables/Enrich executive/IMG_3701.png"
       ],
       "dimensions": "Standard Dimensions",
@@ -3525,36 +3666,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Walnut & Beige",
           "color": "#6B4226",
-          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png"
+          "image": "products/Woodwork/Executive tables/Enrich executive/enrich-executive-walnut.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png"
+          "name": "Oak & White",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Executive tables/Enrich executive/enrich-executive-oak.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png"
+          "name": "Espresso & Beige",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Executive tables/Enrich executive/enrich-executive-espresso.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png"
+          "name": "Grey Wood & Black",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Executive tables/Enrich executive/enrich-executive-greywood.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Executive tables/Enrich executive/IMG_3699.png"
+          "name": "Solid Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Executive tables/Enrich executive/enrich-executive-black.png"
+        },
+        {
+          "name": "Solid White",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Executive tables/Enrich executive/enrich-executive-white.png"
         }
       ]
     },
     "synergy": {
       "name": "Synergy",
       "images": [
-        "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png",
+        "products/Woodwork/Executive tables/Synergy/synergy-walnut.png",
         "products/Woodwork/Executive tables/Synergy/IMG_4040.webp",
         "products/Woodwork/Executive tables/Synergy/IMG_4041.webp",
         "products/Woodwork/Executive tables/Synergy/IMG_4042.webp"
@@ -3573,29 +3719,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Walnut (Medium Brown)",
           "color": "#6B4226",
-          "image": "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png"
+          "image": "products/Woodwork/Executive tables/Synergy/synergy-walnut.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png"
+          "name": "Espresso (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Executive tables/Synergy/synergy-espresso.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png"
+          "name": "Oak (Light Wood)",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Executive tables/Synergy/synergy-oak.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Executive tables/Synergy/synergy-greywood.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Executive tables/Synergy/02FDE9AD-93AD-42BC-BD48-01B12F1D3A30.png"
+          "name": "White",
+          "color": "#F5F5F5",
+          "image": "products/Woodwork/Executive tables/Synergy/synergy-white.png"
+        },
+        {
+          "name": "Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Executive tables/Synergy/synergy-black.png"
         }
       ]
     },
@@ -3603,7 +3754,7 @@ const productData = {
       "name": "Table 4",
       "images": [
         "products/Woodwork/Executive tables/Table 4/IMG_4043.webp",
-        "products/Woodwork/Executive tables/Table 4/IMG_4044.webp",
+        "products/Woodwork/Executive tables/Table 4/table-4-teak.png",
         "products/Woodwork/Executive tables/Table 4/IMG_4045.webp"
       ],
       "dimensions": "Standard Dimensions",
@@ -3620,29 +3771,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Executive tables/Table 4/IMG_4043.webp"
+          "name": "Teak & White",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Executive tables/Table 4/table-4-teak.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Table 4/IMG_4043.webp"
+          "name": "Oak & White",
+          "color": "#F5DEB3",
+          "image": "products/Woodwork/Executive tables/Table 4/table-4-oak.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Table 4/IMG_4043.webp"
+          "name": "Dark Brown & Beige",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Executive tables/Table 4/table-4-darkbrown.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Executive tables/Table 4/IMG_4043.webp"
+          "name": "Grey Wood & Black",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Executive tables/Table 4/table-4-greywood.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Executive tables/Table 4/IMG_4043.webp"
+          "name": "Solid Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Executive tables/Table 4/table-4-black.png"
+        },
+        {
+          "name": "Solid White",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Executive tables/Table 4/table-4-white.png"
         }
       ]
     },
@@ -3650,7 +3806,7 @@ const productData = {
       "name": "Table 5",
       "images": [
         "products/Woodwork/Executive tables/Table 5/IMG_3954.webp",
-        "products/Woodwork/Executive tables/Table 5/IMG_3999.jpeg",
+        "products/Woodwork/Executive tables/Table 5/table-5-maple.png",
         "products/Woodwork/Executive tables/Table 5/IMG_4001.jpeg",
         "products/Woodwork/Executive tables/Table 5/IMG_4003.webp",
         "products/Woodwork/Executive tables/Table 5/IMG_4053.jpeg"
@@ -3669,36 +3825,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
+          "name": "Maple & Beige",
+          "color": "#F5DEB3",
+          "image": "products/Woodwork/Executive tables/Table 5/table-5-maple.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
+          "name": "Teak & Beige",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Executive tables/Table 5/table-5-teak.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
+          "name": "Espresso & Beige",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Executive tables/Table 5/table-5-espresso.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Executive tables/Table 5/table-5-greywood.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Executive tables/Table 5/IMG_3954.webp"
+          "name": "Solid White",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Executive tables/Table 5/table-5-white.png"
+        },
+        {
+          "name": "Solid Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Executive tables/Table 5/table-5-black.png"
         }
       ]
     },
     "versaline": {
       "name": "Versaline",
       "images": [
-        "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg",
+        "products/Woodwork/Executive tables/Versaline/versaline-walnut.png",
         "products/Woodwork/Executive tables/Versaline/IMG_2993.png",
         "products/Woodwork/Executive tables/Versaline/IMG_2994.png",
         "products/Woodwork/Executive tables/Versaline/IMG_2995.png"
@@ -3717,29 +3878,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Walnut (Medium Brown)",
           "color": "#6B4226",
-          "image": "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg"
+          "image": "products/Woodwork/Executive tables/Versaline/versaline-walnut.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg"
+          "name": "Espresso (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Executive tables/Versaline/versaline-espresso.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg"
+          "name": "Oak (Light Wood)",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Executive tables/Versaline/versaline-oak.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Executive tables/Versaline/versaline-greywood.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Executive tables/Versaline/IMG_1674.jpeg"
+          "name": "Ash Wood (Light Beige)",
+          "color": "#E5E5E5",
+          "image": "products/Woodwork/Executive tables/Versaline/versaline-ash.png"
+        },
+        {
+          "name": "Solid Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Executive tables/Versaline/versaline-black.png"
         }
       ]
     }
@@ -3920,29 +4086,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Ocean Blue",
+          "color": "#1A56C4",
+          "image": "products/Education/Institutional seating/inst-1-blue.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Institutional seating/62357.jpeg"
+          "image": "products/Education/Institutional seating/inst-1-brown.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/62357.jpeg"
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-1-green.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/62357.jpeg"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-1-grey.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/62357.jpeg"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-1-navy.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/62357.jpeg"
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Institutional seating/inst-1-red.png?v=1"
         }
       ]
     },
@@ -3965,29 +4136,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Institutional seating/inst-2-red.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_1600.jpeg"
+          "image": "products/Education/Institutional seating/inst-2-brown.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_1600.jpeg"
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-2-green.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_1600.jpeg"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-2-grey.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_1600.jpeg"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-2-navy.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_1600.jpeg"
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-2-black.png?v=1"
         }
       ]
     },
@@ -4010,29 +4186,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-3-navy.png?v=1"
+        },
+        {
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Institutional seating/inst-3-red.png?v=1"
+        },
+        {
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-3-green.png?v=1"
+        },
+        {
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-3-grey.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_3707.jpeg"
+          "image": "products/Education/Institutional seating/inst-3-brown.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_3707.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_3707.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_3707.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_3707.jpeg"
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-3-black.png?v=1"
         }
       ]
     },
@@ -4055,29 +4236,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-4-black.png?v=1"
+        },
+        {
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-4-navy.png?v=1"
+        },
+        {
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-4-green.png?v=1"
+        },
+        {
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Institutional seating/inst-4-red.png?v=1"
+        },
+        {
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-4-grey.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_3948.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_3948.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_3948.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_3948.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_3948.jpeg"
+          "image": "products/Education/Institutional seating/inst-4-brown.png?v=1"
         }
       ]
     },
@@ -4100,29 +4286,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_4010.jpeg"
+          "name": "Light Grey",
+          "color": "#D3D3D3",
+          "image": "products/Education/Institutional seating/inst-5-lightgrey.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_4010.jpeg"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-5-navy.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_4010.jpeg"
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-5-green.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_4010.jpeg"
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Institutional seating/inst-5-red.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_4010.jpeg"
+          "name": "Dark Grey",
+          "color": "#5A5A5A",
+          "image": "products/Education/Institutional seating/inst-5-darkgrey.png?v=1"
+        },
+        {
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-5-black.png?v=1"
         }
       ]
     },
@@ -4145,29 +4336,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_4011.jpeg"
+          "name": "Light Grey",
+          "color": "#D3D3D3",
+          "image": "products/Education/Institutional seating/inst-6-lightgrey.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_4011.jpeg"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-6-navy.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_4011.jpeg"
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-6-green.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_4011.jpeg"
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Institutional seating/inst-6-red.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_4011.jpeg"
+          "name": "Dark Grey",
+          "color": "#5A5A5A",
+          "image": "products/Education/Institutional seating/inst-6-darkgrey.png?v=1"
+        },
+        {
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-6-black.png?v=1"
         }
       ]
     },
@@ -4190,29 +4386,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-7-black.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_4016.png"
+          "image": "products/Education/Institutional seating/inst-7-brown.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_4016.png"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-7-navy.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_4016.png"
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Institutional seating/inst-7-red.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_4016.png"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-7-grey.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_4016.png"
+          "name": "Cream Beige",
+          "color": "#F5F5DC",
+          "image": "products/Education/Institutional seating/inst-7-beige.png?v=1"
         }
       ]
     },
@@ -4235,29 +4436,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-8-black.png?v=1"
+        },
+        {
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-8-navy.png?v=1"
+        },
+        {
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-8-green.png?v=1"
+        },
+        {
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Institutional seating/inst-8-red.png?v=1"
+        },
+        {
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-8-grey.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_4017.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_4017.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_4017.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_4017.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_4017.jpeg"
+          "image": "products/Education/Institutional seating/inst-8-brown.png?v=1"
         }
       ]
     },
@@ -4280,29 +4486,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-9-black.png?v=1"
+        },
+        {
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-9-navy.png?v=1"
+        },
+        {
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-9-green.png?v=1"
+        },
+        {
+          "name": "Crimson Red",
+          "color": "#7C2C31",
+          "image": "products/Education/Institutional seating/inst-9-red.png?v=1"
+        },
+        {
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-9-grey.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_4018.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_4018.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_4018.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_4018.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_4018.jpeg"
+          "image": "products/Education/Institutional seating/inst-9-brown.png?v=1"
         }
       ]
     },
@@ -4325,29 +4536,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-10-black.png?v=1"
+        },
+        {
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-10-navy.png?v=1"
+        },
+        {
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-10-green.png?v=1"
+        },
+        {
+          "name": "Maroon",
+          "color": "#800000",
+          "image": "products/Education/Institutional seating/inst-10-maroon.png?v=1"
+        },
+        {
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-10-grey.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_4019.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_4019.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_4019.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_4019.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_4019.jpeg"
+          "image": "products/Education/Institutional seating/inst-10-brown.png?v=1"
         }
       ]
     },
@@ -4370,29 +4586,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-11-black.png?v=1"
+        },
+        {
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-11-navy.png?v=1"
+        },
+        {
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-11-green.png?v=1"
+        },
+        {
+          "name": "Maroon",
+          "color": "#800000",
+          "image": "products/Education/Institutional seating/inst-11-maroon.png?v=1"
+        },
+        {
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-11-grey.png?v=1"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_7894.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_7894.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_7894.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_7894.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_7894.jpeg"
+          "image": "products/Education/Institutional seating/inst-11-brown.png?v=1"
         }
       ]
     },
@@ -4415,29 +4636,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_9217.jpeg"
+          "name": "Natural Wood",
+          "color": "#DEB887",
+          "image": "products/Education/Institutional seating/inst-12-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_9217.jpeg"
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-12-black.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_9217.jpeg"
+          "name": "Walnut Wood",
+          "color": "#5C4033",
+          "image": "products/Education/Institutional seating/inst-12-walnut.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_9217.jpeg"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-12-navy.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_9217.jpeg"
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-12-green.png?v=1"
+        },
+        {
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-12-grey.png?v=1"
         }
       ]
     },
@@ -4460,29 +4686,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Institutional seating/IMG_9218.jpeg"
+          "name": "Natural Wood",
+          "color": "#DEB887",
+          "image": "products/Education/Institutional seating/inst-13-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Institutional seating/IMG_9218.jpeg"
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Institutional seating/inst-13-black.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Institutional seating/IMG_9218.jpeg"
+          "name": "Navy Blue",
+          "color": "#2A3A5A",
+          "image": "products/Education/Institutional seating/inst-13-navy.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Institutional seating/IMG_9218.jpeg"
+          "name": "Forest Green",
+          "color": "#3D5B43",
+          "image": "products/Education/Institutional seating/inst-13-green.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Institutional seating/IMG_9218.jpeg"
+          "name": "Maroon",
+          "color": "#800000",
+          "image": "products/Education/Institutional seating/inst-13-maroon.png?v=1"
+        },
+        {
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Institutional seating/inst-13-grey.png?v=1"
         }
       ]
     }
@@ -5142,29 +5373,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Workstations/Iron frame workstations/Aviator/054699fd-c69c-41cf-8d2a-95256d7dfcf0 2.jpeg"
+          "name": "Natural Wood",
+          "color": "#DEB887",
+          "image": "products/Workstations/Iron frame workstations/Aviator/aviator-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Workstations/Iron frame workstations/Aviator/054699fd-c69c-41cf-8d2a-95256d7dfcf0 2.jpeg"
+          "name": "Walnut Wood",
+          "color": "#5C4033",
+          "image": "products/Workstations/Iron frame workstations/Aviator/aviator-walnut.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Workstations/Iron frame workstations/Aviator/054699fd-c69c-41cf-8d2a-95256d7dfcf0 2.jpeg"
+          "name": "Dark Oak",
+          "color": "#8B5A2B",
+          "image": "products/Workstations/Iron frame workstations/Aviator/aviator-darkoak.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Workstations/Iron frame workstations/Aviator/054699fd-c69c-41cf-8d2a-95256d7dfcf0 2.jpeg"
+          "name": "Classic White",
+          "color": "#F9F6EE",
+          "image": "products/Workstations/Iron frame workstations/Aviator/aviator-white.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Workstations/Iron frame workstations/Aviator/054699fd-c69c-41cf-8d2a-95256d7dfcf0 2.jpeg"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Workstations/Iron frame workstations/Aviator/aviator-grey.png?v=1"
+        },
+        {
+          "name": "Maple Wood",
+          "color": "#D2B48C",
+          "image": "products/Workstations/Iron frame workstations/Aviator/aviator-maple.png?v=1"
         }
       ]
     },
@@ -5192,29 +5428,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
+          "name": "Classic White",
+          "color": "#F9F6EE",
+          "image": "products/Workstations/Iron frame workstations/Trident/trident-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
+          "name": "Maple Wood",
+          "color": "#D2B48C",
+          "image": "products/Workstations/Iron frame workstations/Trident/trident-maple.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
+          "name": "Walnut Wood",
+          "color": "#5C4033",
+          "image": "products/Workstations/Iron frame workstations/Trident/trident-walnut.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
+          "name": "Pure White",
+          "color": "#FFFFFF",
+          "image": "products/Workstations/Iron frame workstations/Trident/trident-white.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Workstations/Iron frame workstations/Trident/IMG_0098.jpeg"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Workstations/Iron frame workstations/Trident/trident-grey.png?v=1"
+        },
+        {
+          "name": "Dark Oak",
+          "color": "#8B5A2B",
+          "image": "products/Workstations/Iron frame workstations/Trident/trident-darkoak.png?v=1"
         }
       ]
     }
@@ -5223,12 +5464,7 @@ const productData = {
     "lounge-1": {
       "name": "Lounge 1",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 1/lounge-1-orange.png",
-        "products/Seating/Lounge Chairs/Lounge 1/lounge-1-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 1/lounge-1-green.png",
-        "products/Seating/Lounge Chairs/Lounge 1/lounge-1-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 1/lounge-1-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 1/lounge-1-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 1 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5244,47 +5480,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Terracotta Orange (Original)",
-          "color": "#E87A5D",
-          "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-orange.png",
-          "isOriginal": true
+          "name": "Amber (Orange)",
+          "color": "#FF7F00",
+          "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-orange.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-brown.png"
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-black.png"
         },
         {
-          "name": "Forest Green",
+          "name": "Crimson (Red)",
+          "color": "#DC143C",
+          "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-red.png"
+        },
+        {
+          "name": "Ocean (Blue)",
+          "color": "#000080",
+          "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-blue.png"
+        },
+        {
+          "name": "Forest (Green)",
           "color": "#507D67",
           "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-green.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-grey.png"
-        },
-        {
-          "name": "Midnight Navy",
-          "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-navy.png"
-        },
-        {
-          "name": "Crimson Maroon",
-          "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 1/lounge-1-maroon.png"
         }
       ]
     },
     "lounge-2": {
       "name": "Lounge 2",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 2/lounge-2-green.png",
-        "products/Seating/Lounge Chairs/Lounge 2/lounge-2-black.png",
-        "products/Seating/Lounge Chairs/Lounge 2/lounge-2-white.png",
-        "products/Seating/Lounge Chairs/Lounge 2/lounge-2-blue.png",
-        "products/Seating/Lounge Chairs/Lounge 2/lounge-2-red.png",
-        "products/Seating/Lounge Chairs/Lounge 2/lounge-2-yellow.png"
+        "products/Seating/Lounge Chairs/Lounge 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 2 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5300,34 +5530,33 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Forest Green (Original)",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 2/lounge-2-green.png",
-          "isOriginal": true
+          "image": "products/Seating/Lounge Chairs/Lounge 2/lounge-2-green.png"
         },
         {
           "name": "Classic Black",
-          "color": "#222222",
+          "color": "#111111",
           "image": "products/Seating/Lounge Chairs/Lounge 2/lounge-2-black.png"
         },
         {
-          "name": "Pure White",
-          "color": "#E8E8E8",
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
           "image": "products/Seating/Lounge Chairs/Lounge 2/lounge-2-white.png"
         },
         {
-          "name": "Royal Blue",
-          "color": "#3B6998",
+          "name": "Ocean (Blue)",
+          "color": "#000080",
           "image": "products/Seating/Lounge Chairs/Lounge 2/lounge-2-blue.png"
         },
         {
-          "name": "Ruby Red",
-          "color": "#A83232",
+          "name": "Crimson (Red)",
+          "color": "#DC143C",
           "image": "products/Seating/Lounge Chairs/Lounge 2/lounge-2-red.png"
         },
         {
-          "name": "Mustard Yellow",
-          "color": "#D6A738",
+          "name": "Sunshine (Yellow)",
+          "color": "#FFD700",
           "image": "products/Seating/Lounge Chairs/Lounge 2/lounge-2-yellow.png"
         }
       ]
@@ -5335,12 +5564,7 @@ const productData = {
     "lounge-3": {
       "name": "Lounge 3",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 3/lounge-3-black.png",
-        "products/Seating/Lounge Chairs/Lounge 3/lounge-3-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 3/lounge-3-green.png",
-        "products/Seating/Lounge Chairs/Lounge 3/lounge-3-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 3/lounge-3-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 3/lounge-3-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 3/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 3 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5356,47 +5580,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-black.png",
-          "isOriginal": true
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-black.png"
         },
         {
-          "name": "Saddle Brown",
+          "name": "Classic Brown",
           "color": "#6B4226",
           "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-brown.png"
         },
         {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-green.png"
+          "name": "Vanilla (Cream)",
+          "color": "#F3E5AB",
+          "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-cream.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
+          "name": "Ocean (Blue)",
+          "color": "#000080",
+          "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-blue.png"
+        },
+        {
+          "name": "Crimson (Red)",
+          "color": "#DC143C",
+          "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-red.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
           "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-grey.png"
-        },
-        {
-          "name": "Midnight Navy",
-          "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-navy.png"
-        },
-        {
-          "name": "Crimson Maroon",
-          "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 3/lounge-3-maroon.png"
         }
       ]
     },
     "lounge-4": {
       "name": "Lounge 4",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 4/lounge-4-black.png",
-        "products/Seating/Lounge Chairs/Lounge 4/lounge-4-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 4/lounge-4-green.png",
-        "products/Seating/Lounge Chairs/Lounge 4/lounge-4-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 4/lounge-4-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 4/lounge-4-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 4/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 4 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5412,47 +5630,45 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-black.png",
-          "isOriginal": true
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-black.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-brown.png"
+          "name": "Charcoal (Dark Grey)",
+          "color": "#36454F",
+          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-darkgrey.png"
         },
         {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-green.png"
+          "name": "Ocean (Blue)",
+          "color": "#000080",
+          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-blue.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-grey.png"
+          "name": "Crimson (Red)",
+          "color": "#DC143C",
+          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-red.png"
         },
         {
-          "name": "Midnight Navy",
-          "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-navy.png"
+          "name": "Gravel (Light Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-lightgrey.png"
         },
         {
-          "name": "Crimson Maroon",
-          "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-maroon.png"
+          "name": "Desert (Beige)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Lounge Chairs/Lounge 4/lounge-4-beige.png"
         }
       ]
     },
     "lounge-5": {
       "name": "Lounge 5",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 5/lounge-5-maroon.png",
-        "products/Seating/Lounge Chairs/Lounge 5/lounge-5-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 5/lounge-5-green.png",
-        "products/Seating/Lounge Chairs/Lounge 5/lounge-5-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 5/lounge-5-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 5/lounge-5-black.png"
+        "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp",
+        "products/Seating/Lounge Chairs/Lounge 5/IMG_0405.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 5/IMG_0406.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 5/IMG_0407.webp",
+        "products/Seating/Lounge Chairs/Lounge 5/IMG_0408.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 5 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5468,34 +5684,33 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Crimson Maroon (Original)",
-          "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-maroon.png",
-          "isOriginal": true
+          "name": "Desert (Beige)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-beige.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-brown.png"
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-grey.png"
         },
         {
-          "name": "Forest Green",
+          "name": "Ocean (Blue)",
+          "color": "#000080",
+          "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-blue.png"
+        },
+        {
+          "name": "Forest (Green)",
           "color": "#507D67",
           "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-green.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-grey.png"
-        },
-        {
-          "name": "Midnight Navy",
-          "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-navy.png"
+          "name": "Rose (Pink)",
+          "color": "#FFC0CB",
+          "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-pink.png"
         },
         {
           "name": "Classic Black",
-          "color": "#222222",
+          "color": "#111111",
           "image": "products/Seating/Lounge Chairs/Lounge 5/lounge-5-black.png"
         }
       ]
@@ -5503,12 +5718,7 @@ const productData = {
     "lounge-6": {
       "name": "Lounge 6",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 6/lounge-6-black.png",
-        "products/Seating/Lounge Chairs/Lounge 6/lounge-6-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 6/lounge-6-green.png",
-        "products/Seating/Lounge Chairs/Lounge 6/lounge-6-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 6/lounge-6-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 6/lounge-6-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 6/IMG_0709.webp"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 6 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5524,47 +5734,43 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-black.png",
-          "isOriginal": true
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-black.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-brown.png"
+          "name": "Charcoal (Dark Grey)",
+          "color": "#36454F",
+          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-darkgrey.png"
         },
         {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-green.png"
+          "name": "Ocean (Blue)",
+          "color": "#000080",
+          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-blue.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-grey.png"
-        },
-        {
-          "name": "Midnight Navy",
-          "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-navy.png"
-        },
-        {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-maroon.png"
+        },
+        {
+          "name": "Desert (Beige)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-beige.png"
+        },
+        {
+          "name": "Gravel (Light Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 6/lounge-6-lightgrey.png"
         }
       ]
     },
     "lounge-7": {
       "name": "Lounge 7",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 7/lounge-7-black.png",
-        "products/Seating/Lounge Chairs/Lounge 7/lounge-7-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 7/lounge-7-green.png",
-        "products/Seating/Lounge Chairs/Lounge 7/lounge-7-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 7/lounge-7-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 7/lounge-7-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 7/IMG_2416.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 7/IMG_2417.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 7 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5580,47 +5786,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-black.png",
-          "isOriginal": true
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-white.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-brown.png"
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-black.png"
         },
         {
-          "name": "Forest Green",
-          "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-green.png"
+          "name": "Ocean (Blue)",
+          "color": "#000080",
+          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-blue.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-grey.png"
-        },
-        {
-          "name": "Midnight Navy",
-          "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-navy.png"
-        },
-        {
-          "name": "Crimson Maroon",
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
           "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-maroon.png"
+        },
+        {
+          "name": "Desert (Beige)",
+          "color": "#D2B48C",
+          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-beige.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 7/lounge-7-grey.png"
         }
       ]
     },
     "lounge-8": {
       "name": "Lounge 8",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 8/lounge-8-blue.png",
-        "products/Seating/Lounge Chairs/Lounge 8/lounge-8-green.png",
-        "products/Seating/Lounge Chairs/Lounge 8/lounge-8-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 8/lounge-8-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 8/lounge-8-maroon.png",
-        "products/Seating/Lounge Chairs/Lounge 8/lounge-8-brown.png"
+        "products/Seating/Lounge Chairs/Lounge 8/IMG_3312.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 8 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5636,47 +5836,47 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Royal Blue (Original)",
-          "color": "#3B6998",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-blue.png",
-          "isOriginal": true
+          "name": "Ocean (Blue)",
+          "color": "#000080",
+          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-blue.png"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest (Green)",
           "color": "#507D67",
           "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-green.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-grey.png"
+          "name": "Charcoal (Dark Grey)",
+          "color": "#36454F",
+          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-darkgrey.png"
         },
         {
-          "name": "Midnight Navy",
-          "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-navy.png"
+          "name": "Amber (Orange)",
+          "color": "#FF7F00",
+          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-orange.png"
         },
         {
-          "name": "Crimson Maroon",
-          "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-maroon.png"
+          "name": "Crimson (Red)",
+          "color": "#DC143C",
+          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-red.png"
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-brown.png"
+          "name": "Gravel (Light Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 8/lounge-8-lightgrey.png"
         }
       ]
     },
     "lounge-9": {
       "name": "Lounge 9",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 9/lounge-9-black.png",
-        "products/Seating/Lounge Chairs/Lounge 9/lounge-9-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 9/lounge-9-green.png",
-        "products/Seating/Lounge Chairs/Lounge 9/lounge-9-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 9/lounge-9-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 9/lounge-9-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp",
+        "products/Seating/Lounge Chairs/Lounge 9/IMG_3626.webp",
+        "products/Seating/Lounge Chairs/Lounge 9/IMG_3627.webp",
+        "products/Seating/Lounge Chairs/Lounge 9/IMG_3628.webp",
+        "products/Seating/Lounge Chairs/Lounge 9/IMG_3629.webp",
+        "products/Seating/Lounge Chairs/Lounge 9/IMG_3630.webp",
+        "products/Seating/Lounge Chairs/Lounge 9/IMG_3631.webp"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 9 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5692,47 +5892,39 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/lounge-9-black.png",
-          "isOriginal": true
-        },
-        {
-          "name": "Saddle Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/lounge-9-brown.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/lounge-9-green.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/lounge-9-grey.png"
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/lounge-9-navy.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/lounge-9-maroon.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
         }
       ]
     },
     "lounge-10": {
       "name": "Lounge 10",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 10/lounge-10-black.png",
-        "products/Seating/Lounge Chairs/Lounge 10/lounge-10-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 10/lounge-10-green.png",
-        "products/Seating/Lounge Chairs/Lounge 10/lounge-10-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 10/lounge-10-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 10/lounge-10-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 10/IMG_3635.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 10/IMG_3636.webp",
+        "products/Seating/Lounge Chairs/Lounge 10/IMG_3637.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 10 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5748,47 +5940,36 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/lounge-10-black.png",
-          "isOriginal": true
-        },
-        {
-          "name": "Saddle Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/lounge-10-brown.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/lounge-10-green.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/lounge-10-grey.png"
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/lounge-10-navy.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/lounge-10-maroon.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
         }
       ]
     },
     "lounge-11": {
       "name": "Lounge 11",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 11/lounge-11-blue.png",
-        "products/Seating/Lounge Chairs/Lounge 11/lounge-11-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 11/lounge-11-green.png",
-        "products/Seating/Lounge Chairs/Lounge 11/lounge-11-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 11/lounge-11-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 11/lounge-11-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 11 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5804,47 +5985,38 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Royal Blue (Original)",
-          "color": "#3B6998",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/lounge-11-blue.png",
-          "isOriginal": true
-        },
-        {
-          "name": "Saddle Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/lounge-11-brown.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/lounge-11-green.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/lounge-11-grey.png"
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/lounge-11-navy.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/lounge-11-maroon.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
         }
       ]
     },
     "lounge-12": {
       "name": "Lounge 12",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 12/lounge-12-black.png",
-        "products/Seating/Lounge Chairs/Lounge 12/lounge-12-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 12/lounge-12-green.png",
-        "products/Seating/Lounge Chairs/Lounge 12/lounge-12-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 12/lounge-12-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 12/lounge-12-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 12/IMG_3901.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 12/IMG_3902.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 12 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5860,35 +6032,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Lounge Chairs/Lounge 12/lounge-12-black.png",
-          "isOriginal": true
-        },
-        {
-          "name": "Saddle Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 12/lounge-12-brown.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 12/lounge-12-green.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 12/lounge-12-grey.png"
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 12/lounge-12-navy.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 12/lounge-12-maroon.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg"
         }
       ]
     },
@@ -5941,12 +6107,11 @@ const productData = {
     "lounge-14": {
       "name": "Lounge 14",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 14/lounge-14-black.png",
-        "products/Seating/Lounge Chairs/Lounge 14/lounge-14-brown.png",
-        "products/Seating/Lounge Chairs/Lounge 14/lounge-14-green.png",
-        "products/Seating/Lounge Chairs/Lounge 14/lounge-14-grey.png",
-        "products/Seating/Lounge Chairs/Lounge 14/lounge-14-navy.png",
-        "products/Seating/Lounge Chairs/Lounge 14/lounge-14-maroon.png"
+        "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 14/IMG_3913.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 14/IMG_3914.webp",
+        "products/Seating/Lounge Chairs/Lounge 14/IMG_3915.jpeg",
+        "products/Seating/Lounge Chairs/Lounge 14/IMG_3916.webp"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 14 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5962,35 +6127,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#222222",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/lounge-14-black.png",
-          "isOriginal": true
-        },
-        {
-          "name": "Saddle Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/lounge-14-brown.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/lounge-14-green.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/lounge-14-grey.png"
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/lounge-14-navy.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/lounge-14-maroon.png"
+          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
         }
       ]
     }
@@ -6017,29 +6176,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Office Storage/Pedestal/IMG_3008.png"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Office Storage/Pedestal/pedestal-white.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Pedestal/IMG_3008.png"
+          "image": "products/Archiving/Office Storage/Pedestal/pedestal-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Pedestal/IMG_3008.png"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Pedestal/IMG_3008.png"
+          "image": "products/Archiving/Office Storage/Pedestal/pedestal-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Archiving/Office Storage/Pedestal/pedestal-brown.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Office Storage/Pedestal/pedestal-grey.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Pedestal/IMG_3008.png"
+          "image": "products/Archiving/Office Storage/Pedestal/pedestal-maroon.png"
         }
       ]
     },
@@ -6064,29 +6228,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Office Storage/Storage 1/IMG_4091.jpeg"
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Office Storage/Storage 1/storage-1-oak.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 1/IMG_4091.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 1/storage-1-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 1/IMG_4091.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 1/IMG_4091.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 1/storage-1-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Archiving/Office Storage/Storage 1/storage-1-brown.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Office Storage/Storage 1/storage-1-grey.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 1/IMG_4091.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 1/storage-1-maroon.png"
         }
       ]
     },
@@ -6112,29 +6281,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Office Storage/Storage 2/IMG_4087.jpeg"
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Office Storage/Storage 2/storage-2-oak.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 2/IMG_4087.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 2/storage-2-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 2/IMG_4087.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 2/IMG_4087.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 2/storage-2-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Archiving/Office Storage/Storage 2/storage-2-brown.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Office Storage/Storage 2/storage-2-grey.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 2/IMG_4087.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 2/storage-2-maroon.png"
         }
       ]
     },
@@ -6161,29 +6335,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
+          "name": "Charcoal (Dark Grey)",
+          "color": "#36454F",
+          "image": "products/Archiving/Office Storage/Storage 3/storage-3-darkgrey.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
+          "image": "products/Archiving/Office Storage/Storage 3/storage-3-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
+          "image": "products/Archiving/Office Storage/Storage 3/storage-3-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Archiving/Office Storage/Storage 3/storage-3-brown.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Office Storage/Storage 3/storage-3-grey.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 3/IMG_3958.webp"
+          "image": "products/Archiving/Office Storage/Storage 3/storage-3-maroon.png"
         }
       ]
     },
@@ -6209,29 +6388,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Office Storage/Storage 4/IMG_3892.jpeg"
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Office Storage/Storage 4/storage-4-oak.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest (Green)",
           "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 4/IMG_3892.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 4/storage-4-green.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 4/IMG_3892.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 4/IMG_3892.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 4/storage-4-navy.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Classic Brown",
+          "color": "#6B4226",
+          "image": "products/Archiving/Office Storage/Storage 4/storage-4-brown.png"
+        },
+        {
+          "name": "Gravel (Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Office Storage/Storage 4/storage-4-grey.png"
+        },
+        {
+          "name": "Crimson (Maroon)",
           "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 4/IMG_3892.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 4/storage-4-maroon.png"
         }
       ]
     },
@@ -6256,29 +6440,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Archiving/Office Storage/Storage 5/IMG_3900.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 5/storage-5-brown.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 5/IMG_3900.jpeg"
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Office Storage/Storage 5/storage-5-oak.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 5/IMG_3900.jpeg"
+          "name": "Charcoal (Dark Grey)",
+          "color": "#36454F",
+          "image": "products/Archiving/Office Storage/Storage 5/storage-5-darkgrey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 5/IMG_3900.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 5/storage-5-navy.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 5/IMG_3900.jpeg"
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Archiving/Office Storage/Storage 5/storage-5-green.png"
+        },
+        {
+          "name": "Gravel (Light Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Office Storage/Storage 5/storage-5-lightgrey.png"
         }
       ]
     },
@@ -6303,36 +6492,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Office Storage/Storage 6/storage-6-oak.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Archiving/Office Storage/Storage 6/77114c4d-f85b-4a94-9a7f-0abee8fd1c6d.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 6/storage-6-brown.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 6/77114c4d-f85b-4a94-9a7f-0abee8fd1c6d.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 6/77114c4d-f85b-4a94-9a7f-0abee8fd1c6d.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 6/storage-6-grey.png"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Office Storage/Storage 6/storage-6-white.png"
+        },
+        {
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 6/77114c4d-f85b-4a94-9a7f-0abee8fd1c6d.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 6/storage-6-navy.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 6/77114c4d-f85b-4a94-9a7f-0abee8fd1c6d.jpeg"
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Archiving/Office Storage/Storage 6/storage-6-green.png"
         }
       ]
     },
     "storage-7": {
       "name": "Storage 7",
       "images": [
-        "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg",
+        "products/Archiving/Office Storage/Storage 7/storage-7-oak.png",
         "products/Archiving/Office Storage/Storage 7/IMG_3867.jpeg",
         "products/Archiving/Office Storage/Storage 7/IMG_3869.jpeg",
         "products/Archiving/Office Storage/Storage 7/IMG_3870.jpeg"
@@ -6351,36 +6545,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Archiving/Office Storage/Storage 7/storage-7-oak.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 7/storage-7-brown.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg"
+          "name": "Walnut (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Archiving/Office Storage/Storage 7/storage-7-darkbrown.png"
         },
         {
-          "name": "Gravel - 210",
+          "name": "Gravel (Grey)",
           "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg"
+          "image": "products/Archiving/Office Storage/Storage 7/storage-7-grey.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg"
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Archiving/Office Storage/Storage 7/storage-7-black.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 7/IMG_3866.jpeg"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Archiving/Office Storage/Storage 7/storage-7-white.png"
         }
       ]
     },
     "storage-8": {
       "name": "Storage 8",
       "images": [
-        "products/Archiving/Office Storage/Storage 8/IMG_3015.png",
+        "products/Archiving/Office Storage/Storage 8/storage-8-black.png",
         "products/Archiving/Office Storage/Storage 8/IMG_3749.jpeg",
         "products/Archiving/Office Storage/Storage 8/IMG_3754.png"
       ],
@@ -6398,29 +6597,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Archiving/Office Storage/Storage 8/IMG_3015.png"
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Archiving/Office Storage/Storage 8/storage-8-black.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Archiving/Office Storage/Storage 8/IMG_3015.png"
+          "name": "Charcoal (Dark Grey)",
+          "color": "#36454F",
+          "image": "products/Archiving/Office Storage/Storage 8/storage-8-darkgrey.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Archiving/Office Storage/Storage 8/IMG_3015.png"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight (Navy Blue)",
           "color": "#2D3E50",
-          "image": "products/Archiving/Office Storage/Storage 8/IMG_3015.png"
+          "image": "products/Archiving/Office Storage/Storage 8/storage-8-navy.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Archiving/Office Storage/Storage 8/IMG_3015.png"
+          "name": "Forest (Green)",
+          "color": "#507D67",
+          "image": "products/Archiving/Office Storage/Storage 8/storage-8-green.png"
+        },
+        {
+          "name": "Walnut",
+          "color": "#5C4033",
+          "image": "products/Archiving/Office Storage/Storage 8/storage-8-walnut.png"
+        },
+        {
+          "name": "Gravel (Light Grey)",
+          "color": "#A3A3A3",
+          "image": "products/Archiving/Office Storage/Storage 8/storage-8-lightgrey.png"
         }
       ]
     }
@@ -6429,7 +6633,7 @@ const productData = {
     "elite-presidential-table": {
       "name": "Elite presidential table",
       "images": [
-        "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png",
+        "products/Woodwork/Presidential tables/Elite presidential table/elite-presidential-teak.png",
         "products/Woodwork/Presidential tables/Elite presidential table/IMG_3690.png",
         "products/Woodwork/Presidential tables/Elite presidential table/IMG_3691.png",
         "products/Woodwork/Presidential tables/Elite presidential table/IMG_3692.png",
@@ -6449,36 +6653,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
+          "name": "Teak (Light Brown)",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/elite-presidential-teak.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
+          "name": "Walnut (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/elite-presidential-walnut.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/elite-presidential-greywood.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
+          "name": "Maple (Light Wood)",
+          "color": "#F5DEB3",
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/elite-presidential-maple.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Presidential tables/Elite presidential table/IMG_3689.png"
+          "name": "White Wood",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/elite-presidential-white.png"
+        },
+        {
+          "name": "Black Wood",
+          "color": "#111111",
+          "image": "products/Woodwork/Presidential tables/Elite presidential table/elite-presidential-black.png"
         }
       ]
     },
     "enrich-presidential-table": {
       "name": "Enrich presidential table",
       "images": [
-        "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg",
+        "products/Woodwork/Presidential tables/Enrich presidential table/enrich-presidential-oak.png",
         "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0063.jpeg",
         "products/Woodwork/Presidential tables/Enrich presidential table/IMG_1682.jpeg",
         "products/Woodwork/Presidential tables/Enrich presidential table/IMG_3654.png",
@@ -6498,37 +6707,42 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/enrich-presidential-oak.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
+          "name": "Walnut (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/enrich-presidential-walnut.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/enrich-presidential-greywood.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
+          "name": "White Wood",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/enrich-presidential-white.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Presidential tables/Enrich presidential table/IMG_0062.jpeg"
+          "name": "Black Wood",
+          "color": "#111111",
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/enrich-presidential-black.png"
+        },
+        {
+          "name": "Beige (Solid)",
+          "color": "#F5F5DC",
+          "image": "products/Woodwork/Presidential tables/Enrich presidential table/enrich-presidential-beige.png"
         }
       ]
     },
     "signature-presidential-table": {
       "name": "Signature presidential table",
       "images": [
+        "products/Woodwork/Presidential tables/Signature presidential table/signature-presidential-walnut.png",
         "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg",
-        "products/Woodwork/Presidential tables/Signature presidential table/IMG_0058.jpeg",
         "products/Woodwork/Presidential tables/Signature presidential table/IMG_0059.jpeg",
         "products/Woodwork/Presidential tables/Signature presidential table/IMG_1678.jpeg",
         "products/Woodwork/Presidential tables/Signature presidential table/IMG_2333.jpeg"
@@ -6547,37 +6761,42 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Walnut & Black",
           "color": "#6B4226",
-          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/signature-presidential-walnut.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
+          "name": "Oak & White",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/signature-presidential-oak.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
+          "name": "Dark Brown & Beige",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/signature-presidential-darkbrown.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
+          "name": "Grey Wood & Black",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/signature-presidential-greywood.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Presidential tables/Signature presidential table/IMG_0053.jpeg"
+          "name": "Solid Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/signature-presidential-black.png"
+        },
+        {
+          "name": "Solid White",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Presidential tables/Signature presidential table/signature-presidential-white.png"
         }
       ]
     },
     "urbane-presidential-table": {
       "name": "Urbane presidential table",
       "images": [
+        "products/Woodwork/Presidential tables/Urbane presidential table/urbane-presidential-walnut.png",
         "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg",
-        "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1945.jpeg",
         "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1947.jpeg",
         "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1948.jpeg",
         "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1949.jpeg"
@@ -6596,29 +6815,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Walnut (Medium Brown)",
           "color": "#6B4226",
-          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/urbane-presidential-walnut.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
+          "name": "Espresso (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/urbane-presidential-espresso.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/urbane-presidential-greywood.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
+          "name": "Natural Oak (Light Wood)",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/urbane-presidential-oak.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Presidential tables/Urbane presidential table/IMG_1944.jpeg"
+          "name": "White Marble",
+          "color": "#F5F5F5",
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/urbane-presidential-white.png"
+        },
+        {
+          "name": "Black Marble",
+          "color": "#111111",
+          "image": "products/Woodwork/Presidential tables/Urbane presidential table/urbane-presidential-black.png"
         }
       ]
     }
@@ -7034,8 +7258,8 @@ const productData = {
     "harmony": {
       "name": "Harmony",
       "images": [
+        "products/Woodwork/Reception tables/Harmony/harmony-oak.png",
         "products/Woodwork/Reception tables/Harmony/IMG_3656.png",
-        "products/Woodwork/Reception tables/Harmony/IMG_3657.png",
         "products/Woodwork/Reception tables/Harmony/IMG_3658.png",
         "products/Woodwork/Reception tables/Harmony/IMG_3659.png"
       ],
@@ -7053,38 +7277,43 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Reception tables/Harmony/harmony-oak.png"
+        },
+        {
+          "name": "Walnut (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Reception tables/Harmony/harmony-walnut.png"
+        },
+        {
+          "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Woodwork/Reception tables/Harmony/IMG_3656.png"
+          "image": "products/Woodwork/Reception tables/Harmony/harmony-brown.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Reception tables/Harmony/IMG_3656.png"
+          "name": "Ash (Light Grey)",
+          "color": "#D3D3D3",
+          "image": "products/Woodwork/Reception tables/Harmony/harmony-lightgrey.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Reception tables/Harmony/IMG_3656.png"
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Reception tables/Harmony/harmony-black.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Reception tables/Harmony/IMG_3656.png"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Reception tables/Harmony/IMG_3656.png"
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Reception tables/Harmony/harmony-white.png"
         }
       ]
     },
     "horizon": {
       "name": "Horizon",
       "images": [
+        "products/Woodwork/Reception tables/Horizon/horizon-oak.png",
         "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg",
-        "products/Woodwork/Reception tables/Horizon/IMG_1959.jpeg",
-        "products/Woodwork/Reception tables/Horizon/IMG_1960.jpeg"
+        "products/Woodwork/Reception tables/Horizon/IMG_1959.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Horizon designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7100,36 +7329,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg"
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Reception tables/Horizon/horizon-oak.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg"
+          "name": "Walnut (Dark Brown)",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Reception tables/Horizon/horizon-walnut.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Reception tables/Horizon/horizon-greywood.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg"
+          "name": "White Marble",
+          "color": "#F5F5F5",
+          "image": "products/Woodwork/Reception tables/Horizon/horizon-whitemarble.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Reception tables/Horizon/IMG_1958.jpeg"
+          "name": "Concrete (Light Grey)",
+          "color": "#D3D3D3",
+          "image": "products/Woodwork/Reception tables/Horizon/horizon-stone.png"
+        },
+        {
+          "name": "Classic Black",
+          "color": "#111111",
+          "image": "products/Woodwork/Reception tables/Horizon/horizon-black.png"
         }
       ]
     },
     "luxor": {
       "name": "Luxor",
       "images": [
-        "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg",
+        "products/Woodwork/Reception tables/Luxor/luxor-oak.png",
         "products/Woodwork/Reception tables/Luxor/IMG_0078.jpeg",
         "products/Woodwork/Reception tables/Luxor/IMG_1677.jpeg",
         "products/Woodwork/Reception tables/Luxor/IMG_2391.jpeg"
@@ -7148,36 +7382,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg"
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Reception tables/Luxor/luxor-oak.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg"
+          "name": "Walnut",
+          "color": "#5C4033",
+          "image": "products/Woodwork/Reception tables/Luxor/luxor-walnut.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg"
+          "name": "Dark Brown",
+          "color": "#3E2723",
+          "image": "products/Woodwork/Reception tables/Luxor/luxor-darkbrown.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg"
+          "name": "Ash (Light Grey)",
+          "color": "#D3D3D3",
+          "image": "products/Woodwork/Reception tables/Luxor/luxor-ash.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Reception tables/Luxor/IMG_0077.jpeg"
+          "name": "Charcoal (Black)",
+          "color": "#36454F",
+          "image": "products/Woodwork/Reception tables/Luxor/luxor-charcoal.png"
+        },
+        {
+          "name": "Arctic (White)",
+          "color": "#FFFFFF",
+          "image": "products/Woodwork/Reception tables/Luxor/luxor-white.png"
         }
       ]
     },
     "prestige": {
       "name": "Prestige",
       "images": [
-        "products/Woodwork/Reception tables/Prestige/IMG_3685.png",
+        "products/Woodwork/Reception tables/Prestige/prestige-oak.png",
         "products/Woodwork/Reception tables/Prestige/IMG_3686.png",
         "products/Woodwork/Reception tables/Prestige/IMG_3687.png",
         "products/Woodwork/Reception tables/Prestige/IMG_3688.png",
@@ -7197,29 +7436,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
+          "name": "Natural Oak",
+          "color": "#D2B48C",
+          "image": "products/Woodwork/Reception tables/Prestige/prestige-oak.png"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
+          "name": "Walnut",
+          "color": "#5C4033",
+          "image": "products/Woodwork/Reception tables/Prestige/prestige-walnut.png"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
+          "name": "Grey Wood",
+          "color": "#7F7F7F",
+          "image": "products/Woodwork/Reception tables/Prestige/prestige-greywood.png"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
+          "name": "White Marble",
+          "color": "#F5F5F5",
+          "image": "products/Woodwork/Reception tables/Prestige/prestige-whitemarble.png"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Reception tables/Prestige/IMG_3685.png"
+          "name": "Concrete (Light Stone)",
+          "color": "#D3D3D3",
+          "image": "products/Woodwork/Reception tables/Prestige/prestige-stone.png"
+        },
+        {
+          "name": "Charcoal (Black)",
+          "color": "#36454F",
+          "image": "products/Woodwork/Reception tables/Prestige/prestige-charcoal.png"
         }
       ]
     }
@@ -7228,12 +7472,12 @@ const productData = {
     "sofa-1": {
       "name": "Sofa 1",
       "images": [
-        "products/Seating/Sofas/Sofa 1/sofa-1-grey.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-brown.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-green.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-lightgrey.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-navy.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-maroon.png"
+        "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3639.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3640.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3641.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3642.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3643.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 1 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7249,47 +7493,39 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Slate Grey (Original)",
-          "color": "#8C9298",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-grey.png",
-          "isOriginal": true
-        },
-        {
-          "name": "Saddle Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-brown.png"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-green.png"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
-          "name": "Light Grey",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-lightgrey.png"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-navy.png"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-maroon.png"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         }
       ]
     },
     "sofa-2": {
       "name": "Sofa 2",
       "images": [
-        "products/Seating/Sofas/Sofa 2/sofa-2-charcoal.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-brown.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-green.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-grey.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-navy.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-maroon.png"
+        "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg",
+        "products/Seating/Sofas/Sofa 2/IMG_3609.jpeg",
+        "products/Seating/Sofas/Sofa 2/IMG_3610.jpeg",
+        "products/Seating/Sofas/Sofa 2/IMG_3611.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 2 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7305,47 +7541,41 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Charcoal Black (Original)",
-          "color": "#333333",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-charcoal.png",
-          "isOriginal": true
-        },
-        {
-          "name": "Saddle Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-brown.png"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-green.png"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-grey.png"
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-navy.png"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-maroon.png"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         }
       ]
     },
     "sofa-3": {
       "name": "Sofa 3",
       "images": [
-        "products/Seating/Sofas/Sofa 3/sofa-3-tan.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-green.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-grey.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-navy.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-maroon.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-black.png"
+        "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png",
+        "products/Seating/Sofas/Sofa 3/2E249B1D-273E-42C4-94E2-3DB7551A7C4E.png",
+        "products/Seating/Sofas/Sofa 3/300B870C-DD53-4D54-8C4A-7D75EDD4A9AB.png",
+        "products/Seating/Sofas/Sofa 3/4BBF3649-85BE-4E9D-A32A-FB34D6CF6C52.png",
+        "products/Seating/Sofas/Sofa 3/57FB7D99-1482-41BA-9F3F-6A772D89B236.png",
+        "products/Seating/Sofas/Sofa 3/647B460A-429A-46C8-A36B-2FB0D91520C5.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 3 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7361,47 +7591,39 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Caramel Tan (Original)",
-          "color": "#C87D55",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-tan.png",
-          "isOriginal": true
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-green.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-grey.png"
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-navy.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-maroon.png"
-        },
-        {
-          "name": "Classic Black",
-          "color": "#222222",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-black.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         }
       ]
     },
     "sofa-4": {
       "name": "Sofa 4",
       "images": [
-        "products/Seating/Sofas/Sofa 4/sofa-4-grey.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-brown.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-green.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-lightgrey.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-navy.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-burgundy.png"
+        "products/Seating/Sofas/Sofa 4/IMG_3601.webp",
+        "products/Seating/Sofas/Sofa 4/IMG_3602.webp",
+        "products/Seating/Sofas/Sofa 4/IMG_3603.webp",
+        "products/Seating/Sofas/Sofa 4/IMG_3608.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 4 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7417,47 +7639,40 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Slate Grey (Original)",
-          "color": "#8C9298",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-grey.png",
-          "isOriginal": true
-        },
-        {
-          "name": "Saddle Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-brown.png"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-green.png"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
-          "name": "Light Grey",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-lightgrey.png"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-navy.png"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
-          "name": "Deep Burgundy",
-          "color": "#6B1426",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-burgundy.png"
+          "name": "Crimson - 808",
+          "color": "#8A2B35",
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         }
       ]
     },
     "sofa-5": {
       "name": "Sofa 5",
       "images": [
-        "products/Seating/Sofas/Sofa 5/sofa-5-brownishgrey.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-brown.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-green.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-lightgrey.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-navy.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-burgundy.png"
+        "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png",
+        "products/Seating/Sofas/Sofa 5/B440E5C0-0B71-41C5-BB6B-3FF3C5601D3F.png",
+        "products/Seating/Sofas/Sofa 5/B52ECE76-3BB7-48EF-8799-0FA8E97A926A.png",
+        "products/Seating/Sofas/Sofa 5/D193E15F-1BEC-4FF9-AA58-537BB6054D9C.png",
+        "products/Seating/Sofas/Sofa 5/D1D427E9-C6F0-404F-9FFB-770B0FA937CC.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 5 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7473,35 +7688,29 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Brownish Grey (Original)",
-          "color": "#635B55",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-brownishgrey.png",
-          "isOriginal": true
-        },
-        {
-          "name": "Saddle Brown",
+          "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-brown.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-green.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
-          "name": "Light Grey",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-lightgrey.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-navy.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
-          "name": "Deep Burgundy",
-          "color": "#6B1426",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-burgundy.png"
+          "name": "Crimson - 808",
+          "color": "#8A2B35",
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         }
       ]
     }
@@ -7526,29 +7735,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Staff tables/IMG_3916.jpeg"
+          "name": "Natural Wood",
+          "color": "#DEB887",
+          "image": "products/Education/Staff tables/staff-table-1-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Staff tables/IMG_3916.jpeg"
+          "name": "Walnut Wood",
+          "color": "#5C4033",
+          "image": "products/Education/Staff tables/staff-table-1-walnut.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Staff tables/IMG_3916.jpeg"
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Staff tables/staff-table-1-black.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Staff tables/IMG_3916.jpeg"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Staff tables/staff-table-1-grey.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Staff tables/IMG_3916.jpeg"
+          "name": "Classic White",
+          "color": "#F9F6EE",
+          "image": "products/Education/Staff tables/staff-table-1-white.png?v=1"
+        },
+        {
+          "name": "Dark Oak",
+          "color": "#8B5A2B",
+          "image": "products/Education/Staff tables/staff-table-1-darkoak.png?v=1"
         }
       ]
     },
@@ -7571,36 +7785,43 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Staff tables/IMG_3917.jpeg"
+          "name": "Natural Wood",
+          "color": "#DEB887",
+          "image": "products/Education/Staff tables/staff-table-2-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Staff tables/IMG_3917.jpeg"
+          "name": "Walnut Wood",
+          "color": "#5C4033",
+          "image": "products/Education/Staff tables/staff-table-2-walnut.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Staff tables/IMG_3917.jpeg"
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Staff tables/staff-table-2-black.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Staff tables/IMG_3917.jpeg"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Education/Staff tables/staff-table-2-grey.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Staff tables/IMG_3917.jpeg"
+          "name": "Classic White",
+          "color": "#F9F6EE",
+          "image": "products/Education/Staff tables/staff-table-2-white.png?v=1"
+        },
+        {
+          "name": "Dark Oak",
+          "color": "#8B5A2B",
+          "image": "products/Education/Staff tables/staff-table-2-darkoak.png?v=1"
         }
       ]
     },
     "staff-table-3": {
       "name": "Staff Table 3",
       "images": [
-        "products/Education/Staff tables/IMG_4020.jpeg"
+        "products/Education/Staff tables/IMG_4020.jpeg",
+        "products/Education/Staff tables/IMG_4021.jpeg",
+        "products/Education/Staff tables/IMG_4022.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Staff Table 3 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7616,119 +7837,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Staff tables/IMG_4020.jpeg"
+          "name": "Wenge & White",
+          "color": "#3B2F2F",
+          "image": "products/Education/Staff tables/staff-table-3-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Staff tables/IMG_4020.jpeg"
+          "name": "Walnut Wood",
+          "color": "#5C4033",
+          "image": "products/Education/Staff tables/staff-table-3-walnut.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Staff tables/IMG_4020.jpeg"
+          "name": "Graphite Black",
+          "color": "#2C2E33",
+          "image": "products/Education/Staff tables/staff-table-3-black.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Staff tables/IMG_4020.jpeg"
+          "name": "Slate Grey & White",
+          "color": "#76797B",
+          "image": "products/Education/Staff tables/staff-table-3-grey.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Staff tables/IMG_4020.jpeg"
-        }
-      ]
-    },
-    "staff-table-4": {
-      "name": "Staff Table 4",
-      "images": [
-        "products/Education/Staff tables/IMG_4021.jpeg"
-      ],
-      "dimensions": "Standard Dimensions",
-      "description": "A sleek, premium Staff Table 4 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
-      "specifications": {
-        "Frame/Structure": "High-tensile strength construction with premium architectural coating",
-        "Upholstery/Finish": "Premium contract-grade finishes built for durability",
-        "Ergonomics": "Contoured profiles, premium dynamic support adjustments",
-        "Warranty & Support": "Sheetal Furnitures Guarantee and cooperation options"
-      },
-      "materials": {
-        "Base": "Premium quality components / structural support bases",
-        "Cladding & Finishes": "Highly durable textures, BIFMA certified hardware"
-      },
-      "finishes": [
-        {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
+          "name": "Classic White",
+          "color": "#F9F6EE",
+          "image": "products/Education/Staff tables/staff-table-3-white.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Staff tables/IMG_4021.jpeg"
-        }
-      ]
-    },
-    "staff-table-5": {
-      "name": "Staff Table 5",
-      "images": [
-        "products/Education/Staff tables/IMG_4022.jpeg"
-      ],
-      "dimensions": "Standard Dimensions",
-      "description": "A sleek, premium Staff Table 5 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
-      "specifications": {
-        "Frame/Structure": "High-tensile strength construction with premium architectural coating",
-        "Upholstery/Finish": "Premium contract-grade finishes built for durability",
-        "Ergonomics": "Contoured profiles, premium dynamic support adjustments",
-        "Warranty & Support": "Sheetal Furnitures Guarantee and cooperation options"
-      },
-      "materials": {
-        "Base": "Premium quality components / structural support bases",
-        "Cladding & Finishes": "Highly durable textures, BIFMA certified hardware"
-      },
-      "finishes": [
-        {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Education/Staff tables/IMG_4022.jpeg"
+          "name": "Dark Oak & White",
+          "color": "#8B5A2B",
+          "image": "products/Education/Staff tables/staff-table-3-darkoak.png?v=1"
         }
       ]
     }
@@ -9053,29 +9189,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3741.png"
+          "name": "Natural Wood",
+          "color": "#DEB887",
+          "image": "products/Workstations/Wooden workstations/Oslo/oslo-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3741.png"
+          "name": "Walnut Wood",
+          "color": "#5C4033",
+          "image": "products/Workstations/Wooden workstations/Oslo/oslo-walnut.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3741.png"
+          "name": "Dark Oak",
+          "color": "#8B5A2B",
+          "image": "products/Workstations/Wooden workstations/Oslo/oslo-darkoak.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3741.png"
+          "name": "Classic White",
+          "color": "#F9F6EE",
+          "image": "products/Workstations/Wooden workstations/Oslo/oslo-white.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Workstations/Wooden workstations/Oslo/IMG_3741.png"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Workstations/Wooden workstations/Oslo/oslo-grey.png?v=1"
+        },
+        {
+          "name": "Maple Wood",
+          "color": "#D2B48C",
+          "image": "products/Workstations/Wooden workstations/Oslo/oslo-maple.png?v=1"
         }
       ]
     },
@@ -9101,29 +9242,34 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3744.png"
+          "name": "Natural Wood",
+          "color": "#DEB887",
+          "image": "products/Workstations/Wooden workstations/Oslo private/oslo-private-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3744.png"
+          "name": "Walnut Wood",
+          "color": "#5C4033",
+          "image": "products/Workstations/Wooden workstations/Oslo private/oslo-private-walnut.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3744.png"
+          "name": "Dark Oak",
+          "color": "#8B5A2B",
+          "image": "products/Workstations/Wooden workstations/Oslo private/oslo-private-darkoak.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3744.png"
+          "name": "Classic White",
+          "color": "#F9F6EE",
+          "image": "products/Workstations/Wooden workstations/Oslo private/oslo-private-white.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Workstations/Wooden workstations/Oslo private/IMG_3744.png"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Workstations/Wooden workstations/Oslo private/oslo-private-grey.png?v=1"
+        },
+        {
+          "name": "Maple Wood",
+          "color": "#D2B48C",
+          "image": "products/Workstations/Wooden workstations/Oslo private/oslo-private-maple.png?v=1"
         }
       ]
     },
@@ -9150,35 +9296,36 @@ const productData = {
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
+          "name": "Natural Wood",
+          "color": "#DEB887",
+          "image": "products/Workstations/Wooden workstations/Workstation 3/workstation-3-original.png?v=1"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
+          "name": "Walnut Wood",
+          "color": "#5C4033",
+          "image": "products/Workstations/Wooden workstations/Workstation 3/workstation-3-walnut.png?v=1"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
+          "name": "Dark Oak",
+          "color": "#8B5A2B",
+          "image": "products/Workstations/Wooden workstations/Workstation 3/workstation-3-darkoak.png?v=1"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
+          "name": "Classic White",
+          "color": "#F9F6EE",
+          "image": "products/Workstations/Wooden workstations/Workstation 3/workstation-3-white.png?v=1"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Workstations/Wooden workstations/Workstation 3/197A7CE0-159E-4F81-B901-03926E071FDD.png"
+          "name": "Slate Grey",
+          "color": "#76797B",
+          "image": "products/Workstations/Wooden workstations/Workstation 3/workstation-3-grey.png?v=1"
+        },
+        {
+          "name": "Maple Wood",
+          "color": "#D2B48C",
+          "image": "products/Workstations/Wooden workstations/Workstation 3/workstation-3-maple.png?v=1"
         }
       ]
     }
   }
 };
-
-if (typeof module !== 'undefined' && module.exports) {
-  module.exports = productData;
-}
