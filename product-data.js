@@ -198,7 +198,8 @@ const productData = {
           "color": "#D2B48C",
           "image": "products/Archiving/Almirah and lockers/Almirah Locker 4/almirah-4-tan.png"
         }
-      ]
+      ],
+      "glb": "models/almirah-locker-4.glb"
     },
     "almirah-locker-5": {
       "name": "Almirah & Locker 5",

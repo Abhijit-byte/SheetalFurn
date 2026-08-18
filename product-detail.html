@@ -488,8 +488,10 @@
       productMeshGroup = new THREE.Group();
       scene.add(productMeshGroup);
 
-      // Build 3D mesh based on category name
-      if (categorySlug.includes('sofa')) {
+      // Check if product has custom GLB model file
+      if (window.currentProduct && window.currentProduct.glb) {
+        load3DGLBModel(window.currentProduct.glb, productMeshGroup);
+      } else if (categorySlug.includes('sofa')) {
         build3DSofa(productMeshGroup);
       } else if (categorySlug.includes('chair') || categorySlug.includes('seating')) {
         build3DChair(productMeshGroup);
@@ -507,6 +509,66 @@
         if (renderer && scene && camera) renderer.render(scene, camera);
       }
       animate();
+    }
+
+    
+    let loadedGltfMaterials = [];
+
+    function load3DGLBModel(glbPath, group) {
+      if (typeof THREE.GLTFLoader === 'undefined') {
+        build3DCabinet(group);
+        return;
+      }
+      const loader = new THREE.GLTFLoader();
+      loader.load(glbPath, function(gltf) {
+        const model = gltf.scene;
+        loadedGltfMaterials = [];
+
+        const box = new THREE.Box3().setFromObject(model);
+        const center = box.getCenter(new THREE.Vector3());
+        const size = box.getSize(new THREE.Vector3());
+
+        const maxDim = Math.max(size.x, size.y, size.z);
+        const targetSize = 2.2;
+        const scale = maxDim > 0 ? (targetSize / maxDim) : 1.0;
+
+        model.scale.set(scale, scale, scale);
+        model.position.x = -center.x * scale;
+        model.position.y = -center.y * scale + (size.y * scale) / 2;
+        model.position.z = -center.z * scale;
+
+        model.traverse(function(child) {
+          if (child.isMesh) {
+            child.castShadow = true;
+            child.receiveShadow = true;
+            if (child.material) {
+              if (Array.isArray(child.material)) {
+                child.material.forEach(m => loadedGltfMaterials.push(m));
+              } else {
+                loadedGltfMaterials.push(child.material);
+              }
+            }
+          }
+        });
+
+        group.add(model);
+
+        const floorGeo = new THREE.PlaneGeometry(10, 10);
+        const floorMat = new THREE.ShadowMaterial({ opacity: 0.15 });
+        const floor = new THREE.Mesh(floorGeo, floorMat);
+        floor.rotation.x = -Math.PI / 2;
+        floor.position.y = 0;
+        floor.receiveShadow = true;
+        scene.add(floor);
+
+        if (controls) {
+          controls.target.set(0, (size.y * scale) / 2, 0);
+          controls.update();
+        }
+      }, undefined, function(err) {
+        console.error('Error loading GLB model:', err);
+        build3DCabinet(group);
+      });
     }
 
     function build3DSofa(group) {
@@ -1105,6 +1167,11 @@
       if (mainMaterial && colorHex) {
         mainMaterial.color.set(colorHex);
       }
+      if (loadedGltfMaterials && loadedGltfMaterials.length > 0 && colorHex) {
+        loadedGltfMaterials.forEach(m => {
+          if (m && m.color) m.color.set(colorHex);
+        });
+      }
 
       // Update 2D real photo preview
       const previewImg = document.getElementById('configurator-preview-img');
@@ -1190,6 +1257,7 @@
   <script src="product-data.js?v=20260722_final"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js"></script>
   <script src="main.js?v=20260722_final"></script>
 
   <!-- Custom Cursor Elements -->
