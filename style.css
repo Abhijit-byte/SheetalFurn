@@ -1907,8 +1907,8 @@ header.fixed-header.inner-header {
 }
 
 .mega-menu {
-  position: fixed;
-  top: 72px;
+  position: absolute;
+  top: 100%;
   left: 0;
   right: 0;
   width: 100vw;
@@ -1953,7 +1953,7 @@ header.fixed-header.inner-header {
 
 header.fixed-header.scrolled .mega-menu,
 header.fixed-header.inner-header .mega-menu {
-  top: 56px;
+  top: 100%;
 }
 
 .mega-menu-parent:hover .mega-menu,
