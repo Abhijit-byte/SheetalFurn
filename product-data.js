@@ -7194,12 +7194,12 @@ var productData = {
     "sofa-1": {
       "name": "Sofa 1",
       "images": [
-        "products/Seating/Sofas/Sofa 1/sofa-1-grey.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-brown.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-green.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-lightgrey.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-navy.png",
-        "products/Seating/Sofas/Sofa 1/sofa-1-maroon.png"
+        "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3639.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3640.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3641.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3642.jpeg",
+        "products/Seating/Sofas/Sofa 1/IMG_3643.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 1 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7215,47 +7215,40 @@ var productData = {
       },
       "finishes": [
         {
-          "name": "Slate Grey (Original)",
-          "color": "#8C9298",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-grey.png",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg",
           "isOriginal": true
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-brown.png"
-        },
-        {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-green.png"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
-          "name": "Light Grey",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-lightgrey.png"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-navy.png"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Sofas/Sofa 1/sofa-1-maroon.png"
+          "image": "products/Seating/Sofas/Sofa 1/IMG_3638.jpeg"
         }
       ]
     },
     "sofa-2": {
       "name": "Sofa 2",
       "images": [
-        "products/Seating/Sofas/Sofa 2/sofa-2-charcoal.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-brown.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-green.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-grey.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-navy.png",
-        "products/Seating/Sofas/Sofa 2/sofa-2-maroon.png"
+        "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg",
+        "products/Seating/Sofas/Sofa 2/IMG_3609.jpeg",
+        "products/Seating/Sofas/Sofa 2/IMG_3610.jpeg",
+        "products/Seating/Sofas/Sofa 2/IMG_3611.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 2 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7271,47 +7264,42 @@ var productData = {
       },
       "finishes": [
         {
-          "name": "Charcoal Black (Original)",
-          "color": "#333333",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-charcoal.png",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg",
           "isOriginal": true
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-brown.png"
-        },
-        {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-green.png"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-grey.png"
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-navy.png"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Sofas/Sofa 2/sofa-2-maroon.png"
+          "image": "products/Seating/Sofas/Sofa 2/IMG_3570.jpeg"
         }
       ]
     },
     "sofa-3": {
       "name": "Sofa 3",
       "images": [
-        "products/Seating/Sofas/Sofa 3/sofa-3-tan.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-green.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-grey.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-navy.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-maroon.png",
-        "products/Seating/Sofas/Sofa 3/sofa-3-black.png"
+        "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png",
+        "products/Seating/Sofas/Sofa 3/2E249B1D-273E-42C4-94E2-3DB7551A7C4E.png",
+        "products/Seating/Sofas/Sofa 3/300B870C-DD53-4D54-8C4A-7D75EDD4A9AB.png",
+        "products/Seating/Sofas/Sofa 3/4BBF3649-85BE-4E9D-A32A-FB34D6CF6C52.png",
+        "products/Seating/Sofas/Sofa 3/57FB7D99-1482-41BA-9F3F-6A772D89B236.png",
+        "products/Seating/Sofas/Sofa 3/647B460A-429A-46C8-A36B-2FB0D91520C5.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 3 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7327,47 +7315,40 @@ var productData = {
       },
       "finishes": [
         {
-          "name": "Caramel Tan (Original)",
-          "color": "#C87D55",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-tan.png",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png",
           "isOriginal": true
         },
         {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-green.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
-          "name": "Slate Grey",
-          "color": "#8C9298",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-grey.png"
+          "name": "Gravel - 210",
+          "color": "#A3A3A3",
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-navy.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         },
         {
-          "name": "Crimson Maroon",
+          "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-maroon.png"
-        },
-        {
-          "name": "Classic Black",
-          "color": "#222222",
-          "image": "products/Seating/Sofas/Sofa 3/sofa-3-black.png"
+          "image": "products/Seating/Sofas/Sofa 3/00648846-498C-4BC2-96D0-D3A864CD701E.png"
         }
       ]
     },
     "sofa-4": {
       "name": "Sofa 4",
       "images": [
-        "products/Seating/Sofas/Sofa 4/sofa-4-grey.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-brown.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-green.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-lightgrey.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-navy.png",
-        "products/Seating/Sofas/Sofa 4/sofa-4-burgundy.png"
+        "products/Seating/Sofas/Sofa 4/IMG_3601.webp",
+        "products/Seating/Sofas/Sofa 4/IMG_3602.webp",
+        "products/Seating/Sofas/Sofa 4/IMG_3603.webp",
+        "products/Seating/Sofas/Sofa 4/IMG_3608.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 4 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7383,47 +7364,41 @@ var productData = {
       },
       "finishes": [
         {
-          "name": "Slate Grey (Original)",
-          "color": "#8C9298",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-grey.png",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp",
           "isOriginal": true
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-brown.png"
-        },
-        {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-green.png"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
-          "name": "Light Grey",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-lightgrey.png"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-navy.png"
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         },
         {
-          "name": "Deep Burgundy",
-          "color": "#6B1426",
-          "image": "products/Seating/Sofas/Sofa 4/sofa-4-burgundy.png"
+          "name": "Crimson - 808",
+          "color": "#8A2B35",
+          "image": "products/Seating/Sofas/Sofa 4/IMG_3601.webp"
         }
       ]
     },
     "sofa-5": {
       "name": "Sofa 5",
       "images": [
-        "products/Seating/Sofas/Sofa 5/sofa-5-brownishgrey.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-brown.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-green.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-lightgrey.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-navy.png",
-        "products/Seating/Sofas/Sofa 5/sofa-5-burgundy.png"
+        "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png",
+        "products/Seating/Sofas/Sofa 5/B440E5C0-0B71-41C5-BB6B-3FF3C5601D3F.png",
+        "products/Seating/Sofas/Sofa 5/B52ECE76-3BB7-48EF-8799-0FA8E97A926A.png",
+        "products/Seating/Sofas/Sofa 5/D193E15F-1BEC-4FF9-AA58-537BB6054D9C.png",
+        "products/Seating/Sofas/Sofa 5/D1D427E9-C6F0-404F-9FFB-770B0FA937CC.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Sofa 5 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -7439,35 +7414,30 @@ var productData = {
       },
       "finishes": [
         {
-          "name": "Brownish Grey (Original)",
-          "color": "#635B55",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-brownishgrey.png",
+          "name": "Classic Brown (Original)",
+          "color": "#6B4226",
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png",
           "isOriginal": true
         },
         {
-          "name": "Saddle Brown",
-          "color": "#6B4226",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-brown.png"
-        },
-        {
-          "name": "Forest Green",
+          "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-green.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
-          "name": "Light Grey",
+          "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-lightgrey.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
-          "name": "Midnight Navy",
+          "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-navy.png"
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         },
         {
-          "name": "Deep Burgundy",
-          "color": "#6B1426",
-          "image": "products/Seating/Sofas/Sofa 5/sofa-5-burgundy.png"
+          "name": "Crimson - 808",
+          "color": "#8A2B35",
+          "image": "products/Seating/Sofas/Sofa 5/A096AAD8-C7CB-4BFB-A8E3-226711CD2C0F.png"
         }
       ]
     }

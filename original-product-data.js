@@ -1,4 +1,4 @@
-var productData = {
+const productData = {
   "almirah-lockers": {
     "almirah-locker-1": {
       "name": "Almirah & Locker 1",
