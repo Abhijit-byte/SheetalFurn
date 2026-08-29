@@ -1,4 +1,4 @@
-﻿const productData = {
+var productData = {
   "almirah-lockers": {
     "almirah-locker-1": {
       "name": "Almirah & Locker 1",
@@ -1234,7 +1234,7 @@
     "conference-1": {
       "name": "Conference 1",
       "images": [
-        "products/Seating/Conference Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
+        "products/Seating/Visitors Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 1 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1252,34 +1252,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 1/2dfa1798-478c-4dc3-affd-367b8b39cffc.jpeg"
         }
       ]
     },
     "conference-2": {
       "name": "Conference 2",
       "images": [
-        "products/Seating/Conference Chairs/Conference 2/IMG_0235.jpeg"
+        "products/Seating/Visitors Chairs/Conference 2/IMG_0235.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 2 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1297,34 +1297,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 2/IMG_0235.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 2/IMG_0235.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 2/IMG_0235.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 2/IMG_0235.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 2/IMG_0235.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 2/IMG_0235.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 2/IMG_0235.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 2/IMG_0235.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 2/IMG_0235.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 2/IMG_0235.jpeg"
         }
       ]
     },
     "conference-3": {
       "name": "Conference 3",
       "images": [
-        "products/Seating/Conference Chairs/Conference 3/IMG_0627.jpeg"
+        "products/Seating/Visitors Chairs/Conference 3/IMG_0627.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 3 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1342,35 +1342,35 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 3/IMG_0627.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 3/IMG_0627.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 3/IMG_0627.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 3/IMG_0627.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 3/IMG_0627.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 3/IMG_0627.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 3/IMG_0627.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 3/IMG_0627.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 3/IMG_0627.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 3/IMG_0627.jpeg"
         }
       ]
     },
     "conference-4": {
       "name": "Conference 4",
       "images": [
-        "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg",
-        "products/Seating/Conference Chairs/Conference 4/IMG_1874.jpeg"
+        "products/Seating/Visitors Chairs/Conference 4/IMG_1873.jpeg",
+        "products/Seating/Visitors Chairs/Conference 4/IMG_1874.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 4 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1388,34 +1388,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 4/IMG_1873.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 4/IMG_1873.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 4/IMG_1873.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 4/IMG_1873.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 4/IMG_1873.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 4/IMG_1873.jpeg"
         }
       ]
     },
     "conference-5": {
       "name": "Conference 5",
       "images": [
-        "products/Seating/Conference Chairs/Conference 5/IMG_3034.png",
+        "products/Seating/Visitors Chairs/Conference 5/IMG_3034.png",
         "products/Seating/Conference Chairs/Conference 5/IMG_3035.png",
         "products/Seating/Conference Chairs/Conference 5/IMG_3036.png",
         "products/Seating/Conference Chairs/Conference 5/IMG_3038.png",
@@ -1437,34 +1437,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
+          "image": "products/Seating/Visitors Chairs/Conference 5/IMG_3034.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
+          "image": "products/Seating/Visitors Chairs/Conference 5/IMG_3034.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
+          "image": "products/Seating/Visitors Chairs/Conference 5/IMG_3034.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
+          "image": "products/Seating/Visitors Chairs/Conference 5/IMG_3034.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 5/IMG_3034.png"
+          "image": "products/Seating/Visitors Chairs/Conference 5/IMG_3034.png"
         }
       ]
     },
     "conference-6": {
       "name": "Conference 6",
       "images": [
-        "products/Seating/Conference Chairs/Conference 6/IMG_3309.png"
+        "products/Seating/Visitors Chairs/Conference 6/IMG_3309.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 6 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1482,34 +1482,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 6/IMG_3309.png"
+          "image": "products/Seating/Visitors Chairs/Conference 6/IMG_3309.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 6/IMG_3309.png"
+          "image": "products/Seating/Visitors Chairs/Conference 6/IMG_3309.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 6/IMG_3309.png"
+          "image": "products/Seating/Visitors Chairs/Conference 6/IMG_3309.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 6/IMG_3309.png"
+          "image": "products/Seating/Visitors Chairs/Conference 6/IMG_3309.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 6/IMG_3309.png"
+          "image": "products/Seating/Visitors Chairs/Conference 6/IMG_3309.png"
         }
       ]
     },
     "conference-7": {
       "name": "Conference 7",
       "images": [
-        "products/Seating/Conference Chairs/Conference 7/IMG_3345.jpeg"
+        "products/Seating/Visitors Chairs/Conference 7/IMG_3345.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 7 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1527,35 +1527,35 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 7/IMG_3345.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 7/IMG_3345.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 7/IMG_3345.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 7/IMG_3345.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 7/IMG_3345.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 7/IMG_3345.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 7/IMG_3345.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 7/IMG_3345.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 7/IMG_3345.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 7/IMG_3345.jpeg"
         }
       ]
     },
     "conference-8": {
       "name": "Conference 8",
       "images": [
-        "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg",
-        "products/Seating/Conference Chairs/Conference 8/IMG_3359.jpeg"
+        "products/Seating/Visitors Chairs/Conference 8/IMG_3357.jpeg",
+        "products/Seating/Visitors Chairs/Conference 8/IMG_3359.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 8 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1573,34 +1573,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 8/IMG_3357.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 8/IMG_3357.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 8/IMG_3357.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 8/IMG_3357.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 8/IMG_3357.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 8/IMG_3357.jpeg"
         }
       ]
     },
     "conference-9": {
       "name": "Conference 9",
       "images": [
-        "products/Seating/Conference Chairs/Conference 9/IMG_3651.jpeg"
+        "products/Seating/Visitors Chairs/Conference 9/IMG_3651.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 9 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1618,34 +1618,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 9/IMG_3651.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 9/IMG_3651.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 9/IMG_3651.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 9/IMG_3651.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 9/IMG_3651.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 9/IMG_3651.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 9/IMG_3651.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 9/IMG_3651.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 9/IMG_3651.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 9/IMG_3651.jpeg"
         }
       ]
     },
     "conference-10": {
       "name": "Conference 10",
       "images": [
-        "products/Seating/Conference Chairs/Conference 10/IMG_5090.jpeg"
+        "products/Seating/Visitors Chairs/Conference 10/IMG_5090.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 10 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1663,35 +1663,35 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 10/IMG_5090.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 10/IMG_5090.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 10/IMG_5090.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 10/IMG_5090.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 10/IMG_5090.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 10/IMG_5090.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 10/IMG_5090.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 10/IMG_5090.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 10/IMG_5090.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 10/IMG_5090.jpeg"
         }
       ]
     },
     "conference-11": {
       "name": "Conference 11",
       "images": [
-        "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg",
-        "products/Seating/Conference Chairs/Conference 11/IMG_9229.jpeg"
+        "products/Seating/Visitors Chairs/Conference 11/IMG_9209.jpeg",
+        "products/Seating/Visitors Chairs/Conference 11/IMG_9229.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Conference 11 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1709,27 +1709,27 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 11/IMG_9209.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 11/IMG_9209.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 11/IMG_9209.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 11/IMG_9209.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Conference Chairs/Conference 11/IMG_9209.jpeg"
+          "image": "products/Seating/Visitors Chairs/Conference 11/IMG_9209.jpeg"
         }
       ]
     }
@@ -1737,50 +1737,72 @@
   "conference-tables": {
     "elite-conference": {
       "name": "Elite conference",
+      "has3D": true,
+      "model3d": "products/Woodwork/Conference tables/Elite conference/EliteConf(white).glb",
       "images": [
         "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg",
         "products/Woodwork/Conference tables/Elite conference/IMG_4077.jpeg",
         "products/Woodwork/Conference tables/Elite conference/IMG_4078.jpeg",
         "products/Woodwork/Conference tables/Elite conference/IMG_4079.jpeg",
-        "products/Woodwork/Conference tables/Elite conference/IMG_4080.jpeg"
+        "products/Woodwork/Conference tables/Elite conference/IMG_4080.jpeg",
+        "products/Woodwork/Conference tables/Elite conference/elite-conference-whitemarble.png",
+        "products/Woodwork/Conference tables/Elite conference/elite-conference-walnut.png",
+        "products/Woodwork/Conference tables/Elite conference/elite-conference-maple.png",
+        "products/Woodwork/Conference tables/Elite conference/elite-conference-greywood.png",
+        "products/Woodwork/Conference tables/Elite conference/elite-conference-concrete.png",
+        "products/Woodwork/Conference tables/Elite conference/elite-conference-black.png"
       ],
-      "dimensions": "Standard Dimensions",
-      "description": "A sleek, premium Elite conference designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
+      "dimensions": "2400W x 1200D x 750H mm",
+      "description": "Architectural masterpiece Elite Conference Table featuring premium commercial-grade solid surface tops, integrated power wire management raceways, and precision structural metal framing. Explore in photorealistic interactive 3D and Augmented Reality.",
       "specifications": {
-        "Frame/Structure": "High-tensile strength construction with premium architectural coating",
-        "Upholstery/Finish": "Premium contract-grade finishes built for durability",
-        "Ergonomics": "Contoured profiles, premium dynamic support adjustments",
-        "Warranty & Support": "Sheetal Furnitures Guarantee and cooperation options"
+        "Table Top": "High-durability antimicrobial thermal laminate / stone composite with beveled chamfered edge",
+        "Understructure": "Heavy-duty laser-cut structural steel with architectural powder-coat finish",
+        "Cable Management": "Integrated dual-sided soft-close pop-up power modules & conduit channels",
+        "Capacity": "Seats 8 to 12 persons comfortably with ergonomic leg clearance",
+        "Warranty & Certification": "10-Year Comprehensive Sheetal Furnitures Guarantee | BIFMA & GreenGuard Certified"
       },
       "materials": {
-        "Base": "Premium quality components / structural support bases",
-        "Cladding & Finishes": "Highly durable textures, BIFMA certified hardware"
+        "Core Surface": "E0/E1 grade high-density engineered wood / composite resin",
+        "Base Leg Systems": "Extruded structural aluminum with reinforced internal gussets",
+        "Foot Levellers": "High-precision anti-scratch nylon levellers (+/- 25mm adjustment)"
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "Pure White / White Marble (Original)",
+          "color": "#F8F8F8",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-whitemarble.png",
+          "model3d": "products/Woodwork/Conference tables/Elite conference/EliteConf(white).glb",
+          "isOriginal": true
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "Walnut / Dark Brown",
+          "color": "#5A3D28",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-walnut.png",
+          "model3d": "products/Woodwork/Conference tables/Elite conference/EliteConf(brown).glb"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "Natural Maple / Light Brown",
+          "color": "#C29A6B",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-maple.png",
+          "model3d": "products/Woodwork/Conference tables/Elite conference/EliteConf(L.Brown).glb"
         },
         {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "Slate Greywood",
+          "color": "#7A7F85",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-greywood.png",
+          "model3d": "products/Woodwork/Conference tables/Elite conference/EliteConf(Grey).glb"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg"
+          "name": "Concrete / Warm Beige",
+          "color": "#D3C5B4",
+          "image": "products/Woodwork/Conference tables/Elite conference/elite-conference-concrete.png",
+          "model3d": "products/Woodwork/Conference tables/Elite conference/EliteConf(Beige).glb"
+        },
+        {
+          "name": "Textured Light Oak (Meshy AI)",
+          "color": "#E6C280",
+          "image": "products/Woodwork/Conference tables/Elite conference/IMG_4076.jpeg",
+          "model3d": "products/Woodwork/Conference tables/Elite conference/Meshy_AI_Modern_Light_Wood_Con_0827181743_texture.glb"
         }
       ]
     },
@@ -1937,11 +1959,11 @@
     "baleno": {
       "name": "Baleno",
       "images": [
-        "products/Seating/Executive Chairs/Baleno/62282.jpeg",
-        "products/Seating/Executive Chairs/Baleno/62283.jpeg",
-        "products/Seating/Executive Chairs/Baleno/62284.jpeg",
-        "products/Seating/Executive Chairs/Baleno/62285.jpeg",
-        "products/Seating/Executive Chairs/Baleno/62286.jpeg"
+        "products/Seating/Presidential chairs/Baleno/62282.jpeg",
+        "products/Seating/Presidential chairs/Baleno/62283.jpeg",
+        "products/Seating/Presidential chairs/Baleno/62284.jpeg",
+        "products/Seating/Presidential chairs/Baleno/62285.jpeg",
+        "products/Seating/Presidential chairs/Baleno/62286.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Baleno designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -1957,44 +1979,43 @@
       },
       "finishes": [
         {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Baleno/62282.jpeg",
-          "isOriginal": true
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Baleno/baleno-green.png"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Baleno/baleno-grey.png"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Executive Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Baleno/baleno-black.png"
+          "image": "products/Seating/Presidential chairs/Baleno/62282.jpeg"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Baleno/baleno-red.png"
+          "name": "Saddle Brown",
+          "color": "#6B4226",
+          "image": "products/Seating/Presidential chairs/Baleno/62283.jpeg"
+        },
+        {
+          "name": "Forest Green",
+          "color": "#507D67",
+          "image": "products/Seating/Presidential chairs/Baleno/62284.jpeg"
+        },
+        {
+          "name": "Slate Grey",
+          "color": "#8C9298",
+          "image": "products/Seating/Presidential chairs/Baleno/62285.jpeg"
+        },
+        {
+          "name": "Charcoal Black",
+          "color": "#333333",
+          "image": "products/Seating/Presidential chairs/Baleno/62286.jpeg"
         }
       ]
     },
     "butterfly-hb": {
       "name": "Butterfly hb",
       "images": [
-        "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg",
-        "products/Seating/Executive Chairs/Butterfly hb/IMG_4331.png",
-        "products/Seating/Executive Chairs/Butterfly hb/IMG_4333.jpeg",
-        "products/Seating/Executive Chairs/Butterfly hb/IMG_4334.jpeg",
-        "products/Seating/Executive Chairs/Butterfly hb/IMG_4335.jpeg",
-        "products/Seating/Executive Chairs/Butterfly hb/IMG_4336.jpeg",
-        "products/Seating/Executive Chairs/Butterfly hb/IMG_4337.jpeg",
-        "products/Seating/Executive Chairs/Butterfly hb/IMG_4338.jpeg"
+        "products/Seating/Executive task chairs/Butterfly hb/IMG_4332.jpeg",
+        "products/Seating/Executive task chairs/Butterfly hb/IMG_4331.png",
+        "products/Seating/Executive task chairs/Butterfly hb/IMG_4333.jpeg",
+        "products/Seating/Executive task chairs/Butterfly hb/IMG_4334.jpeg",
+        "products/Seating/Executive task chairs/Butterfly hb/IMG_4335.jpeg",
+        "products/Seating/Executive task chairs/Butterfly hb/IMG_4336.jpeg",
+        "products/Seating/Executive task chairs/Butterfly hb/IMG_4337.jpeg",
+        "products/Seating/Executive task chairs/Butterfly hb/IMG_4338.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Butterfly hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2012,44 +2033,43 @@
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/IMG_4332.jpeg",
+          "image": "products/Seating/Executive task chairs/Butterfly hb/IMG_4332.jpeg",
           "isOriginal": true
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/butterfly-green.png"
+          "image": "products/Seating/Executive task chairs/Butterfly hb/butterfly-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/butterfly-grey.png"
+          "image": "products/Seating/Executive task chairs/Butterfly hb/butterfly-grey.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/butterfly-brown.png"
+          "image": "products/Seating/Executive task chairs/Butterfly hb/butterfly-brown.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Butterfly hb/butterfly-red.png"
+          "image": "products/Seating/Executive task chairs/Butterfly hb/butterfly-red.png"
         }
       ]
     },
     "cobra": {
       "name": "Cobra",
       "images": [
-        "products/Seating/Executive Chairs/Cobra/IMG_2967.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_0832.jpeg",
-        "products/Seating/Executive Chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2968.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2969.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2970.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2971.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_2972.png",
-        "products/Seating/Executive Chairs/Cobra/IMG_9740.jpeg",
-        "products/Seating/Executive Chairs/Cobra/Untitled design - 2.png"
+        "products/Seating/Presidential chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png",
+        "products/Seating/Presidential chairs/Cobra/IMG_2967.png",
+        "products/Seating/Presidential chairs/Cobra/IMG_2968.png",
+        "products/Seating/Presidential chairs/Cobra/IMG_2969.png",
+        "products/Seating/Presidential chairs/Cobra/IMG_2970.png",
+        "products/Seating/Presidential chairs/Cobra/IMG_2971.png",
+        "products/Seating/Presidential chairs/Cobra/IMG_2972.png",
+        "products/Seating/Presidential chairs/Cobra/IMG_0832.jpeg",
+        "products/Seating/Presidential chairs/Cobra/IMG_9740.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Cobra designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2065,43 +2085,53 @@
       },
       "finishes": [
         {
-          "name": "Gravel Grey (Original)",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Cobra/cobra-grey.png",
+          "name": "Midnight Black (Original)",
+          "color": "#111111",
+          "image": "products/Seating/Presidential chairs/Cobra/1777B339-FFF7-464C-B382-0B63AFF4E1E9.png",
           "isOriginal": true
         },
         {
-          "name": "Classic Brown",
+          "name": "Saddle Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Cobra/cobra-brown.png"
+          "image": "products/Seating/Presidential chairs/Cobra/IMG_2967.png"
         },
         {
-          "name": "Forest - 602",
+          "name": "Slate Grey",
+          "color": "#8C9298",
+          "image": "products/Seating/Presidential chairs/Cobra/IMG_2968.png"
+        },
+        {
+          "name": "Forest Green",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Cobra/cobra-green.png"
+          "image": "products/Seating/Presidential chairs/Cobra/IMG_2969.png"
         },
         {
-          "name": "Alpine Navy - 400",
-          "color": "#1C344A",
-          "image": "products/Seating/Executive Chairs/Cobra/cobra-blue.png"
+          "name": "Midnight Navy",
+          "color": "#2D3E50",
+          "image": "products/Seating/Presidential chairs/Cobra/IMG_2970.png"
         },
         {
-          "name": "Crimson - 808",
+          "name": "Crimson Maroon",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Cobra/cobra-red.png"
+          "image": "products/Seating/Presidential chairs/Cobra/IMG_2971.png"
+        },
+        {
+          "name": "Royal Blue",
+          "color": "#3B6998",
+          "image": "products/Seating/Presidential chairs/Cobra/IMG_2972.png"
         }
       ]
     },
     "comfy-hb": {
       "name": "Comfy hb",
       "images": [
-        "products/Seating/Executive Chairs/Comfy hb/IMG_3248.jpeg",
-        "products/Seating/Executive Chairs/Comfy hb/IMG_3249.jpeg",
-        "products/Seating/Executive Chairs/Comfy hb/IMG_3250.jpeg",
-        "products/Seating/Executive Chairs/Comfy hb/IMG_3251.jpeg",
-        "products/Seating/Executive Chairs/Comfy hb/IMG_3252.jpeg",
-        "products/Seating/Executive Chairs/Comfy hb/IMG_3253.jpeg",
-        "products/Seating/Executive Chairs/Comfy hb/IMG_5008.jpeg"
+        "products/Seating/Executive task chairs/Comfy hb/IMG_3248.jpeg",
+        "products/Seating/Executive task chairs/Comfy hb/IMG_3249.jpeg",
+        "products/Seating/Executive task chairs/Comfy hb/IMG_3250.jpeg",
+        "products/Seating/Executive task chairs/Comfy hb/IMG_3251.jpeg",
+        "products/Seating/Executive task chairs/Comfy hb/IMG_3252.jpeg",
+        "products/Seating/Executive task chairs/Comfy hb/IMG_3253.jpeg",
+        "products/Seating/Executive task chairs/Comfy hb/IMG_5008.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Comfy hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2119,46 +2149,46 @@
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-black.png",
+          "image": "products/Seating/Executive task chairs/Comfy hb/comfy-black.png",
           "isOriginal": true
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-brown.png"
+          "image": "products/Seating/Executive task chairs/Comfy hb/comfy-brown.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-green.png"
+          "image": "products/Seating/Executive task chairs/Comfy hb/comfy-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-grey.png"
+          "image": "products/Seating/Executive task chairs/Comfy hb/comfy-grey.png"
         },
         {
           "name": "Alpine Navy - 400",
           "color": "#1C344A",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-blue.png"
+          "image": "products/Seating/Executive task chairs/Comfy hb/comfy-blue.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Comfy hb/comfy-red.png"
+          "image": "products/Seating/Executive task chairs/Comfy hb/comfy-red.png"
         }
       ]
     },
     "glanza-hb-black": {
       "name": "Glanza hb black",
       "images": [
-        "products/Seating/Executive Chairs/Glanza hb black/glanza-black.png",
-        "products/Seating/Executive Chairs/Glanza hb black/IMG_5601.png",
-        "products/Seating/Executive Chairs/Glanza hb black/IMG_5602.png",
-        "products/Seating/Executive Chairs/Glanza hb black/IMG_5603.png",
-        "products/Seating/Executive Chairs/Glanza hb black/IMG_5604.png",
-        "products/Seating/Executive Chairs/Glanza hb black/IMG_5605.jpeg",
-        "products/Seating/Executive Chairs/Glanza hb black/IMG_5606.jpeg"
+        "products/Seating/Executive task chairs/Glanza hb black/glanza-black.png",
+        "products/Seating/Executive task chairs/Glanza hb black/IMG_5601.png",
+        "products/Seating/Executive task chairs/Glanza hb black/IMG_5602.png",
+        "products/Seating/Executive task chairs/Glanza hb black/IMG_5603.png",
+        "products/Seating/Executive task chairs/Glanza hb black/IMG_5604.png",
+        "products/Seating/Executive task chairs/Glanza hb black/IMG_5605.jpeg",
+        "products/Seating/Executive task chairs/Glanza hb black/IMG_5606.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Glanza hb black designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2176,38 +2206,38 @@
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-black.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb black/glanza-black.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-green.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb black/glanza-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-grey.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb black/glanza-grey.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-brown.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb black/glanza-brown.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Glanza hb black/glanza-crimson.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb black/glanza-crimson.png"
         }
       ]
     },
     "glanza-hb-grey": {
       "name": "Glanza hb grey",
       "images": [
-        "products/Seating/Executive Chairs/Glanza hb grey/glanza-grey.png",
-        "products/Seating/Executive Chairs/Glanza hb grey/IMG_7138.jpeg",
-        "products/Seating/Executive Chairs/Glanza hb grey/IMG_7139.jpeg",
-        "products/Seating/Executive Chairs/Glanza hb grey/IMG_7140.jpeg",
-        "products/Seating/Executive Chairs/Glanza hb grey/IMG_7141.jpeg"
+        "products/Seating/Executive task chairs/Glanza hb grey/glanza-grey.png",
+        "products/Seating/Executive task chairs/Glanza hb grey/IMG_7138.jpeg",
+        "products/Seating/Executive task chairs/Glanza hb grey/IMG_7139.jpeg",
+        "products/Seating/Executive task chairs/Glanza hb grey/IMG_7140.jpeg",
+        "products/Seating/Executive task chairs/Glanza hb grey/IMG_7141.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Glanza hb grey designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2225,38 +2255,38 @@
         {
           "name": "Gravel - 210 (Original)",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-grey.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb grey/glanza-grey.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-green.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb grey/glanza-green.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-brown.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb grey/glanza-brown.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-navy.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb grey/glanza-navy.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Glanza hb grey/glanza-crimson.png"
+          "image": "products/Seating/Executive task chairs/Glanza hb grey/glanza-crimson.png"
         }
       ]
     },
     "hermes": {
       "name": "Hermes",
       "images": [
-        "products/Seating/Executive Chairs/Hermes/hermes-beige.png",
-        "products/Seating/Executive Chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325 2.jpeg",
-        "products/Seating/Executive Chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325.jpeg",
-        "products/Seating/Executive Chairs/Hermes/FC6F7D06-79E5-4831-9EB3-EDA83593A480 2.jpeg",
-        "products/Seating/Executive Chairs/Hermes/FC6F7D06-79E5-4831-9EB3-EDA83593A480.jpeg"
+        "products/Seating/Presidential chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png",
+        "products/Seating/Presidential chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325.jpeg",
+        "products/Seating/Presidential chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325 2.jpeg",
+        "products/Seating/Presidential chairs/Hermes/FC6F7D06-79E5-4831-9EB3-EDA83593A480.jpeg",
+        "products/Seating/Presidential chairs/Hermes/FC6F7D06-79E5-4831-9EB3-EDA83593A480 2.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Hermes designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2272,45 +2302,41 @@
       },
       "finishes": [
         {
-          "name": "Beige (Original)",
-          "color": "#D4C4B1",
-          "image": "products/Seating/Executive Chairs/Hermes/hermes-beige.png"
-        },
-        {
-          "name": "Classic Brown",
+          "name": "Cognac Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Hermes/hermes-brown.png"
+          "image": "products/Seating/Presidential chairs/Hermes/0EC32725-FADE-4B22-806F-80E69372DA81.png",
+          "isOriginal": true
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Hermes/hermes-green.png"
+          "name": "Executive Black",
+          "color": "#111111",
+          "image": "products/Seating/Presidential chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325.jpeg"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Hermes/hermes-grey.png"
+          "name": "Slate Grey",
+          "color": "#8C9298",
+          "image": "products/Seating/Presidential chairs/Hermes/1C6670B7-CF3C-4A3A-B8A3-4494005E8325 2.jpeg"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight Navy",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Hermes/hermes-navy.png"
+          "image": "products/Seating/Presidential chairs/Hermes/FC6F7D06-79E5-4831-9EB3-EDA83593A480.jpeg"
         },
         {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Hermes/hermes-crimson.png"
+          "name": "Charcoal Black",
+          "color": "#333333",
+          "image": "products/Seating/Presidential chairs/Hermes/FC6F7D06-79E5-4831-9EB3-EDA83593A480 2.jpeg"
         }
       ]
     },
     "hugo": {
       "name": "Hugo",
       "images": [
-        "products/Seating/Executive Chairs/Hugo/hugo-black.png",
-        "products/Seating/Executive Chairs/Hugo/62215.jpeg",
-        "products/Seating/Executive Chairs/Hugo/62216.jpeg",
-        "products/Seating/Executive Chairs/Hugo/62217.jpeg",
-        "products/Seating/Executive Chairs/Hugo/62218.jpeg"
+        "products/Seating/Presidential chairs/Hugo/62214.jpeg",
+        "products/Seating/Presidential chairs/Hugo/62215.jpeg",
+        "products/Seating/Presidential chairs/Hugo/62216.jpeg",
+        "products/Seating/Presidential chairs/Hugo/62217.jpeg",
+        "products/Seating/Presidential chairs/Hugo/62218.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Hugo designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2326,44 +2352,40 @@
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
+          "name": "Executive Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Hugo/hugo-black.png"
+          "image": "products/Seating/Presidential chairs/Hugo/62214.jpeg",
+          "isOriginal": true
         },
         {
-          "name": "Classic Brown",
+          "name": "Saddle Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Hugo/hugo-brown.png"
+          "image": "products/Seating/Presidential chairs/Hugo/62215.jpeg"
         },
         {
-          "name": "Forest - 602",
+          "name": "Forest Green",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Hugo/hugo-green.png"
+          "image": "products/Seating/Presidential chairs/Hugo/62216.jpeg"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Hugo/hugo-grey.png"
+          "name": "Slate Grey",
+          "color": "#8C9298",
+          "image": "products/Seating/Presidential chairs/Hugo/62217.jpeg"
         },
         {
-          "name": "Midnight - 120",
+          "name": "Midnight Navy",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Hugo/hugo-navy.png"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Hugo/hugo-crimson.png"
+          "image": "products/Seating/Presidential chairs/Hugo/62218.jpeg"
         }
       ]
     },
     "indigo": {
       "name": "Indigo",
       "images": [
-        "products/Seating/Executive Chairs/Indigo/indigo-black.png",
-        "products/Seating/Executive Chairs/Indigo/Untitled design 2.jpg",
-        "products/Seating/Executive Chairs/Indigo/Untitled design 3.jpg",
-        "products/Seating/Executive Chairs/Indigo/Untitled design.jpg"
+        "products/Seating/Presidential chairs/Indigo/Untitled design 2.jpg",
+        "products/Seating/Presidential chairs/Indigo/Untitled design 3.jpg",
+        "products/Seating/Presidential chairs/Indigo/Untitled design.jpg",
+        "products/Seating/Presidential chairs/Indigo/IMG_2334.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Indigo designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2379,55 +2401,45 @@
       },
       "finishes": [
         {
-          "name": "Classic Black (Original)",
-          "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Indigo/indigo-black.png"
+          "name": "Warm Gold (Original)",
+          "color": "#B89758",
+          "image": "products/Seating/Presidential chairs/Indigo/Untitled design 2.jpg"
         },
         {
-          "name": "Classic Brown",
+          "name": "Saddle Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Indigo/indigo-brown.png"
+          "image": "products/Seating/Presidential chairs/Indigo/Untitled design 3.jpg"
         },
         {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Indigo/indigo-green.png"
+          "name": "Charcoal Black",
+          "color": "#222222",
+          "image": "products/Seating/Presidential chairs/Indigo/Untitled design.jpg"
         },
         {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Indigo/indigo-grey.png"
-        },
-        {
-          "name": "Midnight - 120",
+          "name": "Midnight Navy",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Indigo/indigo-navy.png"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Indigo/indigo-crimson.png"
+          "image": "products/Seating/Presidential chairs/Indigo/IMG_2334.jpeg"
         }
       ]
     },
     "jazz-hb": {
       "name": "Jazz hb",
       "images": [
-        "products/Seating/Executive Chairs/Jazz hb/jazz-black.png",
-        "products/Seating/Executive Chairs/Jazz hb/B3DD53A0-3CFB-48D3-9F9C-BF771AE46521_L0_001-7_11_2023, 7_48_03 PM.jpeg",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_0682.jpeg",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_1018.jpeg",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_1611.jpeg",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_1612.png",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_2934.jpeg",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_2935.png",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_2936.png",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_2937.png",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_2938.png",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_2943.png",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_9817.jpeg",
-        "products/Seating/Executive Chairs/Jazz hb/IMG_9819.jpeg",
-        "products/Seating/Executive Chairs/Jazz hb/www.sheetalofficefurniture.com - 5.png"
+        "products/Seating/Executive task chairs/Jazz hb/jazz-black.png",
+        "products/Seating/Executive task chairs/Jazz hb/B3DD53A0-3CFB-48D3-9F9C-BF771AE46521_L0_001-7_11_2023, 7_48_03 PM.jpeg",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_0682.jpeg",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_1018.jpeg",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_1611.jpeg",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_1612.png",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_2934.jpeg",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_2935.png",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_2936.png",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_2937.png",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_2938.png",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_2943.png",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_9817.jpeg",
+        "products/Seating/Executive task chairs/Jazz hb/IMG_9819.jpeg",
+        "products/Seating/Executive task chairs/Jazz hb/www.sheetalofficefurniture.com - 5.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Jazz hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2445,42 +2457,42 @@
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-black.png"
+          "image": "products/Seating/Executive task chairs/Jazz hb/jazz-black.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-brown.png"
+          "image": "products/Seating/Executive task chairs/Jazz hb/jazz-brown.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-green.png"
+          "image": "products/Seating/Executive task chairs/Jazz hb/jazz-green.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-grey.png"
+          "image": "products/Seating/Executive task chairs/Jazz hb/jazz-grey.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-navy.png"
+          "image": "products/Seating/Executive task chairs/Jazz hb/jazz-navy.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Jazz hb/jazz-crimson.png"
+          "image": "products/Seating/Executive task chairs/Jazz hb/jazz-crimson.png"
         }
       ]
     },
     "jupiter": {
       "name": "Jupiter",
       "images": [
-        "products/Seating/Executive Chairs/Jupiter/62269.jpeg",
-        "products/Seating/Executive Chairs/Jupiter/62270.jpeg",
-        "products/Seating/Executive Chairs/Jupiter/62271.jpeg",
-        "products/Seating/Executive Chairs/Jupiter/62272.jpeg"
+        "products/Seating/Presidential chairs/Jupiter/62269.jpeg",
+        "products/Seating/Presidential chairs/Jupiter/62270.jpeg",
+        "products/Seating/Presidential chairs/Jupiter/62271.jpeg",
+        "products/Seating/Presidential chairs/Jupiter/62272.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Jupiter designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2498,37 +2510,37 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Presidential chairs/Jupiter/62269.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Presidential chairs/Jupiter/62269.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Presidential chairs/Jupiter/62269.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Presidential chairs/Jupiter/62269.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Jupiter/62269.jpeg"
+          "image": "products/Seating/Presidential chairs/Jupiter/62269.jpeg"
         }
       ]
     },
     "majesty-hb": {
       "name": "Majesty hb",
       "images": [
-        "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg",
-        "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (2).jpeg",
-        "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (3).jpeg",
-        "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (4).jpeg"
+        "products/Seating/Executive task chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg",
+        "products/Seating/Executive task chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (2).jpeg",
+        "products/Seating/Executive task chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (3).jpeg",
+        "products/Seating/Executive task chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (4).jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Majesty hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2546,37 +2558,37 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Majesty hb/MAJESTY - HB - LIVE IMAGE -  (1).jpeg"
         }
       ]
     },
     "mars": {
       "name": "Mars",
       "images": [
-        "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg",
-        "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 3.jpeg",
-        "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437.jpeg",
-        "products/Seating/Executive Chairs/Mars/IMG_7542.jpeg"
+        "products/Seating/Presidential chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg",
+        "products/Seating/Presidential chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 3.jpeg",
+        "products/Seating/Presidential chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437.jpeg",
+        "products/Seating/Presidential chairs/Mars/IMG_7542.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Mars designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2594,44 +2606,44 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Presidential chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Presidential chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Presidential chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Presidential chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
+          "image": "products/Seating/Presidential chairs/Mars/6B9A17DA-9E29-492F-890E-4FAD7695E437 2.jpeg"
         }
       ]
     },
     "matrix-hb": {
       "name": "Matrix hb",
       "images": [
-        "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg",
-        "products/Seating/Executive Chairs/Matrix hb/IMG_2635.png",
-        "products/Seating/Executive Chairs/Matrix hb/IMG_3138.jpeg",
-        "products/Seating/Executive Chairs/Matrix hb/IMG_9725.jpeg",
-        "products/Seating/Executive Chairs/Matrix hb/IMG_9726.jpeg",
-        "products/Seating/Executive Chairs/Matrix hb/IMG_9727.jpeg",
-        "products/Seating/Executive Chairs/Matrix hb/IMG_9728.jpeg",
-        "products/Seating/Executive Chairs/Matrix hb/IMG_9732.jpeg",
-        "products/Seating/Executive Chairs/Matrix hb/IMG_9734.webp",
-        "products/Seating/Executive Chairs/Matrix hb/IMG_9740.jpeg",
-        "products/Seating/Executive Chairs/Matrix hb/Untitled design.jpg"
+        "products/Seating/Executive task chairs/Matrix hb/IMG_0742.jpeg",
+        "products/Seating/Executive task chairs/Matrix hb/IMG_2635.png",
+        "products/Seating/Executive task chairs/Matrix hb/IMG_3138.jpeg",
+        "products/Seating/Executive task chairs/Matrix hb/IMG_9725.jpeg",
+        "products/Seating/Executive task chairs/Matrix hb/IMG_9726.jpeg",
+        "products/Seating/Executive task chairs/Matrix hb/IMG_9727.jpeg",
+        "products/Seating/Executive task chairs/Matrix hb/IMG_9728.jpeg",
+        "products/Seating/Executive task chairs/Matrix hb/IMG_9732.jpeg",
+        "products/Seating/Executive task chairs/Matrix hb/IMG_9734.webp",
+        "products/Seating/Executive task chairs/Matrix hb/IMG_9740.jpeg",
+        "products/Seating/Executive task chairs/Matrix hb/Untitled design.jpg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Matrix hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2649,37 +2661,37 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive task chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive task chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive task chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive task chairs/Matrix hb/IMG_0742.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Matrix hb/IMG_0742.jpeg"
+          "image": "products/Seating/Executive task chairs/Matrix hb/IMG_0742.jpeg"
         }
       ]
     },
     "mustang-hb": {
       "name": "Mustang hb",
       "images": [
-        "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg",
-        "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (2).jpeg",
-        "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (3).jpeg",
-        "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (4).jpeg"
+        "products/Seating/Executive task chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg",
+        "products/Seating/Executive task chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (2).jpeg",
+        "products/Seating/Executive task chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (3).jpeg",
+        "products/Seating/Executive task chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (4).jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Mustang hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2697,40 +2709,40 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
+          "image": "products/Seating/Executive task chairs/Mustang hb/MUSTANG - HB - BLACK - LIVE IMAGE -  (1).jpeg"
         }
       ]
     },
     "mystic": {
       "name": "Mystic",
       "images": [
-        "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png",
-        "products/Seating/Executive Chairs/Mystic/IMG_2966.png",
-        "products/Seating/Executive Chairs/Mystic/IMG_7683.jpeg",
-        "products/Seating/Executive Chairs/Mystic/IMG_7684.jpeg",
-        "products/Seating/Executive Chairs/Mystic/IMG_7685.jpeg",
-        "products/Seating/Executive Chairs/Mystic/IMG_9740.jpeg",
-        "products/Seating/Executive Chairs/Mystic/Untitled design - 3.png"
+        "products/Seating/Presidential chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png",
+        "products/Seating/Presidential chairs/Mystic/IMG_2966.png",
+        "products/Seating/Presidential chairs/Mystic/IMG_7683.jpeg",
+        "products/Seating/Presidential chairs/Mystic/IMG_7684.jpeg",
+        "products/Seating/Presidential chairs/Mystic/IMG_7685.jpeg",
+        "products/Seating/Presidential chairs/Mystic/IMG_9740.jpeg",
+        "products/Seating/Presidential chairs/Mystic/Untitled design - 3.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Mystic designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2748,38 +2760,38 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Presidential chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Presidential chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Presidential chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Presidential chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
+          "image": "products/Seating/Presidential chairs/Mystic/BD3ADBA9-C4DB-4B63-A5DC-2495F040F79E.png"
         }
       ]
     },
     "nova": {
       "name": "Nova",
       "images": [
-        "products/Seating/Executive Chairs/Nova/62275_Original.jpeg",
-        "products/Seating/Executive Chairs/Nova/62276.jpeg",
-        "products/Seating/Executive Chairs/Nova/62277.jpeg",
-        "products/Seating/Executive Chairs/Nova/62278.jpeg",
-        "products/Seating/Executive Chairs/Nova/62279.jpeg"
+        "products/Seating/Presidential chairs/Nova/62275_Original.jpeg",
+        "products/Seating/Presidential chairs/Nova/62276.jpeg",
+        "products/Seating/Presidential chairs/Nova/62277.jpeg",
+        "products/Seating/Presidential chairs/Nova/62278.jpeg",
+        "products/Seating/Presidential chairs/Nova/62279.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Nova designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2797,49 +2809,49 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Presidential chairs/Nova/62275_Original.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Presidential chairs/Nova/62275_Original.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Presidential chairs/Nova/62275_Original.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Presidential chairs/Nova/62275_Original.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Nova/62275_Original.jpeg"
+          "image": "products/Seating/Presidential chairs/Nova/62275_Original.jpeg"
         }
       ]
     },
     "optimus-hb": {
       "name": "Optimus hb",
       "images": [
-        "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg",
-        "products/Seating/Executive Chairs/Optimus hb/Casual all models insta posts.png",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_0789.jpeg",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_0793.jpeg",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2037.jpeg",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2038.jpeg",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2039.jpeg",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2728.jpeg",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2736.jpeg",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2943.png",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2944.png",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2945.png",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2946.png",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2947.png",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2948.png",
-        "products/Seating/Executive Chairs/Optimus hb/IMG_2949.png"
+        "products/Seating/Executive task chairs/Optimus hb/IMG_0788.jpeg",
+        "products/Seating/Executive task chairs/Optimus hb/Casual all models insta posts.png",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_0789.jpeg",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_0793.jpeg",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2037.jpeg",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2038.jpeg",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2039.jpeg",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2728.jpeg",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2736.jpeg",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2943.png",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2944.png",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2945.png",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2946.png",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2947.png",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2948.png",
+        "products/Seating/Executive task chairs/Optimus hb/IMG_2949.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Optimus hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2857,38 +2869,38 @@
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+          "image": "products/Seating/Executive task chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+          "image": "products/Seating/Executive task chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+          "image": "products/Seating/Executive task chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+          "image": "products/Seating/Executive task chairs/Optimus hb/IMG_0788.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Optimus hb/IMG_0788.jpeg"
+          "image": "products/Seating/Executive task chairs/Optimus hb/IMG_0788.jpeg"
         }
       ]
     },
     "orbit": {
       "name": "Orbit",
       "images": [
-        "products/Seating/Executive Chairs/Orbit/62247.jpeg",
-        "products/Seating/Executive Chairs/Orbit/62248.jpeg",
-        "products/Seating/Executive Chairs/Orbit/62249.jpeg",
-        "products/Seating/Executive Chairs/Orbit/62250.jpeg",
-        "products/Seating/Executive Chairs/Orbit/62251.jpeg"
+        "products/Seating/Presidential chairs/Orbit/62247.jpeg",
+        "products/Seating/Presidential chairs/Orbit/62248.jpeg",
+        "products/Seating/Presidential chairs/Orbit/62249.jpeg",
+        "products/Seating/Presidential chairs/Orbit/62250.jpeg",
+        "products/Seating/Presidential chairs/Orbit/62251.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Orbit designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2906,38 +2918,38 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Presidential chairs/Orbit/62247.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Presidential chairs/Orbit/62247.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Presidential chairs/Orbit/62247.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Presidential chairs/Orbit/62247.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Orbit/62247.jpeg"
+          "image": "products/Seating/Presidential chairs/Orbit/62247.jpeg"
         }
       ]
     },
     "rio-hb": {
       "name": "Rio hb",
       "images": [
-        "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg",
-        "products/Seating/Executive Chairs/Rio hb/IMG_1016.jpeg",
-        "products/Seating/Executive Chairs/Rio hb/IMG_1017.jpeg",
-        "products/Seating/Executive Chairs/Rio hb/IMG_1018.jpeg",
-        "products/Seating/Executive Chairs/Rio hb/IMG_1019.jpeg"
+        "products/Seating/Executive task chairs/Rio hb/IMG_1015.jpeg",
+        "products/Seating/Executive task chairs/Rio hb/IMG_1016.jpeg",
+        "products/Seating/Executive task chairs/Rio hb/IMG_1017.jpeg",
+        "products/Seating/Executive task chairs/Rio hb/IMG_1018.jpeg",
+        "products/Seating/Executive task chairs/Rio hb/IMG_1019.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Rio hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -2955,37 +2967,37 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive task chairs/Rio hb/IMG_1015.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive task chairs/Rio hb/IMG_1015.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive task chairs/Rio hb/IMG_1015.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive task chairs/Rio hb/IMG_1015.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Rio hb/IMG_1015.jpeg"
+          "image": "products/Seating/Executive task chairs/Rio hb/IMG_1015.jpeg"
         }
       ]
     },
     "rodnet-hb": {
       "name": "Rodnet hb",
       "images": [
-        "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png",
-        "products/Seating/Executive Chairs/Rodnet hb/43BE7917-8F5B-4FA4-BC45-3B2AC7B3893B.png",
-        "products/Seating/Executive Chairs/Rodnet hb/5227322C-EF7D-4BEB-BF41-9873487EA850.png",
-        "products/Seating/Executive Chairs/Rodnet hb/DA1E28FF-4AB4-40A4-AF6D-102C89AC2685.png"
+        "products/Seating/Executive task chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png",
+        "products/Seating/Executive task chairs/Rodnet hb/43BE7917-8F5B-4FA4-BC45-3B2AC7B3893B.png",
+        "products/Seating/Executive task chairs/Rodnet hb/5227322C-EF7D-4BEB-BF41-9873487EA850.png",
+        "products/Seating/Executive task chairs/Rodnet hb/DA1E28FF-4AB4-40A4-AF6D-102C89AC2685.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Rodnet hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -3003,39 +3015,39 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive task chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive task chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive task chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive task chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
+          "image": "products/Seating/Executive task chairs/Rodnet hb/0F00F080-C728-445D-8075-42EB4F10B6CB.png"
         }
       ]
     },
     "scorpio-hb-black": {
       "name": "Scorpio hb black",
       "images": [
-        "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg",
-        "products/Seating/Executive Chairs/Scorpio hb black/IMG_3262.jpeg",
-        "products/Seating/Executive Chairs/Scorpio hb black/IMG_3263.jpeg",
-        "products/Seating/Executive Chairs/Scorpio hb black/IMG_3264.jpeg",
-        "products/Seating/Executive Chairs/Scorpio hb black/IMG_3265.jpeg",
-        "products/Seating/Executive Chairs/Scorpio hb black/IMG_3266.jpeg"
+        "products/Seating/Executive task chairs/Scorpio hb black/IMG_3261.jpeg",
+        "products/Seating/Executive task chairs/Scorpio hb black/IMG_3262.jpeg",
+        "products/Seating/Executive task chairs/Scorpio hb black/IMG_3263.jpeg",
+        "products/Seating/Executive task chairs/Scorpio hb black/IMG_3264.jpeg",
+        "products/Seating/Executive task chairs/Scorpio hb black/IMG_3265.jpeg",
+        "products/Seating/Executive task chairs/Scorpio hb black/IMG_3266.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Scorpio hb black designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -3053,38 +3065,38 @@
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb black/IMG_3261.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Scorpio hb black/IMG_3261.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb black/IMG_3261.jpeg"
         }
       ]
     },
     "scorpio-hb-grey": {
       "name": "Scorpio hb grey",
       "images": [
-        "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg",
-        "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3281.jpeg",
-        "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3283.jpeg",
-        "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3284.jpeg",
-        "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3285.jpeg"
+        "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3280.jpeg",
+        "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3281.jpeg",
+        "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3283.jpeg",
+        "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3284.jpeg",
+        "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3285.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Scorpio hb grey designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -3102,37 +3114,37 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3280.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Scorpio hb grey/IMG_3280.jpeg"
+          "image": "products/Seating/Executive task chairs/Scorpio hb grey/IMG_3280.jpeg"
         }
       ]
     },
     "spider-hb": {
       "name": "Spider hb",
       "images": [
-        "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg",
-        "products/Seating/Executive Chairs/Spider hb/IMG_0288.jpeg",
-        "products/Seating/Executive Chairs/Spider hb/IMG_0289.jpeg",
-        "products/Seating/Executive Chairs/Spider hb/IMG_0290.jpeg"
+        "products/Seating/Executive task chairs/Spider hb/IMG_0287.jpeg",
+        "products/Seating/Executive task chairs/Spider hb/IMG_0288.jpeg",
+        "products/Seating/Executive task chairs/Spider hb/IMG_0289.jpeg",
+        "products/Seating/Executive task chairs/Spider hb/IMG_0290.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Spider hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -3150,48 +3162,48 @@
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+          "image": "products/Seating/Executive task chairs/Spider hb/IMG_0287.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+          "image": "products/Seating/Executive task chairs/Spider hb/IMG_0287.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+          "image": "products/Seating/Executive task chairs/Spider hb/IMG_0287.jpeg"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+          "image": "products/Seating/Executive task chairs/Spider hb/IMG_0287.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spider hb/IMG_0287.jpeg"
+          "image": "products/Seating/Executive task chairs/Spider hb/IMG_0287.jpeg"
         }
       ]
     },
     "spinal-hb": {
       "name": "Spinal hb",
       "images": [
-        "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_0683.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_1296.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_1297.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_1298.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_1612.png",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_2943.png",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_2950.png",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_7757.webp",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_7759.webp",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_7760.webp",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_7761.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_7762.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_7763.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb/IMG_7764.jpeg"
+        "products/Seating/Executive task chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_0683.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_1296.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_1297.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_1298.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_1612.png",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_2943.png",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_2950.png",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_7757.webp",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_7759.webp",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_7760.webp",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_7761.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_7762.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_7763.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb/IMG_7764.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Spinal hb designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -3209,42 +3221,42 @@
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb/F8686C90-F181-4408-A59D-09107B4AB90D.png"
         }
       ]
     },
     "spinal-hb-grey": {
       "name": "Spinal hb grey",
       "images": [
-        "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png",
-        "products/Seating/Executive Chairs/Spinal hb grey/IMG_1073.png",
-        "products/Seating/Executive Chairs/Spinal hb grey/IMG_1074.png",
-        "products/Seating/Executive Chairs/Spinal hb grey/IMG_2951.png",
-        "products/Seating/Executive Chairs/Spinal hb grey/IMG_2959.png",
-        "products/Seating/Executive Chairs/Spinal hb grey/IMG_2960.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb grey/IMG_2961.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb grey/IMG_2962.jpeg",
-        "products/Seating/Executive Chairs/Spinal hb grey/IMG_2964.jpeg"
+        "products/Seating/Executive task chairs/Spinal hb grey/IMG_1072.png",
+        "products/Seating/Executive task chairs/Spinal hb grey/IMG_1073.png",
+        "products/Seating/Executive task chairs/Spinal hb grey/IMG_1074.png",
+        "products/Seating/Executive task chairs/Spinal hb grey/IMG_2951.png",
+        "products/Seating/Executive task chairs/Spinal hb grey/IMG_2959.png",
+        "products/Seating/Executive task chairs/Spinal hb grey/IMG_2960.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb grey/IMG_2961.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb grey/IMG_2962.jpeg",
+        "products/Seating/Executive task chairs/Spinal hb grey/IMG_2964.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Spinal hb grey designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -3262,39 +3274,39 @@
         {
           "name": "Classic Black (Original)",
           "color": "#111111",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb grey/IMG_1072.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb grey/IMG_1072.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb grey/IMG_1072.png"
         },
         {
           "name": "Classic Brown",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb grey/IMG_1072.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Spinal hb grey/IMG_1072.png"
+          "image": "products/Seating/Executive task chairs/Spinal hb grey/IMG_1072.png"
         }
       ]
     },
     "tucson": {
       "name": "Tucson",
       "images": [
-        "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png",
-        "products/Seating/Executive Chairs/Tucson/IMG_9874.jpeg",
-        "products/Seating/Executive Chairs/Tucson/IMG_9875.jpeg",
-        "products/Seating/Executive Chairs/Tucson/IMG_9876.jpeg",
-        "products/Seating/Executive Chairs/Tucson/IMG_9877.jpeg",
-        "products/Seating/Executive Chairs/Tucson/Untitled design - 1.png"
+        "products/Seating/Presidential chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png",
+        "products/Seating/Presidential chairs/Tucson/IMG_9874.jpeg",
+        "products/Seating/Presidential chairs/Tucson/IMG_9875.jpeg",
+        "products/Seating/Presidential chairs/Tucson/IMG_9876.jpeg",
+        "products/Seating/Presidential chairs/Tucson/IMG_9877.jpeg",
+        "products/Seating/Presidential chairs/Tucson/Untitled design - 1.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Tucson designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -3312,41 +3324,41 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Presidential chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Presidential chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Presidential chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Presidential chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
+          "image": "products/Seating/Presidential chairs/Tucson/032136BD-5E95-4707-B0E3-D12869123B22.png"
         }
       ]
     },
     "wave": {
       "name": "Wave",
       "images": [
-        "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png",
-        "products/Seating/Executive Chairs/Wave/IMG_2942.png",
-        "products/Seating/Executive Chairs/Wave/IMG_2964.png",
-        "products/Seating/Executive Chairs/Wave/IMG_2965.png",
-        "products/Seating/Executive Chairs/Wave/IMG_7679.jpeg",
-        "products/Seating/Executive Chairs/Wave/IMG_7680.jpeg",
-        "products/Seating/Executive Chairs/Wave/IMG_7681.jpeg",
-        "products/Seating/Executive Chairs/Wave/Untitled design.png"
+        "products/Seating/Presidential chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png",
+        "products/Seating/Presidential chairs/Wave/IMG_2942.png",
+        "products/Seating/Presidential chairs/Wave/IMG_2964.png",
+        "products/Seating/Presidential chairs/Wave/IMG_2965.png",
+        "products/Seating/Presidential chairs/Wave/IMG_7679.jpeg",
+        "products/Seating/Presidential chairs/Wave/IMG_7680.jpeg",
+        "products/Seating/Presidential chairs/Wave/IMG_7681.jpeg",
+        "products/Seating/Presidential chairs/Wave/Untitled design.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Wave designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -3364,27 +3376,27 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+          "image": "products/Seating/Presidential chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+          "image": "products/Seating/Presidential chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+          "image": "products/Seating/Presidential chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+          "image": "products/Seating/Presidential chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Executive Chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
+          "image": "products/Seating/Presidential chairs/Wave/32F48954-1664-4C38-9999-F73FC52ADA19.png"
         }
       ]
     }
@@ -5109,7 +5121,7 @@
     "lounge-1": {
       "name": "Lounge 1",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
+        "products/Seating/Public seating/Public seating 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 1 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5127,34 +5139,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
+          "image": "products/Seating/Public seating/Public seating 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
+          "image": "products/Seating/Public seating/Public seating 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
+          "image": "products/Seating/Public seating/Public seating 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
+          "image": "products/Seating/Public seating/Public seating 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
+          "image": "products/Seating/Public seating/Public seating 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png"
         }
       ]
     },
     "lounge-2": {
       "name": "Lounge 2",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
+        "products/Seating/High chairs/High chair 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 2 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5172,34 +5184,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
+          "image": "products/Seating/High chairs/High chair 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
+          "image": "products/Seating/High chairs/High chair 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
+          "image": "products/Seating/High chairs/High chair 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
+          "image": "products/Seating/High chairs/High chair 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
+          "image": "products/Seating/High chairs/High chair 2/30032D71-7A1B-4160-9CC6-9C4D57B38C83.png"
         }
       ]
     },
     "lounge-3": {
       "name": "Lounge 3",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 3/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
+        "products/Seating/High chairs/High chair 1/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 3 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5217,34 +5229,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 3/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
+          "image": "products/Seating/High chairs/High chair 1/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 3/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
+          "image": "products/Seating/High chairs/High chair 1/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 3/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
+          "image": "products/Seating/High chairs/High chair 1/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 3/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
+          "image": "products/Seating/High chairs/High chair 1/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 3/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
+          "image": "products/Seating/High chairs/High chair 1/5F0EF75C-C17F-4409-8D5F-EFE35386BD06.png"
         }
       ]
     },
     "lounge-4": {
       "name": "Lounge 4",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 4/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
+        "products/Seating/Public seating/Public seating 2/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 4 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5262,34 +5274,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
+          "image": "products/Seating/Public seating/Public seating 2/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
+          "image": "products/Seating/Public seating/Public seating 2/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
+          "image": "products/Seating/Public seating/Public seating 2/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
+          "image": "products/Seating/Public seating/Public seating 2/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 4/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
+          "image": "products/Seating/Public seating/Public seating 2/A1F5EB74-255B-4A4D-B7EF-0041FF2BFE9C.png"
         }
       ]
     },
     "lounge-5": {
       "name": "Lounge 5",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp",
+        "products/Seating/Cafe chairs/Cafe chair 1/IMG_0404.webp",
         "products/Seating/Lounge Chairs/Lounge 5/IMG_0405.jpeg",
         "products/Seating/Lounge Chairs/Lounge 5/IMG_0406.jpeg",
         "products/Seating/Lounge Chairs/Lounge 5/IMG_0407.webp",
@@ -5311,34 +5323,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 1/IMG_0404.webp"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 1/IMG_0404.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 1/IMG_0404.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 1/IMG_0404.webp"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 5/IMG_0404.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 1/IMG_0404.webp"
         }
       ]
     },
     "lounge-6": {
       "name": "Lounge 6",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 6/IMG_0709.webp"
+        "products/Seating/Public seating/Public seating 3/IMG_0709.webp"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 6 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5356,36 +5368,36 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/IMG_0709.webp"
+          "image": "products/Seating/Public seating/Public seating 3/IMG_0709.webp"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/IMG_0709.webp"
+          "image": "products/Seating/Public seating/Public seating 3/IMG_0709.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/IMG_0709.webp"
+          "image": "products/Seating/Public seating/Public seating 3/IMG_0709.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/IMG_0709.webp"
+          "image": "products/Seating/Public seating/Public seating 3/IMG_0709.webp"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 6/IMG_0709.webp"
+          "image": "products/Seating/Public seating/Public seating 3/IMG_0709.webp"
         }
       ]
     },
     "lounge-7": {
       "name": "Lounge 7",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg",
-        "products/Seating/Lounge Chairs/Lounge 7/IMG_2416.jpeg",
-        "products/Seating/Lounge Chairs/Lounge 7/IMG_2417.jpeg"
+        "products/Seating/Public seating/Public seating 4/IMG_2415.jpeg",
+        "products/Seating/Public seating/Public seating 4/IMG_2416.jpeg",
+        "products/Seating/Public seating/Public seating 4/IMG_2417.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 7 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5403,34 +5415,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg"
+          "image": "products/Seating/Public seating/Public seating 4/IMG_2415.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg"
+          "image": "products/Seating/Public seating/Public seating 4/IMG_2415.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg"
+          "image": "products/Seating/Public seating/Public seating 4/IMG_2415.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg"
+          "image": "products/Seating/Public seating/Public seating 4/IMG_2415.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 7/IMG_2415.jpeg"
+          "image": "products/Seating/Public seating/Public seating 4/IMG_2415.jpeg"
         }
       ]
     },
     "lounge-8": {
       "name": "Lounge 8",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 8/IMG_3312.jpeg"
+        "products/Seating/Public seating/Public seating 5/IMG_3312.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 8 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5448,34 +5460,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/IMG_3312.jpeg"
+          "image": "products/Seating/Public seating/Public seating 5/IMG_3312.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/IMG_3312.jpeg"
+          "image": "products/Seating/Public seating/Public seating 5/IMG_3312.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/IMG_3312.jpeg"
+          "image": "products/Seating/Public seating/Public seating 5/IMG_3312.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/IMG_3312.jpeg"
+          "image": "products/Seating/Public seating/Public seating 5/IMG_3312.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 8/IMG_3312.jpeg"
+          "image": "products/Seating/Public seating/Public seating 5/IMG_3312.jpeg"
         }
       ]
     },
     "lounge-9": {
       "name": "Lounge 9",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp",
+        "products/Seating/Cafe chairs/Cafe chair 2/IMG_3625.webp",
         "products/Seating/Lounge Chairs/Lounge 9/IMG_3626.webp",
         "products/Seating/Lounge Chairs/Lounge 9/IMG_3627.webp",
         "products/Seating/Lounge Chairs/Lounge 9/IMG_3628.webp",
@@ -5499,37 +5511,37 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 2/IMG_3625.webp"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 2/IMG_3625.webp"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 2/IMG_3625.webp"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 2/IMG_3625.webp"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 9/IMG_3625.webp"
+          "image": "products/Seating/Cafe chairs/Cafe chair 2/IMG_3625.webp"
         }
       ]
     },
     "lounge-10": {
       "name": "Lounge 10",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg",
-        "products/Seating/Lounge Chairs/Lounge 10/IMG_3635.jpeg",
-        "products/Seating/Lounge Chairs/Lounge 10/IMG_3636.webp",
-        "products/Seating/Lounge Chairs/Lounge 10/IMG_3637.jpeg"
+        "products/Seating/Cafe chairs/Cafe chair 3/IMG_3634.jpeg",
+        "products/Seating/Cafe chairs/Cafe chair 3/IMG_3635.jpeg",
+        "products/Seating/Cafe chairs/Cafe chair 3/IMG_3636.webp",
+        "products/Seating/Cafe chairs/Cafe chair 3/IMG_3637.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 10 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5547,34 +5559,34 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
+          "image": "products/Seating/Cafe chairs/Cafe chair 3/IMG_3634.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
+          "image": "products/Seating/Cafe chairs/Cafe chair 3/IMG_3634.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
+          "image": "products/Seating/Cafe chairs/Cafe chair 3/IMG_3634.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
+          "image": "products/Seating/Cafe chairs/Cafe chair 3/IMG_3634.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 10/IMG_3634.jpeg"
+          "image": "products/Seating/Cafe chairs/Cafe chair 3/IMG_3634.jpeg"
         }
       ]
     },
     "lounge-11": {
       "name": "Lounge 11",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
+        "products/Seating/Public seating/Public seating 6/IMG_3650.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 11 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5592,27 +5604,27 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
+          "image": "products/Seating/Public seating/Public seating 6/IMG_3650.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
+          "image": "products/Seating/Public seating/Public seating 6/IMG_3650.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
+          "image": "products/Seating/Public seating/Public seating 6/IMG_3650.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
+          "image": "products/Seating/Public seating/Public seating 6/IMG_3650.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 11/IMG_3650.jpeg"
+          "image": "products/Seating/Public seating/Public seating 6/IMG_3650.jpeg"
         }
       ]
     },
@@ -5620,8 +5632,8 @@
       "name": "Lounge 12",
       "images": [
         "products/Seating/Lounge Chairs/Lounge 12/IMG_3900.jpeg",
-        "products/Seating/Lounge Chairs/Lounge 12/IMG_3901.jpeg",
-        "products/Seating/Lounge Chairs/Lounge 12/IMG_3902.jpeg"
+        "products/Seating/High chairs/High chair 3/IMG_3901.jpeg",
+        "products/Seating/High chairs/High chair 3/IMG_3902.jpeg"
       ],
       "dimensions": "Standard Dimensions",
       "description": "A sleek, premium Lounge 12 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
@@ -5663,59 +5675,13 @@
         }
       ]
     },
-    "lounge-13": {
-      "name": "Lounge 13",
-      "images": [
-        "products/Seating/Lounge Chairs/Lounge 13/IMG_3904.webp",
-        "products/Seating/Lounge Chairs/Lounge 13/IMG_3905.webp"
-      ],
-      "dimensions": "Standard Dimensions",
-      "description": "A sleek, premium Lounge 13 designed to bring exceptional ergonomics, style, and utility to modern settings. Built with high-quality materials and architectural precision.",
-      "specifications": {
-        "Frame/Structure": "High-tensile strength construction with premium architectural coating",
-        "Upholstery/Finish": "Premium contract-grade finishes built for durability",
-        "Ergonomics": "Contoured profiles, premium dynamic support adjustments",
-        "Warranty & Support": "Sheetal Furnitures Guarantee and cooperation options"
-      },
-      "materials": {
-        "Base": "Premium quality components / structural support bases",
-        "Cladding & Finishes": "Highly durable textures, BIFMA certified hardware"
-      },
-      "finishes": [
-        {
-          "name": "Classic Brown (Original)",
-          "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3904.webp"
-        },
-        {
-          "name": "Forest - 602",
-          "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3904.webp"
-        },
-        {
-          "name": "Gravel - 210",
-          "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3904.webp"
-        },
-        {
-          "name": "Midnight - 120",
-          "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3904.webp"
-        },
-        {
-          "name": "Crimson - 808",
-          "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 13/IMG_3904.webp"
-        }
-      ]
-    },
     "lounge-14": {
       "name": "Lounge 14",
       "images": [
-        "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg",
-        "products/Seating/Lounge Chairs/Lounge 14/IMG_3913.jpeg",
-        "products/Seating/Lounge Chairs/Lounge 14/IMG_3914.webp",
-        "products/Seating/Lounge Chairs/Lounge 14/IMG_3915.jpeg",
+        "products/Seating/High chairs/High chair 4/IMG_3912.jpeg",
+        "products/Seating/High chairs/High chair 4/IMG_3913.jpeg",
+        "products/Seating/High chairs/High chair 4/IMG_3914.webp",
+        "products/Seating/High chairs/High chair 4/IMG_3915.jpeg",
         "products/Seating/Lounge Chairs/Lounge 14/IMG_3916.webp"
       ],
       "dimensions": "Standard Dimensions",
@@ -5734,27 +5700,27 @@
         {
           "name": "Classic Brown (Original)",
           "color": "#6B4226",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
+          "image": "products/Seating/High chairs/High chair 4/IMG_3912.jpeg"
         },
         {
           "name": "Forest - 602",
           "color": "#507D67",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
+          "image": "products/Seating/High chairs/High chair 4/IMG_3912.jpeg"
         },
         {
           "name": "Gravel - 210",
           "color": "#A3A3A3",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
+          "image": "products/Seating/High chairs/High chair 4/IMG_3912.jpeg"
         },
         {
           "name": "Midnight - 120",
           "color": "#2D3E50",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
+          "image": "products/Seating/High chairs/High chair 4/IMG_3912.jpeg"
         },
         {
           "name": "Crimson - 808",
           "color": "#8A2B35",
-          "image": "products/Seating/Lounge Chairs/Lounge 14/IMG_3912.jpeg"
+          "image": "products/Seating/High chairs/High chair 4/IMG_3912.jpeg"
         }
       ]
     }
@@ -8907,3 +8873,7 @@
     }
   }
 };
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = productData;
+}

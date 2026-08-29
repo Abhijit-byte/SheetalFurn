@@ -30,20 +30,20 @@ color_definitions = {
 # conference chairs: under 'conference-chairs'
 
 products_config = {
-    # Lounge Chairs
-    "lounge-1": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 1", "lounge-1", ["orange", "brown", "green", "grey", "navy", "maroon"]),
-    "lounge-2": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 2", "lounge-2", ["green", "black", "white", "blue", "red", "yellow"]),
-    "lounge-3": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 3", "lounge-3", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "lounge-4": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 4", "lounge-4", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "lounge-5": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 5", "lounge-5", ["maroon", "brown", "green", "grey", "navy", "black"]),
-    "lounge-6": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 6", "lounge-6", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "lounge-7": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 7", "lounge-7", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "lounge-8": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 8", "lounge-8", ["blue", "green", "grey", "navy", "maroon", "brown"]),
-    "lounge-9": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 9", "lounge-9", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "lounge-10": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 10", "lounge-10", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "lounge-11": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 11", "lounge-11", ["blue", "brown", "green", "grey", "navy", "maroon"]),
-    "lounge-12": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 12", "lounge-12", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "lounge-14": ("lounge-chairs", "products/Seating/Lounge Chairs/Lounge 14", "lounge-14", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    # Lounge Chairs (split across Public seating, High chairs, Cafe chairs)
+    "lounge-1": ("lounge-chairs", "products/Seating/Public seating/Public seating 1", "lounge-1", ["orange", "brown", "green", "grey", "navy", "maroon"]),
+    "lounge-2": ("lounge-chairs", "products/Seating/High chairs/High chair 2", "lounge-2", ["green", "black", "white", "blue", "red", "yellow"]),
+    "lounge-3": ("lounge-chairs", "products/Seating/High chairs/High chair 1", "lounge-3", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "lounge-4": ("lounge-chairs", "products/Seating/Public seating/Public seating 2", "lounge-4", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "lounge-5": ("lounge-chairs", "products/Seating/Cafe chairs/Cafe chair 1", "lounge-5", ["maroon", "brown", "green", "grey", "navy", "black"]),
+    "lounge-6": ("lounge-chairs", "products/Seating/Public seating/Public seating 3", "lounge-6", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "lounge-7": ("lounge-chairs", "products/Seating/Public seating/Public seating 4", "lounge-7", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "lounge-8": ("lounge-chairs", "products/Seating/Public seating/Public seating 5", "lounge-8", ["blue", "green", "grey", "navy", "maroon", "brown"]),
+    "lounge-9": ("lounge-chairs", "products/Seating/Cafe chairs/Cafe chair 2", "lounge-9", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "lounge-10": ("lounge-chairs", "products/Seating/Cafe chairs/Cafe chair 3", "lounge-10", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "lounge-11": ("lounge-chairs", "products/Seating/Public seating/Public seating 6", "lounge-11", ["blue", "brown", "green", "grey", "navy", "maroon"]),
+    "lounge-12": ("lounge-chairs", "products/Seating/High chairs/High chair 3", "lounge-12", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "lounge-14": ("lounge-chairs", "products/Seating/High chairs/High chair 4", "lounge-14", ["black", "brown", "green", "grey", "navy", "maroon"]),
 
     # Sofas
     "sofa-1": ("sofas", "products/Seating/Sofas/Sofa 1", "sofa-1", ["grey", "brown", "green", "lightgrey", "navy", "maroon"]),
@@ -52,18 +52,18 @@ products_config = {
     "sofa-4": ("sofas", "products/Seating/Sofas/Sofa 4", "sofa-4", ["grey", "brown", "green", "lightgrey", "navy", "burgundy"]),
     "sofa-5": ("sofas", "products/Seating/Sofas/Sofa 5", "sofa-5", ["brownishgrey", "brown", "green", "lightgrey", "navy", "burgundy"]),
 
-    # Conference Chairs
-    "conference-1": ("conference-chairs", "products/Seating/Conference Chairs/Conference 1", "conference-1", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-2": ("conference-chairs", "products/Seating/Conference Chairs/Conference 2", "conference-2", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-3": ("conference-chairs", "products/Seating/Conference Chairs/Conference 3", "conference-3", ["cream", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-4": ("conference-chairs", "products/Seating/Conference Chairs/Conference 4", "conference-4", ["beige", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-5": ("conference-chairs", "products/Seating/Conference Chairs/Conference 5", "conference-5", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-6": ("conference-chairs", "products/Seating/Conference Chairs/Conference 6", "conference-6", ["cream", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-7": ("conference-chairs", "products/Seating/Conference Chairs/Conference 7", "conference-7", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-8": ("conference-chairs", "products/Seating/Conference Chairs/Conference 8", "conference-8", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-9": ("conference-chairs", "products/Seating/Conference Chairs/Conference 9", "conference-9", ["black", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-10": ("conference-chairs", "products/Seating/Conference Chairs/Conference 10", "conference-10", ["beige", "brown", "green", "grey", "navy", "maroon"]),
-    "conference-11": ("conference-chairs", "products/Seating/Conference Chairs/Conference 11", "conference-11", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    # Conference / Visitors Chairs
+    "conference-1": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 1", "conference-1", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-2": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 2", "conference-2", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-3": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 3", "conference-3", ["cream", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-4": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 4", "conference-4", ["beige", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-5": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 5", "conference-5", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-6": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 6", "conference-6", ["cream", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-7": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 7", "conference-7", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-8": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 8", "conference-8", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-9": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 9", "conference-9", ["black", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-10": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 10", "conference-10", ["beige", "brown", "green", "grey", "navy", "maroon"]),
+    "conference-11": ("conference-chairs", "products/Seating/Visitors Chairs/Conference 11", "conference-11", ["black", "brown", "green", "grey", "navy", "maroon"]),
 }
 
 def update_product_data():
@@ -76,17 +76,38 @@ def update_product_data():
     with open(source, 'r', encoding='utf-8') as f:
         content = f.read()
         
-    # Extract JSON object
-    match = re.search(r'const\s+productData\s*=\s*(\{[\s\S]*\});?\s*$', content)
-    if not match:
-        # try without end anchor
-        match = re.search(r'const\s+productData\s*=\s*(\{[\s\S]*\});', content)
-        
-    if not match:
+    # Extract JSON object reliably
+    start_idx = content.find('{')
+    brace_count = 0
+    in_string = False
+    escape = False
+    end_idx = -1
+
+    for i in range(start_idx, len(content)):
+        char = content[i]
+        if escape:
+            escape = False
+            continue
+        if char == '\\':
+            escape = True
+            continue
+        if char == '"':
+            in_string = not in_string
+            continue
+        if not in_string:
+            if char == '{':
+                brace_count += 1
+            elif char == '}':
+                brace_count -= 1
+                if brace_count == 0:
+                    end_idx = i
+                    break
+
+    if start_idx == -1 or end_idx == -1:
         print("Could not find productData object!")
         return
 
-    json_str = match.group(1)
+    json_str = content[start_idx:end_idx+1]
     
     try:
         data = json.loads(json_str)

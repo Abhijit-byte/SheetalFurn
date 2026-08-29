@@ -68,7 +68,7 @@
             </div>
 
             <div class="mega-preview">
-              <img id="megaPreviewImage" src="products/Seating/Lounge chairs/Lounge 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png" alt="Preview">
+              <img id="megaPreviewImage" src="products/Seating/Public seating/Public seating 1/1BDE8421-06F0-496C-8E5F-DE8E1B0A5DEF.png" alt="Preview">
             </div>
 
           </div>
@@ -167,6 +167,14 @@
           <div class="detail-actions-row">
             <button class="btn-pill-primary" id="btn-add-quote" onclick="alert('Added to Quote!')">Add to quote</button>
             <button class="btn-pill-secondary" id="btn-configure" onclick="scrollToConfigurator()">Configure</button>
+            <button class="btn-pill-3d" id="btn-hero-3d" onclick="open3DView()" style="display: none;">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+                <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+                <line x1="12" y1="22.08" x2="12" y2="12"></line>
+              </svg>
+              <span>3D Model</span>
+            </button>
           </div>
 
           <!-- Accordion list -->
@@ -303,7 +311,7 @@
             </button>
             <div id="canvas-3d" style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; cursor: grab; z-index: 3; display: none;"></div>
             <div id="configurator-color-overlay" style="position: absolute; inset: 0; pointer-events: none; mix-blend-mode: color; opacity: 0; transition: opacity 0.3s ease, background-color 0.3s ease; z-index: 2;"></div>
-            <img id="configurator-preview-img" src="products/Seating/Executive Chairs/Comfy hb/comfy-black.png" alt="Configured product image" style="display: block; max-width: 90%; max-height: 90%; object-fit: contain; z-index: 1; transition: opacity 0.2s ease;">
+            <img id="configurator-preview-img" src="products/Seating/Executive task chairs/Comfy hb/comfy-black.png" alt="Configured product image" style="display: block; max-width: 90%; max-height: 90%; object-fit: contain; z-index: 1; transition: opacity 0.2s ease;">
           </div>
 
           <!-- Color Swatch Panel -->
@@ -317,7 +325,7 @@
 
             <div class="detail-actions-row" style="margin-bottom: 0;">
               <button class="btn-pill-primary" onclick="alert('Configured setup added to quote!')">Add to quote</button>
-              <button class="btn-pill-secondary" onclick="alert('Opening AR view... Scan QR code on your mobile device.')">View in AR</button>
+              <button class="btn-pill-secondary" id="btn-view-ar" onclick="triggerARView()">View in AR</button>
             </div>
           </div>
 
@@ -416,8 +424,12 @@
     </div>
   </footer>
 
-  <!-- Product database loader -->
+  <!-- 3D & Product Database Dependencies -->
   <script src="product-data.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js"></script>
+  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
   <script>
     let currentSlide = 0;
     let totalSlides = 0;
@@ -429,6 +441,9 @@
     let productMeshGroup = null;
     let mainMaterial = null;
     let secondMaterial = null;
+    let gltfLoader = null;
+    let gltfCache = {};
+    let isGLBMode = false;
 
     function init3DConfigurator(categorySlug, productSlug, defaultColorHex) {
       const container = document.getElementById('canvas-3d');
@@ -439,48 +454,64 @@
       const width = container.clientWidth || 450;
       const height = container.clientHeight || 400;
 
-      renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+      renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true, powerPreference: 'high-performance' });
       renderer.setSize(width, height);
       renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
       renderer.shadowMap.enabled = true;
       renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+      renderer.toneMapping = THREE.ACESFilmicToneMapping;
+      renderer.toneMappingExposure = 1.1;
       container.appendChild(renderer.domElement);
 
       scene = new THREE.Scene();
       camera = new THREE.PerspectiveCamera(40, width / height, 0.1, 100);
-      camera.position.set(0, 1.8, 4.5);
+      camera.position.set(2.2, 1.8, 3.6);
 
       controls = new THREE.OrbitControls(camera, renderer.domElement);
       controls.enableDamping = true;
       controls.dampingFactor = 0.05;
-      controls.minDistance = 2.5;
-      controls.maxDistance = 8;
-      controls.maxPolarAngle = Math.PI / 2 + 0.1;
-      controls.target.set(0, 0.4, 0);
+      controls.minDistance = 1.2;
+      controls.maxDistance = 10;
+      controls.maxPolarAngle = Math.PI / 2 + 0.05;
+      controls.target.set(0, 0.3, 0);
 
-      const ambientLight = new THREE.AmbientLight(0xffffff, 0.85);
+      // Studio Multi-Point Lighting
+      const ambientLight = new THREE.AmbientLight(0xffffff, 0.95);
       scene.add(ambientLight);
 
-      const spotLight = new THREE.SpotLight(0xffffff, 1.0);
-      spotLight.position.set(5, 8, 5);
-      spotLight.castShadow = true;
-      spotLight.shadow.mapSize.width = 512;
-      spotLight.shadow.mapSize.height = 512;
-      spotLight.shadow.bias = -0.001;
-      scene.add(spotLight);
+      const mainSpot = new THREE.SpotLight(0xffffff, 1.3);
+      mainSpot.position.set(6, 9, 6);
+      mainSpot.castShadow = true;
+      mainSpot.shadow.mapSize.width = 1024;
+      mainSpot.shadow.mapSize.height = 1024;
+      mainSpot.shadow.bias = -0.0005;
+      scene.add(mainSpot);
 
-      const dirLight = new THREE.DirectionalLight(0xffffff, 0.35);
-      dirLight.position.set(-5, 5, -5);
-      scene.add(dirLight);
+      const fillLight = new THREE.DirectionalLight(0xe8f0fe, 0.6);
+      fillLight.position.set(-6, 5, -4);
+      scene.add(fillLight);
+
+      const rimLight = new THREE.DirectionalLight(0xffffff, 0.4);
+      rimLight.position.set(0, -4, -6);
+      scene.add(rimLight);
+
+      // Ground Shadow Plane
+      const shadowPlaneGeo = new THREE.PlaneGeometry(12, 12);
+      const shadowPlaneMat = new THREE.ShadowMaterial({ opacity: 0.18 });
+      const shadowPlane = new THREE.Mesh(shadowPlaneGeo, shadowPlaneMat);
+      shadowPlane.rotation.x = -Math.PI / 2;
+      shadowPlane.position.y = -0.42;
+      shadowPlane.receiveShadow = true;
+      scene.add(shadowPlane);
 
       mainMaterial = new THREE.MeshStandardMaterial({
         color: new THREE.Color(defaultColorHex),
-        roughness: 0.65,
-        metalness: 0.15,
+        roughness: 0.55,
+        metalness: 0.2,
       });
 
       secondMaterial = new THREE.MeshStandardMaterial({
-        color: new THREE.Color('#333333'),
+        color: new THREE.Color('#222222'),
         roughness: 0.25,
         metalness: 0.85,
       });
@@ -488,15 +519,34 @@
       productMeshGroup = new THREE.Group();
       scene.add(productMeshGroup);
 
-      // Build 3D mesh based on category name
-      if (categorySlug.includes('sofa')) {
-        build3DSofa(productMeshGroup);
-      } else if (categorySlug.includes('chair') || categorySlug.includes('seating')) {
-        build3DChair(productMeshGroup);
-      } else if (categorySlug.includes('table') || categorySlug.includes('workstation')) {
-        build3DTable(productMeshGroup);
+      // Add Interaction Hint Badge
+      let hintBadge = container.parentElement.querySelector('.model-3d-hint');
+      if (!hintBadge) {
+        hintBadge = document.createElement('div');
+        hintBadge.className = 'model-3d-hint';
+        hintBadge.innerHTML = '⤹ Drag to rotate • Scroll to zoom • Right-click to pan';
+        container.parentElement.appendChild(hintBadge);
+      }
+
+      // Check if product has real .glb 3D model
+      const activeFin = (currentProduct && currentProduct.finishes) ? currentProduct.finishes.find(f => f.color === defaultColorHex) : null;
+      const initialGLB = (activeFin && activeFin.model3d) ? activeFin.model3d : (currentProduct && currentProduct.model3d ? currentProduct.model3d : null);
+
+      if (initialGLB) {
+        isGLBMode = true;
+        loadGLTFModel(initialGLB);
       } else {
-        build3DCabinet(productMeshGroup);
+        isGLBMode = false;
+        // Build procedural 3D mesh based on category name
+        if (categorySlug.includes('sofa')) {
+          build3DSofa(productMeshGroup);
+        } else if (categorySlug.includes('chair') || categorySlug.includes('seating')) {
+          build3DChair(productMeshGroup);
+        } else if (categorySlug.includes('table') || categorySlug.includes('workstation')) {
+          build3DTable(productMeshGroup);
+        } else {
+          build3DCabinet(productMeshGroup);
+        }
       }
 
       window.addEventListener('resize', onWindowResize);
@@ -507,6 +557,111 @@
         if (renderer && scene && camera) renderer.render(scene, camera);
       }
       animate();
+    }
+
+    function loadGLTFModel(glbUrl, onFinish) {
+      if (!scene || !productMeshGroup) return;
+
+      const container = document.getElementById('canvas-3d');
+      let loadingOverlay = document.getElementById('model-3d-loader');
+      if (!loadingOverlay) {
+        loadingOverlay = document.createElement('div');
+        loadingOverlay.id = 'model-3d-loader';
+        loadingOverlay.className = 'model-3d-loading-overlay';
+        loadingOverlay.innerHTML = `
+          <div class="model-3d-spinner"></div>
+          <div class="model-3d-loading-text" id="model-3d-progress">Loading 3D Model...</div>
+        `;
+        container.parentElement.appendChild(loadingOverlay);
+      }
+      loadingOverlay.style.display = 'flex';
+      loadingOverlay.style.opacity = '1';
+
+      if (gltfCache[glbUrl]) {
+        showCachedModel(gltfCache[glbUrl]);
+        loadingOverlay.style.opacity = '0';
+        setTimeout(() => { loadingOverlay.style.display = 'none'; }, 300);
+        if (onFinish) onFinish();
+        return;
+      }
+
+      if (!gltfLoader) {
+        gltfLoader = new THREE.GLTFLoader();
+      }
+
+      const progressEl = document.getElementById('model-3d-progress');
+
+      gltfLoader.load(
+        glbUrl,
+        function (gltf) {
+          const model = gltf.scene;
+          
+          // Calculate bounding box and center
+          const box = new THREE.Box3().setFromObject(model);
+          const size = box.getSize(new THREE.Vector3());
+          const center = box.getCenter(new THREE.Vector3());
+
+          // Center geometry
+          model.position.x = -center.x;
+          model.position.y = -box.min.y;
+          model.position.z = -center.z;
+
+          // Normalize scale to fit viewer nicely
+          const maxDim = Math.max(size.x, size.y, size.z);
+          const targetScale = 2.4 / (maxDim || 1);
+          
+          const wrapper = new THREE.Group();
+          wrapper.add(model);
+          wrapper.scale.set(targetScale, targetScale, targetScale);
+          wrapper.position.set(0, -0.4, 0);
+
+          // Configure shadows and material updates
+          model.traverse(function (child) {
+            if (child.isMesh) {
+              child.castShadow = true;
+              child.receiveShadow = true;
+              if (child.material) {
+                child.material.side = THREE.DoubleSide;
+                if (child.material.isMeshStandardMaterial) {
+                  child.material.envMapIntensity = 1.2;
+                  child.material.needsUpdate = true;
+                }
+              }
+            }
+          });
+
+          gltfCache[glbUrl] = wrapper;
+          showCachedModel(wrapper);
+
+          loadingOverlay.style.opacity = '0';
+          setTimeout(() => { loadingOverlay.style.display = 'none'; }, 300);
+          if (onFinish) onFinish();
+        },
+        function (xhr) {
+          if (xhr.lengthComputable && progressEl) {
+            const percent = Math.round((xhr.loaded / xhr.total) * 100);
+            progressEl.innerText = `Loading 3D Model... ${percent}%`;
+          }
+        },
+        function (error) {
+          console.error('Error loading GLTF model:', error);
+          if (progressEl) progressEl.innerText = 'Rendered default view.';
+          setTimeout(() => {
+            loadingOverlay.style.display = 'none';
+          }, 600);
+        }
+      );
+    }
+
+    function showCachedModel(wrapper) {
+      while (productMeshGroup.children.length > 0) {
+        productMeshGroup.remove(productMeshGroup.children[0]);
+      }
+      productMeshGroup.add(wrapper);
+      if (controls) {
+        controls.target.set(0, 0.25, 0);
+        controls.update();
+      }
     }
 
     function build3DSofa(group) {
@@ -823,6 +978,32 @@
         }
       });
 
+      // Show Hero 3D Button if product has 3D
+      const btnHero3D = document.getElementById('btn-hero-3d');
+      if (btnHero3D && (product.has3D || product.model3d)) {
+        btnHero3D.style.display = 'inline-flex';
+      }
+
+      window.open3DView = function () {
+        scrollToConfigurator();
+        if (!is3DActive) {
+          toggle3dBtn.click();
+        }
+      };
+
+      window.triggerARView = function () {
+        const activeFin = (currentProduct && currentProduct.finishes) ? currentProduct.finishes.find(f => f.name === document.getElementById('active-finish-name').innerText) : null;
+        const currentGLB = (activeFin && activeFin.model3d) ? activeFin.model3d : (currentProduct && currentProduct.model3d ? currentProduct.model3d : null);
+        if (currentGLB) {
+          if (!is3DActive) {
+            toggle3dBtn.click();
+          }
+          alert('3D Model loaded in high precision viewport! You can rotate 360°, zoom in to inspect details, and pan around the table.');
+        } else {
+          alert('Opening AR view... Scan QR code on your mobile device.');
+        }
+      };
+
       // Populate Related Products
       const relatedRow = document.getElementById('related-products-row');
       if (relatedRow) {
@@ -1076,8 +1257,15 @@
       // Update finish name indicator
       document.getElementById('active-finish-name').innerText = finishName;
 
-      // Update 3D Model primary material color dynamically if 3D active
-      if (mainMaterial && colorHex) {
+      // Update 3D Model dynamically if in 3D active mode or model is attached
+      if (currentProduct && currentProduct.finishes) {
+        const matchedFin = currentProduct.finishes.find(f => f.name === finishName || f.color === colorHex);
+        if (matchedFin && matchedFin.model3d) {
+          loadGLTFModel(matchedFin.model3d);
+        } else if (mainMaterial && colorHex) {
+          mainMaterial.color.set(colorHex);
+        }
+      } else if (mainMaterial && colorHex) {
         mainMaterial.color.set(colorHex);
       }
 
@@ -1161,11 +1349,8 @@
     }
   </script>
 
-  <!-- External JS Dependencies -->
-  <script src="product-data.js?v=20260722_final"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
-  <script src="main.js?v=20260722_final"></script>
+  <!-- Main Application Script -->
+  <script src="main.js"></script>
 
   <!-- Custom Cursor Elements -->
   <div class="custom-cursor" id="customCursor">
